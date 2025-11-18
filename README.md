@@ -8,5 +8,7 @@ There's usually something unique about each file that can be reused in the futur
 <ul>
   <li>color-interpolation-filters="sRGB" makes Gaussian blurs look much nicer.</li>
   <li>stdDeviation="0 25" turns Gaussian blur into Motion blur, in "X Y" format.</li>
+  <li>gradientTransform="scale(1,0.7)" turns circular into oval gradient.</li>
+  <li>transform-origin="center bottom" sets the transform pivot point.</li>
 </ul>
 
