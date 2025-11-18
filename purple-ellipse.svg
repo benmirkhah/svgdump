@@ -1,0 +1,32 @@
+<svg viewBox="0 0 3000 1500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>   
+    :root {
+      --bgc1: #0c0c20;
+      --bgc2: #1f1731;
+      --bgc3: #643e6d;
+      --bgc4: #9c5b9e;
+      --bgc5: #b968b9;
+      --bgc6: #c270c2;
+    }
+  </style>
+  <filter id="gaussianblur">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="0 25" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+  </filter>
+  <defs>
+    <radialGradient id="purplebg" gradientUnits="userSpaceOnUse" 
+      cx="1500" cy="1600" r="3000" transform-origin="center bottom" gradientTransform="scale(1,0.7)">
+      <stop offset="0.20" stop-color="var(--bgc1)" stop-opacity="1"/>
+      <stop offset="0.30" stop-color="var(--bgc2)" stop-opacity="1"/>
+      <stop offset="0.45" stop-color="var(--bgc3)" stop-opacity="1"/>
+      <stop offset="0.57" stop-color="var(--bgc4)" stop-opacity="1"/>
+      <stop offset="0.61" stop-color="var(--bgc5)" stop-opacity="1"/>
+      <stop offset="0.65" stop-color="var(--bgc6)" stop-opacity="1"/>
+      <stop offset="0.67" stop-color="var(--bgc6)" stop-opacity="0.75"/>
+      <stop offset="0.68" stop-color="var(--bgc6)" stop-opacity="0.5"/>
+      <stop offset="0.69" stop-color="var(--bgc6)" stop-opacity="0.25"/>
+      <stop offset="0.70" stop-color="var(--bgc6)" stop-opacity="0"/>
+      <stop offset="1.00" stop-color="none"        stop-opacity="0"/>
+    </radialGradient>
+  </defs>    
+  <rect width="6000" height="3000" fill="url(#purplebg)" filter="url(#gaussianblur)" />
+</svg>
