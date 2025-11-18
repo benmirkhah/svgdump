@@ -1,0 +1,2 @@
+# svgdump
+SVG related dumpster
