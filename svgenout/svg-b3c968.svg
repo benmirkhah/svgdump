@@ -1,0 +1,102 @@
+<svg viewBox="0 0 1920 957" id="svg-b3c968" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+text { font-size:0.65em; }
+#svg-b3c968 {
+  --c0:  #00000000; 
+  --c1:  #bf982a91;  --c2:  #c70b9e6b;  --c3:  #54fd4f10;  --c4:  #ea7ffc6a;  --c5:  #d8c57488;
+  --c6:  #c65ca586;  --c7:  #10771c52;  --c8:  #d6e7c424;  --c9:  #9190ff2f;  --c10: #8f9fa15a;
+  --c11: #e579a3dc;  --c12: #9228857d;  --c13: #811321a6;  --c14: #61a4c9e0;  --c15: #4ad62632;
+  --c16: #f513f3c9;  --c17: #43fb242c;  --c18: #ce398e16;  --c19: #e031b37c;  --c20: #ad7c7b87;
+  --c21: #7a223290;  --c22: #ed9adbf3;  --c23: #e653e821;  --c24: #cc1d8a7e;  --c25: #6464e528;
+  --c26: #2397c912;  --c27: #2fa2860f;  --c28: #1834c001;  --c29: #b38fc8af;  --c30: #15f174e5;
+  --c31: #7d23895e;  --c32: #c2437ba4;  --c33: #56b60c7b;  --c34: #56214d0f;  --c35: #832548a4;
+  --c36: #8f44bf40;  --c37: #645b873e;  --c38: #d2c29a02;  --c39: #6faf471b;  --c40: #e710f339;
+  --c41: #4a2f5d94;  --c42: #24d4aa8e;  --c43: #554262fe;  --c44: #18e70d7e;  --c45: #ed1ada13;
+  --c46: #9d7efc6f;  --c47: #8697ec80;  --c48: #2aebcb45;  --c49: #0513a84d;  --c50: #87332e27;
+  --c51: #48e2152e;  --c52: #6fd65dfc;  --c53: #4e842538;  --c54: #7da4a95c;  --c55: #98dbbdf0;
+  --c56: #9cb7a7b0;  --c57: #3afcc0ff;  --c58: #afe4b669;  --c59: #e20dbbfe;  --c60: #5b889638;
+  --c61: #dd621193;  --c62: #62bca09e;  --c63: #599a8ae4;  --c64: #d8dee4dd;  --c65: #ed6689ef;
+  --c66: #05c1272d;  --c67: #19951272;  --c68: #bef1b4e5;  --c69: #19028547;  --c70: #464d3752;
+  --c71: #35188424;  --c72: #4667a99a;  --c73: #cbccc39c;  --c74: #3de58ec9;  --c75: #c636d016;
+  --c76: #9fa0a608;  --c77: #e6277c22;  --c78: #980f4ab6;  --c79: #2cec6cda;  --c80: #501c2e0b;
+  --c81: #59364800;  --c82: #0318113d;  --c83: #8cea97a0;  --c84: #b8b2b476;  --c85: #efbde4d3;
+  --c86: #09b89d50;  --c87: #10533205;  --c88: #656b2d13;  --c89: #313ea500;  --c90: #8269533d;
+  --c91: #4b15308e;  --c92: #a98a0227;  --c93: #095d1fed;  --c94: #ecf000bc;  --c95: #18c50d0f;
+  --c96: #cc64c8e9;  --c97: #6177b9e1;  --c98: #083beb55;  --c99: #feed1a6a;  --c100: #5c8a0e21;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <linearGradient id="grad-b3c968-1" gradientUnits="userSpaceOnUse" x1="470" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c58)"/>
+    <stop offset="0.25" stop-color="var(--c84)"/>
+    <stop offset="0.50" stop-color="var(--c56)"/>
+    <stop offset="0.75" stop-color="var(--c91)"/>
+    <stop offset="1.00" stop-color="var(--c83)"/>
+  </linearGradient>
+  <radialGradient id="grad-b3c968-2" gradientUnits="userSpaceOnUse" cx="1450" cy="640" r="1140">
+    <stop offset="0.00" stop-color="var(--c35)"/>
+    <stop offset="0.25" stop-color="var(--c37)"/>
+    <stop offset="0.50" stop-color="var(--c67)"/>
+    <stop offset="0.75" stop-color="var(--c19)"/>
+    <stop offset="1.00" stop-color="var(--c94)"/>
+  </radialGradient>
+  <linearGradient id="grad-b3c968-3" gradientUnits="userSpaceOnUse" x1="450" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c64)"/>
+    <stop offset="0.25" stop-color="var(--c35)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c50)"/>
+    <stop offset="1.00" stop-color="var(--c23)"/>
+  </linearGradient>
+  <radialGradient id="grad-b3c968-4" gradientUnits="userSpaceOnUse" cx="850" cy="350" r="1660">
+    <stop offset="0.00" stop-color="var(--c15)"/>
+    <stop offset="0.25" stop-color="var(--c36)"/>
+    <stop offset="0.50" stop-color="var(--c78)"/>
+    <stop offset="0.75" stop-color="var(--c30)"/>
+    <stop offset="1.00" stop-color="var(--c28)"/>
+  </radialGradient>
+  <linearGradient id="grad-b3c968-5" gradientUnits="userSpaceOnUse" x1="110" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c90)"/>
+    <stop offset="0.25" stop-color="var(--c40)"/>
+    <stop offset="0.50" stop-color="var(--c23)"/>
+    <stop offset="0.75" stop-color="var(--c17)"/>
+    <stop offset="1.00" stop-color="var(--c49)"/>
+  </linearGradient>
+<filter id="gaussianblur">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="34 7" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="motionblurx">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="87 0" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="motionblury">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="0 4" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="glow">
+  <feDropShadow in="FillPaint" dx="0" dy="0" stdDeviation="11" flood-color="var(--c72)" />
+</filter>
+<filter id="pointlighting">
+  <feDiffuseLighting in="SourceGraphic" result="light" lighting-color="var(--c75)">
+    <fePointLight x="425" y="793" z="879" />
+  </feDiffuseLighting>
+  <feComposite in="SourceGraphic" in2="light" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" />
+</filter>
+<filter id="dance" color-interpolation-filters="linearRGB" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse">
+  <feMorphology operator="dilate" radius="8 8" in="SourceAlpha" result="morphology"/>
+  <feFlood flood-color="#000000" flood-opacity="0.5" result="flood"/>
+  <feComposite in="flood" in2="morphology" operator="in" result="composite"/>
+  <feComposite in="composite" in2="SourceAlpha" operator="out" result="composite1"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.01 0.02" numOctaves="1" seed="0" stitchTiles="stitch" result="turbulence"/>
+  <feDisplacementMap in="composite1" in2="turbulence" scale="17" xChannelSelector="A" yChannelSelector="A" result="displacementMap"/>
+  <feMerge result="merge">
+    <feMergeNode in="SourceGraphic" result="mergeNode"/>
+    <feMergeNode in="displacementMap" result="mergeNode1"/>
+  </feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" id="box-b3c968"  width="1920" height="957"   fill="#333F" ></rect>
+<circle id="circ-b3c968-1"  r="112.5" cx="210" cy="210"  fill="url(#grad-b3c968-1)"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-b3c968-2"  r="128.125" cx="221" cy="221"  fill="url(#grad-b3c968-2)"  stroke="" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-b3c968-3"  r="147.65625" cx="233.10000000000005" cy="233.10000000000005"  fill="url(#grad-b3c968-3)"  stroke="" stroke-width="200" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-b3c968-4"  r="172.0703125" cx="246.41000000000005" cy="246.41000000000005"  fill="url(#grad-b3c968-4)"  stroke="" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-b3c968-5"  r="202.587890625" cx="261.05100000000004" cy="261.05100000000004"  fill="url(#grad-b3c968-5)"  onclick="this.style.fill = randomColor()"></circle>
+</svg>

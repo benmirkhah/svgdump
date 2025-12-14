@@ -1,0 +1,469 @@
+<svg viewBox="0 0 1920 957" id="svg-bf4395" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+text { font-size:0.65em; }
+#svg-bf4395 {
+  --c0:  #00000000; 
+  --c1:  #a11095cb;  --c2:  #81b2ca70;  --c3:  #aefe9b70;  --c4:  #cf73da03;  --c5:  #9060345a;
+  --c6:  #d8ae7391;  --c7:  #4fe4c6df;  --c8:  #8f314908;  --c9:  #f338eef7;  --c10: #8f9b6222;
+  --c11: #22896e45;  --c12: #4e43606c;  --c13: #ca8fecc6;  --c14: #acbf2827;  --c15: #01d40b00;
+  --c16: #ac1e6cf4;  --c17: #cb7324bb;  --c18: #9cfbad86;  --c19: #800a79c4;  --c20: #2e3cd35b;
+  --c21: #20fddebb;  --c22: #e7373d14;  --c23: #8c5296ee;  --c24: #fab20eae;  --c25: #1512f5aa;
+  --c26: #b414270c;  --c27: #12f4e5cd;  --c28: #497fef92;  --c29: #7cd588ef;  --c30: #b1083afe;
+  --c31: #8d08f3ec;  --c32: #67c00f65;  --c33: #4c0498bc;  --c34: #d58bc847;  --c35: #1772a31d;
+  --c36: #764655a4;  --c37: #528e003c;  --c38: #a8ebb885;  --c39: #75968905;  --c40: #923c3b77;
+  --c41: #8163eb45;  --c42: #da4a3918;  --c43: #c08c9abb;  --c44: #933a71cd;  --c45: #0924d919;
+  --c46: #2a2043e1;  --c47: #4ad9584f;  --c48: #75e49186;  --c49: #ef051041;  --c50: #66ab37d4;
+  --c51: #b0fadf57;  --c52: #129b77b1;  --c53: #9180f5ab;  --c54: #d510b922;  --c55: #59fb9f57;
+  --c56: #5938cd9a;  --c57: #69f9683a;  --c58: #77e8ee72;  --c59: #2a222fa6;  --c60: #1274205a;
+  --c61: #2a29765c;  --c62: #35cbeee9;  --c63: #0954b314;  --c64: #66c2f315;  --c65: #583bb9f2;
+  --c66: #d5e844d1;  --c67: #19941e3f;  --c68: #0a690005;  --c69: #6c6f8458;  --c70: #7835281d;
+  --c71: #009543ad;  --c72: #1d3b39f2;  --c73: #fde625f1;  --c74: #102faf09;  --c75: #56e7fb15;
+  --c76: #946b447b;  --c77: #80b20430;  --c78: #a3f4cda5;  --c79: #ca51a819;  --c80: #ce4e3025;
+  --c81: #b149dee3;  --c82: #c779d8b7;  --c83: #1fac59e3;  --c84: #870e5cd7;  --c85: #c9abfbe3;
+  --c86: #56c62634;  --c87: #fc24b720;  --c88: #075e7929;  --c89: #a3953b4a;  --c90: #ef7e0cb6;
+  --c91: #4f5b0f1f;  --c92: #df3265af;  --c93: #aea3289c;  --c94: #29c794fc;  --c95: #41aa319c;
+  --c96: #48101860;  --c97: #ed76b601;  --c98: #0e03c0f4;  --c99: #5ab38ab0;  --c100: #edb08dee;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <linearGradient id="grad-bf4395-1" gradientUnits="userSpaceOnUse" x1="660" y1="250" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c38)"/>
+    <stop offset="0.25" stop-color="var(--c82)"/>
+    <stop offset="0.50" stop-color="var(--c25)"/>
+    <stop offset="0.75" stop-color="var(--c38)"/>
+    <stop offset="1.00" stop-color="var(--c57)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-2" gradientUnits="userSpaceOnUse" cx="730" cy="830" r="1890">
+    <stop offset="0.00" stop-color="var(--c60)"/>
+    <stop offset="0.25" stop-color="var(--c97)"/>
+    <stop offset="0.50" stop-color="var(--c73)"/>
+    <stop offset="0.75" stop-color="var(--c82)"/>
+    <stop offset="1.00" stop-color="var(--c61)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-3" gradientUnits="userSpaceOnUse" x1="860" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c90)"/>
+    <stop offset="0.25" stop-color="var(--c41)"/>
+    <stop offset="0.50" stop-color="var(--c84)"/>
+    <stop offset="0.75" stop-color="var(--c84)"/>
+    <stop offset="1.00" stop-color="var(--c9)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-4" gradientUnits="userSpaceOnUse" cx="1730" cy="200" r="1090">
+    <stop offset="0.00" stop-color="var(--c55)"/>
+    <stop offset="0.25" stop-color="var(--c91)"/>
+    <stop offset="0.50" stop-color="var(--c59)"/>
+    <stop offset="0.75" stop-color="var(--c94)"/>
+    <stop offset="1.00" stop-color="var(--c40)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-5" gradientUnits="userSpaceOnUse" x1="460" y1="230" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c82)"/>
+    <stop offset="0.25" stop-color="var(--c58)"/>
+    <stop offset="0.50" stop-color="var(--c9)"/>
+    <stop offset="0.75" stop-color="var(--c2)"/>
+    <stop offset="1.00" stop-color="var(--c37)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-6" gradientUnits="userSpaceOnUse" cx="1270" cy="200" r="1450">
+    <stop offset="0.00" stop-color="var(--c34)"/>
+    <stop offset="0.25" stop-color="var(--c50)"/>
+    <stop offset="0.50" stop-color="var(--c18)"/>
+    <stop offset="0.75" stop-color="var(--c53)"/>
+    <stop offset="1.00" stop-color="var(--c54)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-7" gradientUnits="userSpaceOnUse" x1="570" y1="140" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c1)"/>
+    <stop offset="0.25" stop-color="var(--c37)"/>
+    <stop offset="0.50" stop-color="var(--c15)"/>
+    <stop offset="0.75" stop-color="var(--c86)"/>
+    <stop offset="1.00" stop-color="var(--c36)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-8" gradientUnits="userSpaceOnUse" cx="860" cy="760" r="1220">
+    <stop offset="0.00" stop-color="var(--c25)"/>
+    <stop offset="0.25" stop-color="var(--c81)"/>
+    <stop offset="0.50" stop-color="var(--c26)"/>
+    <stop offset="0.75" stop-color="var(--c81)"/>
+    <stop offset="1.00" stop-color="var(--c31)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-9" gradientUnits="userSpaceOnUse" x1="920" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c12)"/>
+    <stop offset="0.25" stop-color="var(--c29)"/>
+    <stop offset="0.50" stop-color="var(--c91)"/>
+    <stop offset="0.75" stop-color="var(--c90)"/>
+    <stop offset="1.00" stop-color="var(--c49)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-10" gradientUnits="userSpaceOnUse" cx="1260" cy="170" r="1170">
+    <stop offset="0.00" stop-color="var(--c83)"/>
+    <stop offset="0.25" stop-color="var(--c18)"/>
+    <stop offset="0.50" stop-color="var(--c12)"/>
+    <stop offset="0.75" stop-color="var(--c55)"/>
+    <stop offset="1.00" stop-color="var(--c56)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-11" gradientUnits="userSpaceOnUse" x1="850" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c98)"/>
+    <stop offset="0.25" stop-color="var(--c41)"/>
+    <stop offset="0.50" stop-color="var(--c18)"/>
+    <stop offset="0.75" stop-color="var(--c31)"/>
+    <stop offset="1.00" stop-color="var(--c77)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-12" gradientUnits="userSpaceOnUse" cx="380" cy="190" r="1820">
+    <stop offset="0.00" stop-color="var(--c47)"/>
+    <stop offset="0.25" stop-color="var(--c39)"/>
+    <stop offset="0.50" stop-color="var(--c25)"/>
+    <stop offset="0.75" stop-color="var(--c73)"/>
+    <stop offset="1.00" stop-color="var(--c48)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-13" gradientUnits="userSpaceOnUse" x1="780" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c22)"/>
+    <stop offset="0.25" stop-color="var(--c15)"/>
+    <stop offset="0.50" stop-color="var(--c31)"/>
+    <stop offset="0.75" stop-color="var(--c42)"/>
+    <stop offset="1.00" stop-color="var(--c50)"/>
+  </linearGradient>
+  <radialGradient id="grad-bf4395-14" gradientUnits="userSpaceOnUse" cx="560" cy="550" r="1650">
+    <stop offset="0.00" stop-color="var(--c72)"/>
+    <stop offset="0.25" stop-color="var(--c26)"/>
+    <stop offset="0.50" stop-color="var(--c22)"/>
+    <stop offset="0.75" stop-color="var(--c86)"/>
+    <stop offset="1.00" stop-color="var(--c10)"/>
+  </radialGradient>
+  <linearGradient id="grad-bf4395-15" gradientUnits="userSpaceOnUse" x1="520" y1="220" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c66)"/>
+    <stop offset="0.25" stop-color="var(--c90)"/>
+    <stop offset="0.50" stop-color="var(--c38)"/>
+    <stop offset="0.75" stop-color="var(--c62)"/>
+    <stop offset="1.00" stop-color="var(--c98)"/>
+  </linearGradient>
+<filter id="gaussianblur">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="22 54" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="motionblurx">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="74 0" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="motionblury">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="0 6" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="glow">
+  <feDropShadow in="FillPaint" dx="0" dy="0" stdDeviation="5" flood-color="var(--c65)" />
+</filter>
+<filter id="pointlighting">
+  <feDiffuseLighting in="SourceGraphic" result="light" lighting-color="var(--c12)">
+    <fePointLight x="1321" y="693" z="791" />
+  </feDiffuseLighting>
+  <feComposite in="SourceGraphic" in2="light" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" />
+</filter>
+<filter id="dance" color-interpolation-filters="linearRGB" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse">
+  <feMorphology operator="dilate" radius="8 8" in="SourceAlpha" result="morphology"/>
+  <feFlood flood-color="#000000" flood-opacity="0.5" result="flood"/>
+  <feComposite in="flood" in2="morphology" operator="in" result="composite"/>
+  <feComposite in="composite" in2="SourceAlpha" operator="out" result="composite1"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.01 0.02" numOctaves="1" seed="0" stitchTiles="stitch" result="turbulence"/>
+  <feDisplacementMap in="composite1" in2="turbulence" scale="17" xChannelSelector="A" yChannelSelector="A" result="displacementMap"/>
+  <feMerge result="merge">
+    <feMergeNode in="SourceGraphic" result="mergeNode"/>
+    <feMergeNode in="displacementMap" result="mergeNode1"/>
+  </feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" id="box-bf4395"  width="1920" height="957"   fill="#333F" ></rect>
+<rect   id="rect-bf4395-1" x="540" y="262" width="277" height="277"  fill="var(--c12)"  stroke="#abe40709" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.33"  filter="url(#motionblurx)"  onclick="this.style.fill = randomColor()" class="square" ></rect>
+<circle id="circ-bf4395-2"  r="68" cx="1021" cy="113"  fill="url(#grad-bf4395-2)"  stroke="#e3fd0d7f" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#dance)"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-bf4395-3"  r="312" cx="992" cy="184"  fill="url(#grad-bf4395-3)"  filter="url(#gaussianblur)"  onclick="this.style.fill = randomColor()"></circle>
+  <polygon id="triangle-bf4395-4-5" class="triangle" fill="url(#grad-bf4395-4)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"  points="1639,240 1444,352 1445,127 ">
+  </polygon>
+
+<circle id="circ-bf4395-5"  r="308" cx="280" cy="487"  fill="url(#grad-bf4395-5)"  stroke="#e3fd0d7f" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#dance)"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-bf4395-6"  r="170" cx="1455" cy="23"  fill="url(#grad-bf4395-6)"  filter="url(#dance)"  onclick="this.style.fill = randomColor()"></circle>
+<circle id="circ-bf4395-7"  r="554" cx="228" cy="150"  fill="url(#grad-bf4395-7)"  stroke="#e3fd0d7f" stroke-width="89" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#motionblurx)"  onclick="this.style.fill = randomColor()"></circle>
+<rect   id="rect-bf4395-8" x="292" y="133" width="340" height="198"  fill="url(#grad-bf4395-8)"  filter="url(#motionblury)"  onclick="this.style.fill = randomColor()" class="rectangle" ></rect>
+<path   id="cloud-bf4395-9-a" class="cloud arc"   onclick="this.style.fill = randomColor()"  fill="url(#grad-bf4395-9)"  filter="url(#gaussianblur)"  d="
+  M 1020 145 
+  A 45,45 0,0,1 1670,225
+  A 45,45 0,0,1 2145,155
+  A 45,45 0,0,1 1910,490
+  A 45,45 0,0,1 2090,695
+  A 45,45 0,0,1 1345,770
+  A 45,45 0,0,1 895,640
+  A 45,45 0,0,1 830,380
+  A 45,45 0,0,1 1020,145
+  Z" >
+</path>
+  <polygon id="triangle-bf4395-10-9" class="triangle" fill="url(#grad-bf4395-10)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"  points="1209,490 999,611 1000,368 ">
+  </polygon>
+
+  <polygon id="oddagon-bf4395-11-4" class="oddagon poly13" fill="url(#grad-bf4395-11)"  stroke="#05bb2815" stroke-width="103" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.33"  filter="url(#dance)"  onclick="this.style.fill = randomColor()"  points="689,640 660,760 577,854 461,898 337,883 235,812 177,702 177,577 235,467 337,396 461,381 577,426 660,519 ">
+  </polygon>
+
+  <polygon id="hexagon-bf4395-12-14" class="hexagon" fill="url(#grad-bf4395-12)"  filter="url(#motionblurx)"  onclick="this.style.fill = randomColor()"  points="1629,810 1479,1069 1179,1069 1030,809 1180,550 1480,550 ">
+  </polygon>
+
+<g id="flower-bf4395-13" class="flower"  fill="url(#grad-bf4395-13)"  filter="url(#glow)" >
+  <path id="petal-bf4395-13-1" class="flower petal" fill="url(#grad-bf4395-13)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"   d="
+    M 140 630 
+    L 349,630
+    A 45,45 0,0,1 204,829
+    L 140,630
+    Z">
+  </path>
+  <path id="petal-bf4395-13-2" class="flower petal" fill="url(#grad-bf4395-13)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"   d="
+    M 140 630 
+    L 204,829
+    A 45,45 0,0,1 -30,753
+    L 140,630
+    Z">
+  </path>
+  <path id="petal-bf4395-13-3" class="flower petal" fill="url(#grad-bf4395-13)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"   d="
+    M 140 630 
+    L -30,753
+    A 45,45 0,0,1 -29,506
+    L 140,630
+    Z">
+  </path>
+  <path id="petal-bf4395-13-4" class="flower petal" fill="url(#grad-bf4395-13)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"   d="
+    M 140 630 
+    L -29,506
+    A 45,45 0,0,1 205,430
+    L 140,630
+    Z">
+  </path>
+  <path id="petal-bf4395-13-5" class="flower petal" fill="url(#grad-bf4395-13)"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"   d="
+    M 140 630 
+    L 205,430
+    A 45,45 0,0,1 349,630
+    L 140,630
+    Z">
+  </path>
+</g>
+  <polygon id="triangle-bf4395-14-6" class="triangle" fill="url(#grad-bf4395-14)"  stroke="#3fcd8d84" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.33"  filter="url(#glow)"  onclick="this.style.fill = randomColor()"  points="349,200 -25,416 -24,-16 ">
+  </polygon>
+
+  <polygon id="dexagon-bf4395-15-4" class="dexagon" fill="url(#grad-bf4395-15)"  stroke="#6d774c61" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.33"  filter="url(#pointlighting)"  onclick="this.style.fill = randomColor()"  points="989,520 968,584 913,624 845,624 790,584 770,519 791,455 846,415 914,415 969,455 ">
+  </polygon>
+
+<path d=" M 1055,482 L 1063,474 M 1063,482 L 1055,474" stroke="#FFF3" class="grid" />
+<path d=" M 1055,482 L 1063,474 M 1063,482 L 1055,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1055" y="492">1</text><circle cx="1059" cy="478" r="4" stroke="#43cd2185" class="point" /> 
+<path d=" M 1042,532 L 1050,524 M 1050,532 L 1042,524" stroke="#FFF3" class="grid" />
+<path d=" M 1042,532 L 1050,524 M 1050,532 L 1042,524" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1042" y="542">2</text><circle cx="1046" cy="528" r="5" stroke="#ff7525ed" class="point" /> 
+<path d=" M 1005,568 L 1013,560 M 1013,568 L 1005,560" stroke="#FFF3" class="grid" />
+<path d=" M 1005,568 L 1013,560 M 1013,568 L 1005,560" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1005" y="578">3</text><circle cx="1009" cy="564" r="6" stroke="#f58a4b12" class="point" /> 
+<path d=" M 955,581 L 963,573 M 963,581 L 955,573" stroke="#FFF3" class="grid" />
+<path d=" M 955,581 L 963,573 M 963,581 L 955,573" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="591">4</text><circle cx="959" cy="577" r="7" stroke="#10fde7fd" class="point" /> 
+<path d=" M 905,568 L 913,560 M 913,568 L 905,560" stroke="#FFF3" class="grid" />
+<path d=" M 905,568 L 913,560 M 913,568 L 905,560" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="905" y="578">5</text><circle cx="909" cy="564" r="8" stroke="#0ad57f49" class="point" /> 
+<path d=" M 869,531 L 877,523 M 877,531 L 869,523" stroke="#FFF3" class="grid" />
+<path d=" M 869,531 L 877,523 M 877,531 L 869,523" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="869" y="541">6</text><circle cx="873" cy="527" r="9" stroke="#005edea7" class="point" /> 
+<path d=" M 856,481 L 864,473 M 864,481 L 856,473" stroke="#FFF3" class="grid" />
+<path d=" M 856,481 L 864,473 M 864,481 L 856,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="856" y="491">7</text><circle cx="860" cy="477" r="10" stroke="#b9303e1c" class="point" /> 
+<path d=" M 869,431 L 877,423 M 877,431 L 869,423" stroke="#FFF3" class="grid" />
+<path d=" M 869,431 L 877,423 M 877,431 L 869,423" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="869" y="441">8</text><circle cx="873" cy="427" r="11" stroke="#3ea20c62" class="point" /> 
+<path d=" M 906,395 L 914,387 M 914,395 L 906,387" stroke="#FFF3" class="grid" />
+<path d=" M 906,395 L 914,387 M 914,395 L 906,387" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="906" y="405">9</text><circle cx="910" cy="391" r="12" stroke="#58030fe8" class="point" /> 
+<path d=" M 956,382 L 964,374 M 964,382 L 956,374" stroke="#FFF3" class="grid" />
+<path d=" M 956,382 L 964,374 M 964,382 L 956,374" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="392">10</text><circle cx="960" cy="378" r="13" stroke="#b4a4709f" class="point" /> 
+<path d=" M 1006,395 L 1014,387 M 1014,395 L 1006,387" stroke="#FFF3" class="grid" />
+<path d=" M 1006,395 L 1014,387 M 1014,395 L 1006,387" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1006" y="405">11</text><circle cx="1010" cy="391" r="14" stroke="#079c9b5c" class="point" /> 
+<path d=" M 1042,432 L 1050,424 M 1050,432 L 1042,424" stroke="#FFF3" class="grid" />
+<path d=" M 1042,432 L 1050,424 M 1050,432 L 1042,424" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1042" y="442">12</text><circle cx="1046" cy="428" r="15" stroke="#e512b97d" class="point" /> 
+<path d=" M 1155,482 L 1163,474 M 1163,482 L 1155,474" stroke="#FFF3" class="grid" />
+<path d=" M 1155,482 L 1163,474 M 1163,482 L 1155,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1155" y="492">13</text><circle cx="1159" cy="478" r="16" stroke="#c7868998" class="point" /> 
+<path d=" M 1129,582 L 1137,574 M 1137,582 L 1129,574" stroke="#FFF3" class="grid" />
+<path d=" M 1129,582 L 1137,574 M 1137,582 L 1129,574" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1129" y="592">14</text><circle cx="1133" cy="578" r="17" stroke="#7d99c908" class="point" /> 
+<path d=" M 1055,655 L 1063,647 M 1063,655 L 1055,647" stroke="#FFF3" class="grid" />
+<path d=" M 1055,655 L 1063,647 M 1063,655 L 1055,647" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1055" y="665">15</text><circle cx="1059" cy="651" r="18" stroke="#6526f35c" class="point" /> 
+<path d=" M 955,681 L 963,673 M 963,681 L 955,673" stroke="#FFF3" class="grid" />
+<path d=" M 955,681 L 963,673 M 963,681 L 955,673" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="691">16</text><circle cx="959" cy="677" r="19" stroke="#ea4f5e38" class="point" /> 
+<path d=" M 855,655 L 863,647 M 863,655 L 855,647" stroke="#FFF3" class="grid" />
+<path d=" M 855,655 L 863,647 M 863,655 L 855,647" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="855" y="665">17</text><circle cx="859" cy="651" r="20" stroke="#a16aa34c" class="point" /> 
+<path d=" M 782,581 L 790,573 M 790,581 L 782,573" stroke="#FFF3" class="grid" />
+<path d=" M 782,581 L 790,573 M 790,581 L 782,573" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="782" y="591">18</text><circle cx="786" cy="577" r="21" stroke="#feda5598" class="point" /> 
+<path d=" M 756,481 L 764,473 M 764,481 L 756,473" stroke="#FFF3" class="grid" />
+<path d=" M 756,481 L 764,473 M 764,481 L 756,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="756" y="491">19</text><circle cx="760" cy="477" r="22" stroke="#d2129852" class="point" /> 
+<path d=" M 782,381 L 790,373 M 790,381 L 782,373" stroke="#FFF3" class="grid" />
+<path d=" M 782,381 L 790,373 M 790,381 L 782,373" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="782" y="391">20</text><circle cx="786" cy="377" r="23" stroke="#708752d8" class="point" /> 
+<path d=" M 856,308 L 864,300 M 864,308 L 856,300" stroke="#FFF3" class="grid" />
+<path d=" M 856,308 L 864,300 M 864,308 L 856,300" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="856" y="318">21</text><circle cx="860" cy="304" r="24" stroke="#7f92d038" class="point" /> 
+<path d=" M 956,282 L 964,274 M 964,282 L 956,274" stroke="#FFF3" class="grid" />
+<path d=" M 956,282 L 964,274 M 964,282 L 956,274" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="292">22</text><circle cx="960" cy="278" r="25" stroke="#553ff314" class="point" /> 
+<path d=" M 1056,308 L 1064,300 M 1064,308 L 1056,300" stroke="#FFF3" class="grid" />
+<path d=" M 1056,308 L 1064,300 M 1064,308 L 1056,300" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1056" y="318">23</text><circle cx="1060" cy="304" r="26" stroke="#4ca6ec97" class="point" /> 
+<path d=" M 1129,382 L 1137,374 M 1137,382 L 1129,374" stroke="#FFF3" class="grid" />
+<path d=" M 1129,382 L 1137,374 M 1137,382 L 1129,374" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1129" y="392">24</text><circle cx="1133" cy="378" r="27" stroke="#f5cdc106" class="point" /> 
+<path d=" M 1255,482 L 1263,474 M 1263,482 L 1255,474" stroke="#FFF3" class="grid" />
+<path d=" M 1255,482 L 1263,474 M 1263,482 L 1255,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1255" y="492">25</text><circle cx="1259" cy="478" r="28" stroke="#a6d82dae" class="point" /> 
+<path d=" M 1215,632 L 1223,624 M 1223,632 L 1215,624" stroke="#FFF3" class="grid" />
+<path d=" M 1215,632 L 1223,624 M 1223,632 L 1215,624" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1215" y="642">26</text><circle cx="1219" cy="628" r="29" stroke="#242f06ee" class="point" /> 
+<path d=" M 1105,741 L 1113,733 M 1113,741 L 1105,733" stroke="#FFF3" class="grid" />
+<path d=" M 1105,741 L 1113,733 M 1113,741 L 1105,733" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1105" y="751">27</text><circle cx="1109" cy="737" r="30" stroke="#32642755" class="point" /> 
+<path d=" M 955,781 L 963,773 M 963,781 L 955,773" stroke="#FFF3" class="grid" />
+<path d=" M 955,781 L 963,773 M 963,781 L 955,773" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="791">28</text><circle cx="959" cy="777" r="31" stroke="#bd8d7868" class="point" /> 
+<path d=" M 805,741 L 813,733 M 813,741 L 805,733" stroke="#FFF3" class="grid" />
+<path d=" M 805,741 L 813,733 M 813,741 L 805,733" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="805" y="751">29</text><circle cx="809" cy="737" r="32" stroke="#78ed8ba9" class="point" /> 
+<path d=" M 696,631 L 704,623 M 704,631 L 696,623" stroke="#FFF3" class="grid" />
+<path d=" M 696,631 L 704,623 M 704,631 L 696,623" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="696" y="641">30</text><circle cx="700" cy="627" r="33" stroke="#7d575fef" class="point" /> 
+<path d=" M 656,481 L 664,473 M 664,481 L 656,473" stroke="#FFF3" class="grid" />
+<path d=" M 656,481 L 664,473 M 664,481 L 656,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="656" y="491">31</text><circle cx="660" cy="477" r="34" stroke="#ccca94d4" class="point" /> 
+<path d=" M 696,331 L 704,323 M 704,331 L 696,323" stroke="#FFF3" class="grid" />
+<path d=" M 696,331 L 704,323 M 704,331 L 696,323" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="696" y="341">32</text><circle cx="700" cy="327" r="35" stroke="#be4552fc" class="point" /> 
+<path d=" M 806,222 L 814,214 M 814,222 L 806,214" stroke="#FFF3" class="grid" />
+<path d=" M 806,222 L 814,214 M 814,222 L 806,214" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="806" y="232">33</text><circle cx="810" cy="218" r="36" stroke="#e3ecc77c" class="point" /> 
+<path d=" M 956,182 L 964,174 M 964,182 L 956,174" stroke="#FFF3" class="grid" />
+<path d=" M 956,182 L 964,174 M 964,182 L 956,174" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="192">34</text><circle cx="960" cy="178" r="37" stroke="#ec323901" class="point" /> 
+<path d=" M 1106,222 L 1114,214 M 1114,222 L 1106,214" stroke="#FFF3" class="grid" />
+<path d=" M 1106,222 L 1114,214 M 1114,222 L 1106,214" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1106" y="232">35</text><circle cx="1110" cy="218" r="38" stroke="#fc7a6828" class="point" /> 
+<path d=" M 1215,332 L 1223,324 M 1223,332 L 1215,324" stroke="#FFF3" class="grid" />
+<path d=" M 1215,332 L 1223,324 M 1223,332 L 1215,324" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1215" y="342">36</text><circle cx="1219" cy="328" r="39" stroke="#6056d5e5" class="point" /> 
+<path d=" M 1355,482 L 1363,474 M 1363,482 L 1355,474" stroke="#FFF3" class="grid" />
+<path d=" M 1355,482 L 1363,474 M 1363,482 L 1355,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1355" y="492">37</text><circle cx="1359" cy="478" r="40" stroke="#3b2a6c68" class="point" /> 
+<path d=" M 1302,682 L 1310,674 M 1310,682 L 1302,674" stroke="#FFF3" class="grid" />
+<path d=" M 1302,682 L 1310,674 M 1310,682 L 1302,674" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1302" y="692">38</text><circle cx="1306" cy="678" r="41" stroke="#b034f8d6" class="point" /> 
+<path d=" M 1155,828 L 1163,820 M 1163,828 L 1155,820" stroke="#FFF3" class="grid" />
+<path d=" M 1155,828 L 1163,820 M 1163,828 L 1155,820" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1155" y="838">39</text><circle cx="1159" cy="824" r="42" stroke="#9bbee413" class="point" /> 
+<path d=" M 955,881 L 963,873 M 963,881 L 955,873" stroke="#FFF3" class="grid" />
+<path d=" M 955,881 L 963,873 M 963,881 L 955,873" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="891">40</text><circle cx="959" cy="877" r="43" stroke="#601c88bb" class="point" /> 
+<path d=" M 755,828 L 763,820 M 763,828 L 755,820" stroke="#FFF3" class="grid" />
+<path d=" M 755,828 L 763,820 M 763,828 L 755,820" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="755" y="838">41</text><circle cx="759" cy="824" r="44" stroke="#2fcb3d67" class="point" /> 
+<path d=" M 609,681 L 617,673 M 617,681 L 609,673" stroke="#FFF3" class="grid" />
+<path d=" M 609,681 L 617,673 M 617,681 L 609,673" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="609" y="691">42</text><circle cx="613" cy="677" r="45" stroke="#682ecdff" class="point" /> 
+<path d=" M 556,481 L 564,473 M 564,481 L 556,473" stroke="#FFF3" class="grid" />
+<path d=" M 556,481 L 564,473 M 564,481 L 556,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="556" y="491">43</text><circle cx="560" cy="477" r="46" stroke="#3fceec54" class="point" /> 
+<path d=" M 609,281 L 617,273 M 617,281 L 609,273" stroke="#FFF3" class="grid" />
+<path d=" M 609,281 L 617,273 M 617,281 L 609,273" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="609" y="291">44</text><circle cx="613" cy="277" r="47" stroke="#8c465cb3" class="point" /> 
+<path d=" M 756,135 L 764,127 M 764,135 L 756,127" stroke="#FFF3" class="grid" />
+<path d=" M 756,135 L 764,127 M 764,135 L 756,127" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="756" y="145">45</text><circle cx="760" cy="131" r="48" stroke="#77b3c4a9" class="point" /> 
+<path d=" M 956,82 L 964,74 M 964,82 L 956,74" stroke="#FFF3" class="grid" />
+<path d=" M 956,82 L 964,74 M 964,82 L 956,74" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="92">46</text><circle cx="960" cy="78" r="49" stroke="#4d7fd9b1" class="point" /> 
+<path d=" M 1156,135 L 1164,127 M 1164,135 L 1156,127" stroke="#FFF3" class="grid" />
+<path d=" M 1156,135 L 1164,127 M 1164,135 L 1156,127" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1156" y="145">47</text><circle cx="1160" cy="131" r="50" stroke="#79621d7a" class="point" /> 
+<path d=" M 1302,282 L 1310,274 M 1310,282 L 1302,274" stroke="#FFF3" class="grid" />
+<path d=" M 1302,282 L 1310,274 M 1310,282 L 1302,274" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1302" y="292">48</text><circle cx="1306" cy="278" r="51" stroke="#ba223212" class="point" /> 
+<path d=" M 1455,482 L 1463,474 M 1463,482 L 1455,474" stroke="#FFF3" class="grid" />
+<path d=" M 1455,482 L 1463,474 M 1463,482 L 1455,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1455" y="492">49</text><circle cx="1459" cy="478" r="52" stroke="#8f2056eb" class="point" /> 
+<path d=" M 1388,732 L 1396,724 M 1396,732 L 1388,724" stroke="#FFF3" class="grid" />
+<path d=" M 1388,732 L 1396,724 M 1396,732 L 1388,724" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1388" y="742">50</text><circle cx="1392" cy="728" r="53" stroke="#b5885080" class="point" /> 
+<path d=" M 1205,915 L 1213,907 M 1213,915 L 1205,907" stroke="#FFF3" class="grid" />
+<path d=" M 1205,915 L 1213,907 M 1213,915 L 1205,907" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1205" y="925">51</text><circle cx="1209" cy="911" r="54" stroke="#d88c53c9" class="point" /> 
+<path d=" M 705,914 L 713,906 M 713,914 L 705,906" stroke="#FFF3" class="grid" />
+<path d=" M 705,914 L 713,906 M 713,914 L 705,906" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="705" y="924">52</text><circle cx="709" cy="910" r="55" stroke="#a2c43d34" class="point" /> 
+<path d=" M 522,731 L 530,723 M 530,731 L 522,723" stroke="#FFF3" class="grid" />
+<path d=" M 522,731 L 530,723 M 530,731 L 522,723" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="522" y="741">53</text><circle cx="526" cy="727" r="56" stroke="#0750eeca" class="point" /> 
+<path d=" M 456,481 L 464,473 M 464,481 L 456,473" stroke="#FFF3" class="grid" />
+<path d=" M 456,481 L 464,473 M 464,481 L 456,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="456" y="491">54</text><circle cx="460" cy="477" r="57" stroke="#3a53d7bf" class="point" /> 
+<path d=" M 523,231 L 531,223 M 531,231 L 523,223" stroke="#FFF3" class="grid" />
+<path d=" M 523,231 L 531,223 M 531,231 L 523,223" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="523" y="241">55</text><circle cx="527" cy="227" r="58" stroke="#7db61f02" class="point" /> 
+<path d=" M 706,48 L 714,40 M 714,48 L 706,40" stroke="#FFF3" class="grid" />
+<path d=" M 706,48 L 714,40 M 714,48 L 706,40" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="706" y="58">56</text><circle cx="710" cy="44" r="59" stroke="#da51ef4e" class="point" /> 
+<path d=" M 1206,49 L 1214,41 M 1214,49 L 1206,41" stroke="#FFF3" class="grid" />
+<path d=" M 1206,49 L 1214,41 M 1214,49 L 1206,41" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1206" y="59">57</text><circle cx="1210" cy="45" r="60" stroke="#3f94bffd" class="point" /> 
+<path d=" M 1389,232 L 1397,224 M 1397,232 L 1389,224" stroke="#FFF3" class="grid" />
+<path d=" M 1389,232 L 1397,224 M 1397,232 L 1389,224" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1389" y="242">58</text><circle cx="1393" cy="228" r="61" stroke="#4531e747" class="point" /> 
+<path d=" M 1555,482 L 1563,474 M 1563,482 L 1555,474" stroke="#FFF3" class="grid" />
+<path d=" M 1555,482 L 1563,474 M 1563,482 L 1555,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1555" y="492">59</text><circle cx="1559" cy="478" r="62" stroke="#04ee846f" class="point" /> 
+<path d=" M 1475,782 L 1483,774 M 1483,782 L 1475,774" stroke="#FFF3" class="grid" />
+<path d=" M 1475,782 L 1483,774 M 1483,782 L 1475,774" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1475" y="792">60</text><circle cx="1479" cy="778" r="63" stroke="#7933e206" class="point" /> 
+<path d=" M 436,781 L 444,773 M 444,781 L 436,773" stroke="#FFF3" class="grid" />
+<path d=" M 436,781 L 444,773 M 444,781 L 436,773" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="436" y="791">61</text><circle cx="440" cy="777" r="64" stroke="#6bef1c2c" class="point" /> 
+<path d=" M 356,481 L 364,473 M 364,481 L 356,473" stroke="#FFF3" class="grid" />
+<path d=" M 356,481 L 364,473 M 364,481 L 356,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="356" y="491">62</text><circle cx="360" cy="477" r="65" stroke="#4711f23b" class="point" /> 
+<path d=" M 436,181 L 444,173 M 444,181 L 436,173" stroke="#FFF3" class="grid" />
+<path d=" M 436,181 L 444,173 M 444,181 L 436,173" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="436" y="191">63</text><circle cx="440" cy="177" r="66" stroke="#65f4b250" class="point" /> 
+<path d=" M 1475,182 L 1483,174 M 1483,182 L 1475,174" stroke="#FFF3" class="grid" />
+<path d=" M 1475,182 L 1483,174 M 1483,182 L 1475,174" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1475" y="192">64</text><circle cx="1479" cy="178" r="67" stroke="#ea89da7b" class="point" /> 
+<path d=" M 1655,482 L 1663,474 M 1663,482 L 1655,474" stroke="#FFF3" class="grid" />
+<path d=" M 1655,482 L 1663,474 M 1663,482 L 1655,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1655" y="492">65</text><circle cx="1659" cy="478" r="68" stroke="#33129361" class="point" /> 
+<path d=" M 1562,832 L 1570,824 M 1570,832 L 1562,824" stroke="#FFF3" class="grid" />
+<path d=" M 1562,832 L 1570,824 M 1570,832 L 1562,824" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1562" y="842">66</text><circle cx="1566" cy="828" r="69" stroke="#875d49bf" class="point" /> 
+<path d=" M 349,831 L 357,823 M 357,831 L 349,823" stroke="#FFF3" class="grid" />
+<path d=" M 349,831 L 357,823 M 357,831 L 349,823" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="349" y="841">67</text><circle cx="353" cy="827" r="70" stroke="#2d94a34c" class="point" /> 
+<path d=" M 256,481 L 264,473 M 264,481 L 256,473" stroke="#FFF3" class="grid" />
+<path d=" M 256,481 L 264,473 M 264,481 L 256,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="256" y="491">68</text><circle cx="260" cy="477" r="71" stroke="#f13f0521" class="point" /> 
+<path d=" M 349,131 L 357,123 M 357,131 L 349,123" stroke="#FFF3" class="grid" />
+<path d=" M 349,131 L 357,123 M 357,131 L 349,123" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="349" y="141">69</text><circle cx="353" cy="127" r="72" stroke="#18c6548b" class="point" /> 
+<path d=" M 1562,132 L 1570,124 M 1570,132 L 1562,124" stroke="#FFF3" class="grid" />
+<path d=" M 1562,132 L 1570,124 M 1570,132 L 1562,124" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1562" y="142">70</text><circle cx="1566" cy="128" r="73" stroke="#07f19b31" class="point" /> 
+<path d=" M 1755,482 L 1763,474 M 1763,482 L 1755,474" stroke="#FFF3" class="grid" />
+<path d=" M 1755,482 L 1763,474 M 1763,482 L 1755,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1755" y="492">71</text><circle cx="1759" cy="478" r="74" stroke="#5676d7aa" class="point" /> 
+<path d=" M 1648,882 L 1656,874 M 1656,882 L 1648,874" stroke="#FFF3" class="grid" />
+<path d=" M 1648,882 L 1656,874 M 1656,882 L 1648,874" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1648" y="892">72</text><circle cx="1652" cy="878" r="75" stroke="#b3c5fdea" class="point" /> 
+<path d=" M 262,881 L 270,873 M 270,881 L 262,873" stroke="#FFF3" class="grid" />
+<path d=" M 262,881 L 270,873 M 270,881 L 262,873" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="262" y="891">73</text><circle cx="266" cy="877" r="76" stroke="#f7dcd522" class="point" /> 
+<path d=" M 156,481 L 164,473 M 164,481 L 156,473" stroke="#FFF3" class="grid" />
+<path d=" M 156,481 L 164,473 M 164,481 L 156,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="156" y="491">74</text><circle cx="160" cy="477" r="77" stroke="#bbed9ab0" class="point" /> 
+<path d=" M 263,81 L 271,73 M 271,81 L 263,73" stroke="#FFF3" class="grid" />
+<path d=" M 263,81 L 271,73 M 271,81 L 263,73" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="263" y="91">75</text><circle cx="267" cy="77" r="78" stroke="#275653e9" class="point" /> 
+<path d=" M 1649,82 L 1657,74 M 1657,82 L 1649,74" stroke="#FFF3" class="grid" />
+<path d=" M 1649,82 L 1657,74 M 1657,82 L 1649,74" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1649" y="92">76</text><circle cx="1653" cy="78" r="79" stroke="#26e558c4" class="point" /> 
+</svg>

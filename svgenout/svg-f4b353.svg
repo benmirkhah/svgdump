@@ -1,0 +1,191 @@
+<svg viewBox="0 0 1920 957" id="svg-f4b353" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+text { font-size:0.65em; }
+#svg-f4b353 {
+  --c0:  #00000000; 
+  --c1:  #acb67de9;  --c2:  #7bb29e5e;  --c3:  #6b13e264;  --c4:  #b2cbd255;  --c5:  #e2070e99;
+  --c6:  #a2b75b35;  --c7:  #19a31f09;  --c8:  #5168ded0;  --c9:  #27bb393b;  --c10: #523660b1;
+  --c11: #06cda764;  --c12: #ffbe2f63;  --c13: #d4f83617;  --c14: #f6e3e6c3;  --c15: #20c789d3;
+  --c16: #4ddbed3a;  --c17: #c2909eaa;  --c18: #135cbaf0;  --c19: #5131f726;  --c20: #2628c136;
+  --c21: #3666b5a1;  --c22: #e6f0196b;  --c23: #d1c8a085;  --c24: #9a2c4414;  --c25: #a55fec87;
+  --c26: #37e4b44c;  --c27: #542f24ff;  --c28: #d28ebf9e;  --c29: #147cb36b;  --c30: #11749389;
+  --c31: #ca7aa19e;  --c32: #2a678d0f;  --c33: #bf00fe79;  --c34: #ad918e48;  --c35: #f886ee11;
+  --c36: #4db960cb;  --c37: #038a9c62;  --c38: #0dc2839c;  --c39: #01938687;  --c40: #1abbcddf;
+  --c41: #4bde4f72;  --c42: #d493a0bd;  --c43: #3d7307c7;  --c44: #fbcad095;  --c45: #ff114421;
+  --c46: #c721a833;  --c47: #6df5692d;  --c48: #331ba23c;  --c49: #c81452b1;  --c50: #27793c4c;
+  --c51: #94a2aeb8;  --c52: #1281bea5;  --c53: #41fdb2d6;  --c54: #8ed60099;  --c55: #c6a006e8;
+  --c56: #26ea2c22;  --c57: #f0915542;  --c58: #b666d298;  --c59: #950f0b54;  --c60: #6786cf11;
+  --c61: #739e299c;  --c62: #e341c643;  --c63: #afe610d6;  --c64: #d14cb150;  --c65: #abdc37a9;
+  --c66: #3621c52d;  --c67: #f47697e2;  --c68: #ea099f7c;  --c69: #22119c5f;  --c70: #5403212b;
+  --c71: #d8d66e0b;  --c72: #7d296145;  --c73: #b9977300;  --c74: #eefbed1d;  --c75: #2be8f934;
+  --c76: #27b398bf;  --c77: #7b06c491;  --c78: #3c755bd5;  --c79: #2930400a;  --c80: #c151fc5b;
+  --c81: #41a9e082;  --c82: #bdbdad96;  --c83: #ae81ae77;  --c84: #0b4a33be;  --c85: #fe363da9;
+  --c86: #636a851c;  --c87: #283bcbc7;  --c88: #1f53fa19;  --c89: #f0e8dd55;  --c90: #021f8367;
+  --c91: #d80e6512;  --c92: #c64d3c53;  --c93: #0331feed;  --c94: #caeae8d1;  --c95: #e4a92893;
+  --c96: #2abfc190;  --c97: #59301c15;  --c98: #5130e8a8;  --c99: #a8420fe1;  --c100: #283cbc5a;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <linearGradient id="grad-f4b353-1" gradientUnits="userSpaceOnUse" x1="770" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c85)"/>
+    <stop offset="0.25" stop-color="var(--c22)"/>
+    <stop offset="0.50" stop-color="var(--c33)"/>
+    <stop offset="0.75" stop-color="var(--c12)"/>
+    <stop offset="1.00" stop-color="var(--c59)"/>
+  </linearGradient>
+  <radialGradient id="grad-f4b353-2" gradientUnits="userSpaceOnUse" cx="790" cy="550" r="1300">
+    <stop offset="0.00" stop-color="var(--c83)"/>
+    <stop offset="0.25" stop-color="var(--c41)"/>
+    <stop offset="0.50" stop-color="var(--c32)"/>
+    <stop offset="0.75" stop-color="var(--c11)"/>
+    <stop offset="1.00" stop-color="var(--c52)"/>
+  </radialGradient>
+  <linearGradient id="grad-f4b353-3" gradientUnits="userSpaceOnUse" x1="360" y1="190" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c39)"/>
+    <stop offset="0.25" stop-color="var(--c8)"/>
+    <stop offset="0.50" stop-color="var(--c70)"/>
+    <stop offset="0.75" stop-color="var(--c72)"/>
+    <stop offset="1.00" stop-color="var(--c23)"/>
+  </linearGradient>
+  <radialGradient id="grad-f4b353-4" gradientUnits="userSpaceOnUse" cx="1080" cy="590" r="1570">
+    <stop offset="0.00" stop-color="var(--c98)"/>
+    <stop offset="0.25" stop-color="var(--c87)"/>
+    <stop offset="0.50" stop-color="var(--c75)"/>
+    <stop offset="0.75" stop-color="var(--c51)"/>
+    <stop offset="1.00" stop-color="var(--c84)"/>
+  </radialGradient>
+  <linearGradient id="grad-f4b353-5" gradientUnits="userSpaceOnUse" x1="790" y1="210" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c90)"/>
+    <stop offset="0.25" stop-color="var(--c27)"/>
+    <stop offset="0.50" stop-color="var(--c56)"/>
+    <stop offset="0.75" stop-color="var(--c22)"/>
+    <stop offset="1.00" stop-color="var(--c61)"/>
+  </linearGradient>
+  <radialGradient id="grad-f4b353-6" gradientUnits="userSpaceOnUse" cx="550" cy="800" r="1140">
+    <stop offset="0.00" stop-color="var(--c46)"/>
+    <stop offset="0.25" stop-color="var(--c49)"/>
+    <stop offset="0.50" stop-color="var(--c27)"/>
+    <stop offset="0.75" stop-color="var(--c2)"/>
+    <stop offset="1.00" stop-color="var(--c98)"/>
+  </radialGradient>
+  <linearGradient id="grad-f4b353-7" gradientUnits="userSpaceOnUse" x1="270" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c89)"/>
+    <stop offset="0.25" stop-color="var(--c7)"/>
+    <stop offset="0.50" stop-color="var(--c2)"/>
+    <stop offset="0.75" stop-color="var(--c26)"/>
+    <stop offset="1.00" stop-color="var(--c22)"/>
+  </linearGradient>
+  <radialGradient id="grad-f4b353-8" gradientUnits="userSpaceOnUse" cx="320" cy="830" r="1750">
+    <stop offset="0.00" stop-color="var(--c43)"/>
+    <stop offset="0.25" stop-color="var(--c13)"/>
+    <stop offset="0.50" stop-color="var(--c44)"/>
+    <stop offset="0.75" stop-color="var(--c68)"/>
+    <stop offset="1.00" stop-color="var(--c60)"/>
+  </radialGradient>
+  <linearGradient id="grad-f4b353-9" gradientUnits="userSpaceOnUse" x1="280" y1="100" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c16)"/>
+    <stop offset="0.25" stop-color="var(--c60)"/>
+    <stop offset="0.50" stop-color="var(--c29)"/>
+    <stop offset="0.75" stop-color="var(--c81)"/>
+    <stop offset="1.00" stop-color="var(--c70)"/>
+  </linearGradient>
+  <radialGradient id="grad-f4b353-10" gradientUnits="userSpaceOnUse" cx="730" cy="800" r="1230">
+    <stop offset="0.00" stop-color="var(--c65)"/>
+    <stop offset="0.25" stop-color="var(--c75)"/>
+    <stop offset="0.50" stop-color="var(--c74)"/>
+    <stop offset="0.75" stop-color="var(--c5)"/>
+    <stop offset="1.00" stop-color="var(--c83)"/>
+  </radialGradient>
+  <linearGradient id="grad-f4b353-11" gradientUnits="userSpaceOnUse" x1="200" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c72)"/>
+    <stop offset="0.25" stop-color="var(--c80)"/>
+    <stop offset="0.50" stop-color="var(--c97)"/>
+    <stop offset="0.75" stop-color="var(--c21)"/>
+    <stop offset="1.00" stop-color="var(--c41)"/>
+  </linearGradient>
+<filter id="gaussianblur">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="40 77" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="glow">
+  <feDropShadow in="FillPaint" dx="0" dy="0" stdDeviation="20" flood-color="var(--c76)" />
+</filter>
+<filter id="dance" color-interpolation-filters="linearRGB" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse">
+  <feMorphology operator="dilate" radius="8 8" in="SourceAlpha" result="morphology"/>
+  <feFlood flood-color="#000000" flood-opacity="0.5" result="flood"/>
+  <feComposite in="flood" in2="morphology" operator="in" result="composite"/>
+  <feComposite in="composite" in2="SourceAlpha" operator="out" result="composite1"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.01 0.02" numOctaves="1" seed="0" stitchTiles="stitch" result="turbulence"/>
+  <feDisplacementMap in="composite1" in2="turbulence" scale="17" xChannelSelector="A" yChannelSelector="A" result="displacementMap"/>
+  <feMerge result="merge">
+    <feMergeNode in="SourceGraphic" result="mergeNode"/>
+    <feMergeNode in="displacementMap" result="mergeNode1"/>
+  </feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" id="box-f4b353"  width="1920" height="957"   fill="#333" ></rect>
+<rect   id="rect-f4b353-1" x="1395" y="610" width="632" height="632"  fill="url(#grad-f4b353-1)"  stroke="#00000099" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5"  filter="url(#gaussianblur)"  onclick="this.style.opacity = 0.5" class="square" ></rect>
+  <polygon id="oddagon-f4b353-2-5" class="oddagon poly13" fill="url(#grad-f4b353-2)"  filter="url(#dance)"  onclick="this.style.opacity = 0.5"  points="849,760 830,839 776,899 700,928 619,918 552,872 514,800 514,719 552,647 619,601 700,591 776,620 830,681 ">
+  </polygon>
+
+<circle id="circ-f4b353-3"  r="319" cx="268" cy="2"  fill="url(#grad-f4b353-3)"  stroke="#99CC9999" stroke-width="87" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#gaussianblur)"  onclick="this.style.opacity = 0.5"></circle>
+  <polygon id="triangle-f4b353-4-14" class="triangle" fill="url(#grad-f4b353-4)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"  points="299,550 0,722 0,376 ">
+  </polygon>
+
+<circle id="circ-f4b353-5"  r="276" cx="335" cy="66"  fill="url(#grad-f4b353-5)"  filter="url(#dance)"  onclick="this.style.opacity = 0.5"></circle>
+<path   id="cloud-f4b353-6-a" class="cloud arc"   onclick="this.style.opacity = 0.5"  fill="url(#grad-f4b353-6)"  filter="url(#gaussianblur)"  d="
+  M 820 680 
+  A 45,45 0,0,1 1690,540
+  A 45,45 0,0,1 1740,1025
+  A 45,45 0,0,1 1090,1025
+  A 45,45 0,0,1 820,680
+  Z" >
+</path>
+<circle id="circ-f4b353-7"  r="159" cx="205" cy="753"  fill="url(#grad-f4b353-7)"  filter="url(#pointlighting)"  onclick="this.style.opacity = 0.5"></circle>
+<g id="flower-f4b353-9" class="flower"  fill="url(#grad-f4b353-9)"  filter="url(#glow)" >
+  <path id="petal-f4b353-9-1" class="flower petal" fill="url(#grad-f4b353-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 800 430 
+    L 999,430
+    A 45,45 0,0,1 899,603
+    L 800,430
+    Z">
+  </path>
+  <path id="petal-f4b353-9-2" class="flower petal" fill="url(#grad-f4b353-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 800 430 
+    L 899,603
+    A 45,45 0,0,1 699,603
+    L 800,430
+    Z">
+  </path>
+  <path id="petal-f4b353-9-3" class="flower petal" fill="url(#grad-f4b353-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 800 430 
+    L 699,603
+    A 45,45 0,0,1 600,429
+    L 800,430
+    Z">
+  </path>
+  <path id="petal-f4b353-9-4" class="flower petal" fill="url(#grad-f4b353-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 800 430 
+    L 600,429
+    A 45,45 0,0,1 700,256
+    L 800,430
+    Z">
+  </path>
+  <path id="petal-f4b353-9-5" class="flower petal" fill="url(#grad-f4b353-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 800 430 
+    L 700,256
+    A 45,45 0,0,1 900,256
+    L 800,430
+    Z">
+  </path>
+  <path id="petal-f4b353-9-6" class="flower petal" fill="url(#grad-f4b353-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 800 430 
+    L 900,256
+    A 45,45 0,0,1 999,430
+    L 800,430
+    Z">
+  </path>
+</g>
+<circle id="circ-f4b353-10"  r="670" cx="206" cy="57"  fill="url(#grad-f4b353-10)"  stroke="#99CC9999" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"></circle>
+<circle id="circ-f4b353-11"  r="492" cx="597" cy="106"  fill="url(#grad-f4b353-11)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"></circle>
+</svg>

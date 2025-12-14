@@ -1,0 +1,346 @@
+<svg viewBox="0 0 1920 957" id="svg-ebb674" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+text { font-size:0.65em; }
+#svg-ebb674 {
+  --c0:  #00000000; 
+  --c1:  #5de9ce55;  --c2:  #fdb89823;  --c3:  #b5c408e1;  --c4:  #e1321681;  --c5:  #92a6ddc7;
+  --c6:  #7f058f7e;  --c7:  #2f2914df;  --c8:  #2b852b56;  --c9:  #29870dec;  --c10: #d86dc718;
+  --c11: #207363a2;  --c12: #108372c3;  --c13: #2e890e96;  --c14: #df5bd07a;  --c15: #78253153;
+  --c16: #e52607f2;  --c17: #47dd1a3e;  --c18: #4ec05b55;  --c19: #e5d409af;  --c20: #67742066;
+  --c21: #b0683caf;  --c22: #7799a490;  --c23: #a1341e9b;  --c24: #4d4789d4;  --c25: #e4f6a35d;
+  --c26: #d8a442df;  --c27: #56b5def5;  --c28: #ea995a9f;  --c29: #a386997d;  --c30: #d5bd67a7;
+  --c31: #d3477003;  --c32: #9a5334fd;  --c33: #0f48294d;  --c34: #08c76081;  --c35: #4aeec00f;
+  --c36: #623167a9;  --c37: #595e242b;  --c38: #de4ccab7;  --c39: #b17a60d0;  --c40: #4dba2643;
+  --c41: #79a4f326;  --c42: #1d4c5a3f;  --c43: #26e874fc;  --c44: #66f947a8;  --c45: #b1d0a457;
+  --c46: #3f9a5360;  --c47: #38dc4512;  --c48: #dd8de002;  --c49: #68f36aae;  --c50: #3855235c;
+  --c51: #454b7d67;  --c52: #51ef0021;  --c53: #22625b34;  --c54: #d7408937;  --c55: #8d8d50a0;
+  --c56: #eb0d0baa;  --c57: #631a08f6;  --c58: #f9b0ab3a;  --c59: #06373a84;  --c60: #4835cf67;
+  --c61: #9c866964;  --c62: #118f871b;  --c63: #d0cda5e8;  --c64: #59d84d15;  --c65: #7836323a;
+  --c66: #410cab54;  --c67: #08093a76;  --c68: #170f75fc;  --c69: #be5838f8;  --c70: #fd8c1f4f;
+  --c71: #3d3f8efc;  --c72: #fe978c69;  --c73: #2dec1870;  --c74: #448405c7;  --c75: #f8d30f91;
+  --c76: #63f2fa78;  --c77: #cf0d15bc;  --c78: #d6a57c18;  --c79: #cb023bde;  --c80: #43cf0f62;
+  --c81: #f0498baa;  --c82: #08d604ad;  --c83: #72bda5d4;  --c84: #66973e63;  --c85: #211f432d;
+  --c86: #76e6d0e3;  --c87: #538f91c1;  --c88: #c997d908;  --c89: #2378f35a;  --c90: #869b699b;
+  --c91: #c99f0dd2;  --c92: #acf48d7e;  --c93: #03b48096;  --c94: #077e083d;  --c95: #1bfd9358;
+  --c96: #5dbd09c6;  --c97: #1284b836;  --c98: #601c0df4;  --c99: #47cb13be;  --c100: #aa3d4281;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <linearGradient id="grad-ebb674-1" gradientUnits="userSpaceOnUse" x1="910" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c20)"/>
+    <stop offset="0.25" stop-color="var(--c56)"/>
+    <stop offset="0.50" stop-color="var(--c71)"/>
+    <stop offset="0.75" stop-color="var(--c9)"/>
+    <stop offset="1.00" stop-color="var(--c41)"/>
+  </linearGradient>
+  <radialGradient id="grad-ebb674-2" gradientUnits="userSpaceOnUse" cx="1180" cy="270" r="1360">
+    <stop offset="0.00" stop-color="var(--c80)"/>
+    <stop offset="0.25" stop-color="var(--c70)"/>
+    <stop offset="0.50" stop-color="var(--c13)"/>
+    <stop offset="0.75" stop-color="var(--c8)"/>
+    <stop offset="1.00" stop-color="var(--c70)"/>
+  </radialGradient>
+  <linearGradient id="grad-ebb674-3" gradientUnits="userSpaceOnUse" x1="740" y1="210" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c51)"/>
+    <stop offset="0.25" stop-color="var(--c31)"/>
+    <stop offset="0.50" stop-color="var(--c80)"/>
+    <stop offset="0.75" stop-color="var(--c50)"/>
+    <stop offset="1.00" stop-color="var(--c53)"/>
+  </linearGradient>
+  <radialGradient id="grad-ebb674-4" gradientUnits="userSpaceOnUse" cx="800" cy="600" r="1450">
+    <stop offset="0.00" stop-color="var(--c52)"/>
+    <stop offset="0.25" stop-color="var(--c17)"/>
+    <stop offset="0.50" stop-color="var(--c23)"/>
+    <stop offset="0.75" stop-color="var(--c87)"/>
+    <stop offset="1.00" stop-color="var(--c1)"/>
+  </radialGradient>
+  <linearGradient id="grad-ebb674-5" gradientUnits="userSpaceOnUse" x1="350" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c7)"/>
+    <stop offset="0.25" stop-color="var(--c96)"/>
+    <stop offset="0.50" stop-color="var(--c53)"/>
+    <stop offset="0.75" stop-color="var(--c73)"/>
+    <stop offset="1.00" stop-color="var(--c93)"/>
+  </linearGradient>
+  <radialGradient id="grad-ebb674-6" gradientUnits="userSpaceOnUse" cx="340" cy="210" r="1770">
+    <stop offset="0.00" stop-color="var(--c56)"/>
+    <stop offset="0.25" stop-color="var(--c25)"/>
+    <stop offset="0.50" stop-color="var(--c90)"/>
+    <stop offset="0.75" stop-color="var(--c91)"/>
+    <stop offset="1.00" stop-color="var(--c62)"/>
+  </radialGradient>
+  <linearGradient id="grad-ebb674-7" gradientUnits="userSpaceOnUse" x1="640" y1="230" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c90)"/>
+    <stop offset="0.25" stop-color="var(--c69)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c96)"/>
+    <stop offset="1.00" stop-color="var(--c39)"/>
+  </linearGradient>
+  <radialGradient id="grad-ebb674-8" gradientUnits="userSpaceOnUse" cx="730" cy="170" r="1390">
+    <stop offset="0.00" stop-color="var(--c84)"/>
+    <stop offset="0.25" stop-color="var(--c6)"/>
+    <stop offset="0.50" stop-color="var(--c10)"/>
+    <stop offset="0.75" stop-color="var(--c38)"/>
+    <stop offset="1.00" stop-color="var(--c55)"/>
+  </radialGradient>
+  <linearGradient id="grad-ebb674-9" gradientUnits="userSpaceOnUse" x1="590" y1="180" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c13)"/>
+    <stop offset="0.25" stop-color="var(--c23)"/>
+    <stop offset="0.50" stop-color="var(--c82)"/>
+    <stop offset="0.75" stop-color="var(--c40)"/>
+    <stop offset="1.00" stop-color="var(--c53)"/>
+  </linearGradient>
+  <radialGradient id="grad-ebb674-10" gradientUnits="userSpaceOnUse" cx="900" cy="800" r="1170">
+    <stop offset="0.00" stop-color="var(--c74)"/>
+    <stop offset="0.25" stop-color="var(--c86)"/>
+    <stop offset="0.50" stop-color="var(--c5)"/>
+    <stop offset="0.75" stop-color="var(--c9)"/>
+    <stop offset="1.00" stop-color="var(--c72)"/>
+  </radialGradient>
+  <linearGradient id="grad-ebb674-11" gradientUnits="userSpaceOnUse" x1="750" y1="210" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c38)"/>
+    <stop offset="0.25" stop-color="var(--c32)"/>
+    <stop offset="0.50" stop-color="var(--c63)"/>
+    <stop offset="0.75" stop-color="var(--c66)"/>
+    <stop offset="1.00" stop-color="var(--c75)"/>
+  </linearGradient>
+<filter id="gaussianblur">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="61 7" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="glow">
+  <feDropShadow in="FillPaint" dx="0" dy="0" stdDeviation="13" flood-color="var(--c69)" />
+</filter>
+<filter id="dance" color-interpolation-filters="linearRGB" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse">
+  <feMorphology operator="dilate" radius="8 8" in="SourceAlpha" result="morphology"/>
+  <feFlood flood-color="#000000" flood-opacity="0.5" result="flood"/>
+  <feComposite in="flood" in2="morphology" operator="in" result="composite"/>
+  <feComposite in="composite" in2="SourceAlpha" operator="out" result="composite1"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.01 0.02" numOctaves="1" seed="0" stitchTiles="stitch" result="turbulence"/>
+  <feDisplacementMap in="composite1" in2="turbulence" scale="17" xChannelSelector="A" yChannelSelector="A" result="displacementMap"/>
+  <feMerge result="merge">
+    <feMergeNode in="SourceGraphic" result="mergeNode"/>
+    <feMergeNode in="displacementMap" result="mergeNode1"/>
+  </feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" id="box-ebb674"  width="1920" height="957"   fill="#333" ></rect>
+  <polygon id="triangle-ebb674-1-5" class="triangle" fill="url(#grad-ebb674-1)"  stroke="#00000033" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"  points="1159,690 874,854 875,525 ">
+  </polygon>
+
+<rect   id="rect-ebb674-2" x="119" y="448" width="345" height="345"  fill="url(#grad-ebb674-2)"  stroke="#00000099" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5"  filter="url(#dance)"  onclick="this.style.opacity = 0.5" class="square" ></rect>
+<circle id="circ-ebb674-3"  r="123" cx="305" cy="935"  fill="url(#grad-ebb674-3)"  filter="url(#dance)"  onclick="this.style.opacity = 0.5"></circle>
+<circle id="circ-ebb674-4"  r="366" cx="1237" cy="252"  fill="url(#grad-ebb674-4)"  filter="url(#pointlighting)"  onclick="this.style.opacity = 0.5"></circle>
+<circle id="circ-ebb674-5"  r="175" cx="444" cy="270"  fill="url(#grad-ebb674-5)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"></circle>
+<circle id="circ-ebb674-7"  r="639" cx="1143" cy="303"  fill="url(#grad-ebb674-7)"  stroke="#99CC9999" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#pointlighting)"  onclick="this.style.opacity = 0.5"></circle>
+<g id="flower-ebb674-8" class="flower"  fill="url(#grad-ebb674-8)"  filter="url(#glow)" >
+  <path id="petal-ebb674-8-1" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 1219,250
+    A 45,45 0,0,1 1129,437
+    L 980,250
+    Z">
+  </path>
+  <path id="petal-ebb674-8-2" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 1129,437
+    A 45,45 0,0,1 926,483
+    L 980,250
+    Z">
+  </path>
+  <path id="petal-ebb674-8-3" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 926,483
+    A 45,45 0,0,1 763,353
+    L 980,250
+    Z">
+  </path>
+  <path id="petal-ebb674-8-4" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 763,353
+    A 45,45 0,0,1 763,145
+    L 980,250
+    Z">
+  </path>
+  <path id="petal-ebb674-8-5" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 763,145
+    A 45,45 0,0,1 926,15
+    L 980,250
+    Z">
+  </path>
+  <path id="petal-ebb674-8-6" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 926,15
+    A 45,45 0,0,1 1129,62
+    L 980,250
+    Z">
+  </path>
+  <path id="petal-ebb674-8-7" class="flower petal" fill="url(#grad-ebb674-8)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"   d="
+    M 980 250 
+    L 1129,62
+    A 45,45 0,0,1 1219,250
+    L 980,250
+    Z">
+  </path>
+</g>
+  <polygon id="oddagon-ebb674-9-8" class="oddagon poly9" fill="url(#grad-ebb674-9)"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"  points="1019,790 959,957 804,1046 629,1015 515,878 515,700 630,564 805,533 959,623 ">
+  </polygon>
+
+<path   id="cloud-ebb674-10-a" class="cloud arc"   onclick="this.style.opacity = 0.5"  fill="url(#grad-ebb674-10)"  filter="url(#gaussianblur)"  d="
+  M 1015 325 
+  A 45,45 0,0,1 1825,350
+  A 45,45 0,0,1 2305,345
+  A 45,45 0,0,1 2060,475
+  A 45,45 0,0,1 2035,800
+  A 45,45 0,0,1 1575,780
+  A 45,45 0,0,1 1050,880
+  A 45,45 0,0,1 1135,450
+  A 45,45 0,0,1 1015,325
+  Z" >
+</path>
+<circle id="circ-ebb674-11"  r="166" cx="132" cy="496"  fill="url(#grad-ebb674-11)"  stroke="#99CC9999" stroke-width="81" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.1"  filter="url(#glow)"  onclick="this.style.opacity = 0.5"></circle>
+<path d=" M 956,482 L 964,474 M 964,482 L 956,474" stroke="#FFF3" class="grid" />
+<path d=" M 956,482 L 964,474 M 964,482 L 956,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="492">1</text><path d=" M 963,486 L 971,478 M 971,486 L 963,478" stroke="#FFF3" class="grid" />
+<path d=" M 963,486 L 971,478 M 971,486 L 963,478" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="963" y="496">2</text><path d=" M 964,496 L 972,488 M 972,496 L 964,488" stroke="#FFF3" class="grid" />
+<path d=" M 964,496 L 972,488 M 972,496 L 964,488" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="964" y="506">3</text><path d=" M 956,508 L 964,500 M 964,508 L 956,500" stroke="#FFF3" class="grid" />
+<path d=" M 956,508 L 964,500 M 964,508 L 956,500" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="518">4</text><path d=" M 938,513 L 946,505 M 946,513 L 938,505" stroke="#FFF3" class="grid" />
+<path d=" M 938,513 L 946,505 M 946,513 L 938,505" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="938" y="523">5</text><path d=" M 916,504 L 924,496 M 924,504 L 916,496" stroke="#FFF3" class="grid" />
+<path d=" M 916,504 L 924,496 M 924,504 L 916,496" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="916" y="514">6</text><path d=" M 899,482 L 907,474 M 907,482 L 899,474" stroke="#FFF3" class="grid" />
+<path d=" M 899,482 L 907,474 M 907,482 L 899,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="899" y="492">7</text><path d=" M 897,448 L 905,440 M 905,448 L 897,440" stroke="#FFF3" class="grid" />
+<path d=" M 897,448 L 905,440 M 905,448 L 897,440" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="897" y="458">8</text><path d=" M 916,414 L 924,406 M 924,414 L 916,406" stroke="#FFF3" class="grid" />
+<path d=" M 916,414 L 924,406 M 924,414 L 916,406" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="916" y="424">9</text><path d=" M 956,392 L 964,384 M 964,392 L 956,384" stroke="#FFF3" class="grid" />
+<path d=" M 956,392 L 964,384 M 964,392 L 956,384" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="402">10</text><path d=" M 1007,393 L 1015,385 M 1015,393 L 1007,385" stroke="#FFF3" class="grid" />
+<path d=" M 1007,393 L 1015,385 M 1015,393 L 1007,385" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1007" y="403">11</text><path d=" M 1055,424 L 1063,416 M 1063,424 L 1055,416" stroke="#FFF3" class="grid" />
+<path d=" M 1055,424 L 1063,416 M 1063,424 L 1055,416" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1055" y="434">12</text><path d=" M 1083,482 L 1091,474 M 1091,482 L 1083,474" stroke="#FFF3" class="grid" />
+<path d=" M 1083,482 L 1091,474 M 1091,482 L 1083,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1083" y="492">13</text><path d=" M 1073,549 L 1081,541 M 1081,549 L 1073,541" stroke="#FFF3" class="grid" />
+<path d=" M 1073,549 L 1081,541 M 1081,549 L 1073,541" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1073" y="559">14</text><path d=" M 1028,607 L 1036,599 M 1036,607 L 1028,599" stroke="#FFF3" class="grid" />
+<path d=" M 1028,607 L 1036,599 M 1036,607 L 1028,599" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1028" y="617">15</text><path d=" M 955,635 L 963,627 M 963,635 L 955,627" stroke="#FFF3" class="grid" />
+<path d=" M 955,635 L 963,627 M 963,635 L 955,627" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="645">16</text><path d=" M 874,623 L 882,615 M 882,623 L 874,615" stroke="#FFF3" class="grid" />
+<path d=" M 874,623 L 882,615 M 882,623 L 874,615" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="874" y="633">17</text><path d=" M 805,568 L 813,560 M 813,568 L 805,560" stroke="#FFF3" class="grid" />
+<path d=" M 805,568 L 813,560 M 813,568 L 805,560" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="805" y="578">18</text><path d=" M 772,482 L 780,474 M 780,482 L 772,474" stroke="#FFF3" class="grid" />
+<path d=" M 772,482 L 780,474 M 780,482 L 772,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="772" y="492">19</text><path d=" M 787,384 L 795,376 M 795,384 L 787,376" stroke="#FFF3" class="grid" />
+<path d=" M 787,384 L 795,376 M 795,384 L 787,376" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="787" y="394">20</text><path d=" M 853,303 L 861,295 M 861,303 L 853,295" stroke="#FFF3" class="grid" />
+<path d=" M 853,303 L 861,295 M 861,303 L 853,295" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="853" y="313">21</text><path d=" M 955,264 L 963,256 M 963,264 L 955,256" stroke="#FFF3" class="grid" />
+<path d=" M 955,264 L 963,256 M 963,264 L 955,256" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="274">22</text><path d=" M 1070,283 L 1078,275 M 1078,283 L 1070,275" stroke="#FFF3" class="grid" />
+<path d=" M 1070,283 L 1078,275 M 1078,283 L 1070,275" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1070" y="293">23</text><path d=" M 1165,360 L 1173,352 M 1173,360 L 1165,352" stroke="#FFF3" class="grid" />
+<path d=" M 1165,360 L 1173,352 M 1173,360 L 1165,352" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1165" y="370">24</text><path d=" M 1211,481 L 1219,473 M 1219,481 L 1211,473" stroke="#FFF3" class="grid" />
+<path d=" M 1211,481 L 1219,473 M 1219,481 L 1211,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1211" y="491">25</text><path d=" M 1184,613 L 1192,605 M 1192,613 L 1184,605" stroke="#FFF3" class="grid" />
+<path d=" M 1184,613 L 1192,605 M 1192,613 L 1184,605" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1184" y="623">26</text><path d=" M 1092,717 L 1100,709 M 1100,717 L 1092,709" stroke="#FFF3" class="grid" />
+<path d=" M 1092,717 L 1100,709 M 1100,717 L 1092,709" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1092" y="727">27</text><path d=" M 956,763 L 964,755 M 964,763 L 956,755" stroke="#FFF3" class="grid" />
+<path d=" M 956,763 L 964,755 M 964,763 L 956,755" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="773">28</text><path d=" M 810,733 L 818,725 M 818,733 L 810,725" stroke="#FFF3" class="grid" />
+<path d=" M 810,733 L 818,725 M 818,733 L 810,725" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="810" y="743">29</text><path d=" M 695,632 L 703,624 M 703,632 L 695,624" stroke="#FFF3" class="grid" />
+<path d=" M 695,632 L 703,624 M 703,632 L 695,624" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="695" y="642">30</text><path d=" M 644,482 L 652,474 M 652,482 L 644,474" stroke="#FFF3" class="grid" />
+<path d=" M 644,482 L 652,474 M 652,482 L 644,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="644" y="492">31</text><path d=" M 677,320 L 685,312 M 685,320 L 677,312" stroke="#FFF3" class="grid" />
+<path d=" M 677,320 L 685,312 M 685,320 L 677,312" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="677" y="330">32</text><path d=" M 789,193 L 797,185 M 797,193 L 789,185" stroke="#FFF3" class="grid" />
+<path d=" M 789,193 L 797,185 M 797,193 L 789,185" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="789" y="203">33</text><path d=" M 955,137 L 963,129 M 963,137 L 955,129" stroke="#FFF3" class="grid" />
+<path d=" M 955,137 L 963,129 M 963,137 L 955,129" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="147">34</text><path d=" M 1134,172 L 1142,164 M 1142,172 L 1134,164" stroke="#FFF3" class="grid" />
+<path d=" M 1134,172 L 1142,164 M 1142,172 L 1134,164" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1134" y="182">35</text><path d=" M 1276,297 L 1284,289 M 1284,297 L 1276,289" stroke="#FFF3" class="grid" />
+<path d=" M 1276,297 L 1284,289 M 1284,297 L 1276,289" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1276" y="307">36</text><path d=" M 1338,481 L 1346,473 M 1346,481 L 1338,473" stroke="#FFF3" class="grid" />
+<path d=" M 1338,481 L 1346,473 M 1346,481 L 1338,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1338" y="491">37</text><path d=" M 1294,677 L 1302,669 M 1302,677 L 1294,669" stroke="#FFF3" class="grid" />
+<path d=" M 1294,677 L 1302,669 M 1302,677 L 1294,669" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1294" y="687">38</text><path d=" M 1155,828 L 1163,820 M 1163,828 L 1155,820" stroke="#FFF3" class="grid" />
+<path d=" M 1155,828 L 1163,820 M 1163,828 L 1155,820" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1155" y="838">39</text><path d=" M 956,890 L 964,882 M 964,890 L 956,882" stroke="#FFF3" class="grid" />
+<path d=" M 956,890 L 964,882 M 964,890 L 956,882" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="956" y="900">40</text><path d=" M 746,844 L 754,836 M 754,844 L 746,836" stroke="#FFF3" class="grid" />
+<path d=" M 746,844 L 754,836 M 754,844 L 746,836" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="746" y="854">41</text><path d=" M 585,696 L 593,688 M 593,696 L 585,688" stroke="#FFF3" class="grid" />
+<path d=" M 585,696 L 593,688 M 593,696 L 585,688" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="585" y="706">42</text><path d=" M 517,482 L 525,474 M 525,482 L 517,474" stroke="#FFF3" class="grid" />
+<path d=" M 517,482 L 525,474 M 525,482 L 517,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="517" y="492">43</text><path d=" M 566,257 L 574,249 M 574,257 L 566,249" stroke="#FFF3" class="grid" />
+<path d=" M 566,257 L 574,249 M 574,257 L 566,249" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="566" y="267">44</text><path d=" M 725,82 L 733,74 M 733,82 L 725,74" stroke="#FFF3" class="grid" />
+<path d=" M 725,82 L 733,74 M 733,82 L 725,74" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="725" y="92">45</text><path d=" M 955,9 L 963,1 M 963,9 L 955,1" stroke="#FFF3" class="grid" />
+<path d=" M 955,9 L 963,1 M 963,9 L 955,1" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="955" y="19">46</text><path d=" M 1198,62 L 1206,54 M 1206,62 L 1198,54" stroke="#FFF3" class="grid" />
+<path d=" M 1198,62 L 1206,54 M 1206,62 L 1198,54" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1198" y="72">47</text><path d=" M 1386,233 L 1394,225 M 1394,233 L 1386,225" stroke="#FFF3" class="grid" />
+<path d=" M 1386,233 L 1394,225 M 1394,233 L 1386,225" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1386" y="243">48</text><path d=" M 1466,481 L 1474,473 M 1474,481 L 1466,473" stroke="#FFF3" class="grid" />
+<path d=" M 1466,481 L 1474,473 M 1474,481 L 1466,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1466" y="491">49</text><path d=" M 1404,741 L 1412,733 M 1412,741 L 1404,733" stroke="#FFF3" class="grid" />
+<path d=" M 1404,741 L 1412,733 M 1412,741 L 1404,733" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1404" y="751">50</text><path d=" M 1219,938 L 1227,930 M 1227,938 L 1219,930" stroke="#FFF3" class="grid" />
+<path d=" M 1219,938 L 1227,930 M 1227,938 L 1219,930" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1219" y="948">51</text><path d=" M 683,954 L 691,946 M 691,954 L 683,946" stroke="#FFF3" class="grid" />
+<path d=" M 683,954 L 691,946 M 691,954 L 683,946" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="683" y="964">52</text><path d=" M 474,759 L 482,751 M 482,759 L 474,751" stroke="#FFF3" class="grid" />
+<path d=" M 474,759 L 482,751 M 482,759 L 474,751" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="474" y="769">53</text><path d=" M 389,482 L 397,474 M 397,482 L 389,474" stroke="#FFF3" class="grid" />
+<path d=" M 389,482 L 397,474 M 397,482 L 389,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="389" y="492">54</text><path d=" M 456,193 L 464,185 M 464,193 L 456,185" stroke="#FFF3" class="grid" />
+<path d=" M 456,193 L 464,185 M 464,193 L 456,185" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="456" y="203">55</text><path d=" M 1496,169 L 1504,161 M 1504,169 L 1496,161" stroke="#FFF3" class="grid" />
+<path d=" M 1496,169 L 1504,161 M 1504,169 L 1496,161" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1496" y="179">56</text><path d=" M 1593,481 L 1601,473 M 1601,481 L 1593,473" stroke="#FFF3" class="grid" />
+<path d=" M 1593,481 L 1601,473 M 1601,481 L 1593,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1593" y="491">57</text><path d=" M 1515,804 L 1523,796 M 1523,804 L 1515,796" stroke="#FFF3" class="grid" />
+<path d=" M 1515,804 L 1523,796 M 1523,804 L 1515,796" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1515" y="814">58</text><path d=" M 364,823 L 372,815 M 372,823 L 364,815" stroke="#FFF3" class="grid" />
+<path d=" M 364,823 L 372,815 M 372,823 L 364,815" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="364" y="833">59</text><path d=" M 262,482 L 270,474 M 270,482 L 262,474" stroke="#FFF3" class="grid" />
+<path d=" M 262,482 L 270,474 M 270,482 L 262,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="262" y="492">60</text><path d=" M 345,129 L 353,121 M 353,129 L 345,121" stroke="#FFF3" class="grid" />
+<path d=" M 345,129 L 353,121 M 353,129 L 345,121" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="345" y="139">61</text><path d=" M 1607,105 L 1615,97 M 1615,105 L 1607,97" stroke="#FFF3" class="grid" />
+<path d=" M 1607,105 L 1615,97 M 1615,105 L 1607,97" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1607" y="115">62</text><path d=" M 1721,482 L 1729,474 M 1729,482 L 1721,474" stroke="#FFF3" class="grid" />
+<path d=" M 1721,482 L 1729,474 M 1729,482 L 1721,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1721" y="492">63</text><path d=" M 1625,868 L 1633,860 M 1633,868 L 1625,860" stroke="#FFF3" class="grid" />
+<path d=" M 1625,868 L 1633,860 M 1633,868 L 1625,860" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1625" y="878">64</text><path d=" M 253,887 L 261,879 M 261,887 L 253,879" stroke="#FFF3" class="grid" />
+<path d=" M 253,887 L 261,879 M 261,887 L 253,879" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="253" y="897">65</text><path d=" M 134,481 L 142,473 M 142,481 L 134,473" stroke="#FFF3" class="grid" />
+<path d=" M 134,481 L 142,473 M 142,481 L 134,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="134" y="491">66</text><path d=" M 235,65 L 243,57 M 243,65 L 235,57" stroke="#FFF3" class="grid" />
+<path d=" M 235,65 L 243,57 M 243,65 L 235,57" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="235" y="75">67</text><path d=" M 1717,42 L 1725,34 M 1725,42 L 1717,34" stroke="#FFF3" class="grid" />
+<path d=" M 1717,42 L 1725,34 M 1725,42 L 1717,34" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1717" y="52">68</text><path d=" M 1848,482 L 1856,474 M 1856,482 L 1848,474" stroke="#FFF3" class="grid" />
+<path d=" M 1848,482 L 1856,474 M 1856,482 L 1848,474" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1848" y="492">69</text><path d=" M 1736,932 L 1744,924 M 1744,932 L 1736,924" stroke="#FFF3" class="grid" />
+<path d=" M 1736,932 L 1744,924 M 1744,932 L 1736,924" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="1736" y="942">70</text><path d=" M 143,951 L 151,943 M 151,951 L 143,943" stroke="#FFF3" class="grid" />
+<path d=" M 143,951 L 151,943 M 151,951 L 143,943" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="143" y="961">71</text><path d=" M 7,481 L 15,473 M 15,481 L 7,473" stroke="#FFF3" class="grid" />
+<path d=" M 7,481 L 15,473 M 15,481 L 7,473" stroke="#FFF3" class="grid" />
+<text fill="#FF06" x="7" y="491">72</text></svg>

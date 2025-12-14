@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1920 957" id="svg-226331" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+* { transform-box: fill-box; } text { font-size:0.65em; }
+#svg-226331 {
+  --c0:  #00000000; 
+  --c1:  #cafab9d3;  --c2:  #c1a4aee3;  --c3:  #a5bd11bc;  --c4:  #95cc41af;  --c5:  #e614bc1a;
+  --c6:  #5bfd66d1;  --c7:  #d3a6142e;  --c8:  #6c79c5e2;  --c9:  #613e4c03;  --c10: #4cb169e8;
+  --c11: #76b4364c;  --c12: #30b3811f;  --c13: #615d24f8;  --c14: #ac4b9925;  --c15: #481f737b;
+  --c16: #4a608701;  --c17: #21904af6;  --c18: #42aaa4a6;  --c19: #8f967dcc;  --c20: #622913c5;
+  --c21: #959b531c;  --c22: #669cd7c0;  --c23: #74643d2e;  --c24: #8d9a2ea7;  --c25: #dff3b04e;
+  --c26: #f0dd6088;  --c27: #678015cf;  --c28: #ca9a5c00;  --c29: #0e2a8c96;  --c30: #7ab183d7;
+  --c31: #2a84cac6;  --c32: #fafde85e;  --c33: #4b1e7e6c;  --c34: #802b7912;  --c35: #1807beca;
+  --c36: #8a056adb;  --c37: #5e872196;  --c38: #231573f5;  --c39: #330ec571;  --c40: #e9e7f52d;
+  --c41: #72a51a59;  --c42: #c189f20e;  --c43: #4525703f;  --c44: #0ccb2f4d;  --c45: #fc78a747;
+  --c46: #0b1b3066;  --c47: #f1057d8c;  --c48: #2e4c5202;  --c49: #d02728e5;  --c50: #52cddf84;
+  --c51: #38c44d51;  --c52: #640af480;  --c53: #7bfdf6ab;  --c54: #82cc019f;  --c55: #d2aee820;
+  --c56: #d0b40677;  --c57: #95683504;  --c58: #4994fc6a;  --c59: #861511e9;  --c60: #c9063b3c;
+  --c61: #abf9afd4;  --c62: #d4cf5465;  --c63: #eddc28d8;  --c64: #14093a14;  --c65: #f22c876a;
+  --c66: #125afed0;  --c67: #79476747;  --c68: #a31aa462;  --c69: #e4c1f40a;  --c70: #8f1a05f2;
+  --c71: #2f468683;  --c72: #2ae5bf22;  --c73: #c2b98284;  --c74: #ae911f23;  --c75: #aae68e7d;
+  --c76: #601119d4;  --c77: #23f7fe1e;  --c78: #dd4fd871;  --c79: #81d5eeba;  --c80: #d36a3b7e;
+  --c81: #3ad55441;  --c82: #d39041b8;  --c83: #34c225ba;  --c84: #5a604e83;  --c85: #97c50872;
+  --c86: #4ed3fb4d;  --c87: #f8234d19;  --c88: #fc0527dd;  --c89: #155765ae;  --c90: #53043117;
+  --c91: #b21c67d6;  --c92: #390abf33;  --c93: #81700315;  --c94: #696b3290;  --c95: #4abe269e;
+  --c96: #80912ece;  --c97: #150d9cc9;  --c98: #3ca06899;  --c99: #fa1ffbc6;  --c100: #c5695453;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <linearGradient id="grad-226331-1" gradientUnits="userSpaceOnUse" x1="660" y1="210" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c46)"/>
+    <stop offset="0.25" stop-color="var(--c45)"/>
+    <stop offset="0.50" stop-color="var(--c32)"/>
+    <stop offset="0.75" stop-color="var(--c28)"/>
+    <stop offset="1.00" stop-color="var(--c82)"/>
+  </linearGradient>
+  <radialGradient id="grad-226331-2" gradientUnits="userSpaceOnUse" cx="990" cy="260" r="1390">
+    <stop offset="0.00" stop-color="var(--c63)"/>
+    <stop offset="0.25" stop-color="var(--c45)"/>
+    <stop offset="0.50" stop-color="var(--c26)"/>
+    <stop offset="0.75" stop-color="var(--c73)"/>
+    <stop offset="1.00" stop-color="var(--c47)"/>
+  </radialGradient>
+  <linearGradient id="grad-226331-3" gradientUnits="userSpaceOnUse" x1="550" y1="190" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c16)"/>
+    <stop offset="0.25" stop-color="var(--c39)"/>
+    <stop offset="0.50" stop-color="var(--c23)"/>
+    <stop offset="0.75" stop-color="var(--c38)"/>
+    <stop offset="1.00" stop-color="var(--c17)"/>
+  </linearGradient>
+<filter id="gaussianblur">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="30 73" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="motionblurx">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="43 0" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="motionblury">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="0 19" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="glow">
+  <feDropShadow in="FillPaint" dx="0" dy="0" stdDeviation="5" flood-color="var(--c66)" />
+</filter>
+<filter id="pointlighting">
+  <feDiffuseLighting in="SourceGraphic" result="light" lighting-color="var(--c67)">
+    <fePointLight x="1588" y="393" z="875" />
+  </feDiffuseLighting>
+  <feComposite in="SourceGraphic" in2="light" operator="arithmetic" k1="1" k2="0" k3="0" k4="0" />
+</filter>
+<filter id="dance" color-interpolation-filters="linearRGB" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse">
+  <feMorphology operator="dilate" radius="8 8" in="SourceAlpha" result="morphology"/>
+  <feFlood flood-color="#000000" flood-opacity="0.5" result="flood"/>
+  <feComposite in="flood" in2="morphology" operator="in" result="composite"/>
+  <feComposite in="composite" in2="SourceAlpha" operator="out" result="composite1"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.01 0.02" numOctaves="1" seed="0" stitchTiles="stitch" result="turbulence"/>
+  <feDisplacementMap in="composite1" in2="turbulence" scale="17" xChannelSelector="A" yChannelSelector="A" result="displacementMap"/>
+  <feMerge result="merge">
+    <feMergeNode in="SourceGraphic" result="mergeNode"/>
+    <feMergeNode in="displacementMap" result="mergeNode1"/>
+  </feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" id="box-226331"  width="1920" height="957"   fill="#333F" ></rect>
+  <polygon id="pentagon-226331-1-5" class="pentagon" fill="url(#grad-226331-1)"  stroke="#9a4c59" stroke-width="69" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25"  filter="url(#glow)"  transform-origin="center center"  transform="rotate(-192)"  onclick="this.style.fill = randomColor()"  points="1019,400 805,694 458,581 459,217 806,105 ">
+  </polygon>
+
+  <path d=" M 705,400 L 715,400 M 710,395 L 710,405" stroke="#FF06" class="center mark" /> 
+<path d=" M 705,400 L 715,400 M 710,395 L 710,405" stroke="#FF06" class="center mark" /> 
+<text fill="#FF09" x="712" y="413">1</text>  <polygon id="pentagon-226331-2-6" class="pentagon" fill="url(#grad-226331-2)"  stroke="#9a4c59" stroke-width="51" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25"  filter="url(#dance)"  transform-origin="center center"  transform="rotate(-325)"  onclick="this.style.fill = randomColor()"  points="1629,500 1491,690 1268,617 1268,382 1492,309 ">
+  </polygon>
+
+  <path d=" M 1425,500 L 1435,500 M 1430,495 L 1430,505" stroke="#FF06" class="center mark" /> 
+<path d=" M 1425,500 L 1435,500 M 1430,495 L 1430,505" stroke="#FF06" class="center mark" /> 
+<text fill="#FF09" x="1432" y="513">2</text>  <polygon id="pentagon-226331-3-6" class="pentagon" fill="url(#grad-226331-3)"  filter="url(#gaussianblur)"  transform-origin="center center"  transform="rotate(-146)"  onclick="this.style.fill = randomColor()"  points="1249,170 1153,303 996,252 996,87 1153,36 ">
+  </polygon>
+
+  <path d=" M 1105,170 L 1115,170 M 1110,165 L 1110,175" stroke="#FF06" class="center mark" /> 
+<path d=" M 1105,170 L 1115,170 M 1110,165 L 1110,175" stroke="#FF06" class="center mark" /> 
+<text fill="#FF09" x="1112" y="183">3</text></svg>

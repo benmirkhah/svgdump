@@ -1,0 +1,164 @@
+<svg viewBox="0 0 1920 957" id="svg-c53807" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+#svg-c53807 {
+  --c0:  #00000000; 
+  --c1:  #ebcaa600;  --c2:  #55455ff4;  --c3:  #02959dc4;  --c4:  #8ea59392;  --c5:  #b4b7338f;
+  --c6:  #6943c5e7;  --c7:  #54806a06;  --c8:  #86c205f2;  --c9:  #7ac50fd0;  --c10: #3c5bb055;
+  --c11: #53fee9a6;  --c12: #0691c3a2;  --c13: #e3cf8d4b;  --c14: #3fd62f0a;  --c15: #c7752b9c;
+  --c16: #d790b35f;  --c17: #6aba83cf;  --c18: #1a1115a8;  --c19: #48211515;  --c20: #0e6137fa;
+  --c21: #71c4b37b;  --c22: #7f8cbdfd;  --c23: #b6736949;  --c24: #43a06543;  --c25: #f4c2f1e3;
+  --c26: #771a0a7a;  --c27: #e98dcfb0;  --c28: #9bb90ac6;  --c29: #b8418d2a;  --c30: #b61085ed;
+  --c31: #05c76e19;  --c32: #27ad248b;  --c33: #28677f5e;  --c34: #f32784c8;  --c35: #d1cfe0e8;
+  --c36: #1b7b2e04;  --c37: #71e9fefd;  --c38: #6e196ede;  --c39: #3cf73adc;  --c40: #0cf96cbd;
+  --c41: #bea44a4e;  --c42: #fda4655b;  --c43: #a3f8942b;  --c44: #b86efcd1;  --c45: #46103d52;
+  --c46: #b9cfe562;  --c47: #a09707d9;  --c48: #a11dc955;  --c49: #46c42fce;  --c50: #2b0e751a;
+  --c51: #5a366aeb;  --c52: #6e3b3469;  --c53: #2decc154;  --c54: #c0e5ed10;  --c55: #600c4447;
+  --c56: #49c6a63c;  --c57: #c30b09b5;  --c58: #cef9df68;  --c59: #67587c44;  --c60: #ecd9ee9b;
+  --c61: #6057bcb0;  --c62: #f540348f;  --c63: #694699c5;  --c64: #1881c171;  --c65: #12182fd7;
+  --c66: #0b825b30;  --c67: #a81e997a;  --c68: #970b01ad;  --c69: #16e9412f;  --c70: #c12d7cda;
+  --c71: #a5ced8fa;  --c72: #6151618d;  --c73: #57d49766;  --c74: #1d4cd039;  --c75: #3c85c590;
+  --c76: #5944b8d9;  --c77: #2e22a55f;  --c78: #7654f911;  --c79: #db0eeac4;  --c80: #51eeccf4;
+  --c81: #6697f150;  --c82: #47208fd3;  --c83: #3871a574;  --c84: #459e9d2f;  --c85: #a841f7de;
+  --c86: #bf148e77;  --c87: #21a494d7;  --c88: #e6fcc306;  --c89: #380cd222;  --c90: #3954feba;
+  --c91: #4580cd2d;  --c92: #313211df;  --c93: #e8bda49b;  --c94: #fb85c415;  --c95: #5990f1af;
+  --c96: #e9d60d95;  --c97: #f87771a5;  --c98: #202e14da;  --c99: #1cbd812b;  --c100: #04519813;
+  --c101: #5aa586a5;  --c102: #dbe6b459;  --c103: #20cd035d;  --c104: #7d75c636;  --c105: #2eab8210;
+  --c106: #a95a16d3;  --c107: #025c15dd;  --c108: #17e61ef6;  --c109: #4bcfb74b;  --c110: #4c9f42be;
+  --c111: #91d472ff;  --c112: #9463bbe8;  --c113: #040a2ab6;  --c114: #e9b1cd34;  --c115: #0ff8d5ef;
+  --c116: #a7a2c45b;  --c117: #0c30eebe;  --c118: #039a0523;  --c119: #01be767d;  --c120: #a6927f68;
+  --c121: #1a6d6e1d;  --c122: #505aa9e7;  --c123: #78809e7e;  --c124: #e8f806bb;  --c125: #5c411363;
+  --c126: #69446250;  --c127: #ebfc136d;  --c128: #7fd43ccf;  --c129: #8c0f053f;  --c130: #84a0cb91;
+  --c131: #7278ad0e;  --c132: #489a6bb5;  --c133: #d89de149;  --c134: #55ab9b26;  --c135: #0bb8afd6;
+  --c136: #4d23715c;  --c137: #eebdd284;  --c138: #c1b4c527;  --c139: #34e2f273;  --c140: #c8db3415;
+  --c141: #60ecfa26;  --c142: #315cf8f8;  --c143: #8899b73f;  --c144: #f31d0184;  --c145: #261657c5;
+  --c146: #30b62659;  --c147: #cdf40f1c;  --c148: #599927ae;  --c149: #a196c3cd;  --c150: #e7c190a7;
+  --c151: #af794b98;  --c152: #af2ac85d;  --c153: #608f0511;  --c154: #9d2bc2a8;  --c155: #b2cbd1c1;
+  --c156: #b7d8b807;  --c157: #f35a3dfb;  --c158: #9946fc67;  --c159: #4a6f0d53;  --c160: #760b8464;
+  --c161: #bde93c08;  --c162: #502e429b;  --c163: #ad75b49a;  --c164: #e4412ca2;  --c165: #a6738a06;
+  --c166: #e0b45536;  --c167: #29aede3f;  --c168: #e5be2c2b;  --c169: #bae458a1;  --c170: #3f80cb8d;
+  --c171: #43420590;  --c172: #ce955a7e;  --c173: #b57c7c20;  --c174: #adbf90e7;  --c175: #d95e9475;
+  --c176: #e35fb498;  --c177: #dbe950bf;  --c178: #9cc0810f;  --c179: #f662fca1;  --c180: #9f8babde;
+  --c181: #8467b253;  --c182: #7e9938b7;  --c183: #2ee84122;  --c184: #ae87345d;  --c185: #c74ee015;
+  --c186: #ab64adfb;  --c187: #86598d7f;  --c188: #33979580;  --c189: #a0b49101;  --c190: #8c8be6c8;
+  --c191: #2ba00a4e;  --c192: #5b4e7140;  --c193: #bbc42dfb;  --c194: #f32dae7c;  --c195: #db136247;
+  --c196: #d0358995;  --c197: #b69a15a6;  --c198: #5126f033;  --c199: #38786cc7;  --c200: #9d6a98a3;
+  --c201: #f1c74b52;  --c202: #37b60d52;  --c203: #c384601a;  --c204: #86335bc0;  --c205: #11350e67;
+  --c206: #4b6e300f;  --c207: #76688739;  --c208: #5eb89d8e;  --c209: #b74dc899;  --c210: #6768e9cd;
+  --c211: #cad0f7e5;  --c212: #c99c7773;  --c213: #be138e34;  --c214: #616d6b36;  --c215: #e5a1d519;
+  --c216: #0150ce91;  --c217: #bbb800bc;  --c218: #ccd93bd5;  --c219: #e6866505;  --c220: #24cbf563;
+  --c221: #f618e943;  --c222: #506f653a;  --c223: #8b2b3708;  --c224: #c92bc5f4;  --c225: #730c5a1a;
+  --c226: #ebb9ff88;  --c227: #ebe3082d;  --c228: #6a35b04e;  --c229: #c03ab715;  --c230: #8648e98d;
+  --c231: #770d386e;  --c232: #ced71f7f;  --c233: #41cb6633;  --c234: #3cc7d226;  --c235: #c4d33c51;
+  --c236: #5e84934a;  --c237: #9cde85fc;  --c238: #0af3ac20;  --c239: #ec5d8d97;  --c240: #2ec1ec2b;
+  --c241: #d07a4e5c;  --c242: #36e15bbe;  --c243: #46908ca6;  --c244: #a761edc0;  --c245: #dfecae00;
+  --c246: #ebb66504;  --c247: #88fc2791;  --c248: #28b10134;  --c249: #b195ee7e;  --c250: #e98e71fc;
+  --c251: #ec4344bc;  --c252: #4f9eb775;  --c253: #cac38004;  --c254: #1319c748;  --c255: #9048bb36;
+  --c256: #2933a98f;  --c-count: 256;
+}
+</style>
+<defs>
+  <linearGradient id="grad-c53807-1" gradientUnits="userSpaceOnUse" x1="800" y1="190" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c59)"/>
+    <stop offset="0.33" stop-color="var(--c214)"/>
+    <stop offset="0.66" stop-color="var(--c80)"/>
+    <stop offset="1.00" stop-color="var(--c117)"/>
+  </linearGradient>
+  <radialGradient id="grad-c53807-2" gradientUnits="userSpaceOnUse" cx="1160" cy="630" r="1410">
+    <stop offset="0.00" stop-color="var(--c52)"/>
+    <stop offset="0.33" stop-color="var(--c253)"/>
+    <stop offset="0.66" stop-color="var(--c56)"/>
+    <stop offset="1.00" stop-color="var(--c81)"/>
+  </radialGradient>
+  <linearGradient id="grad-c53807-3" gradientUnits="userSpaceOnUse" x1="360" y1="210" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c97)"/>
+    <stop offset="0.33" stop-color="var(--c115)"/>
+    <stop offset="0.66" stop-color="var(--c106)"/>
+    <stop offset="1.00" stop-color="var(--c62)"/>
+  </linearGradient>
+  <radialGradient id="grad-c53807-4" gradientUnits="userSpaceOnUse" cx="110" cy="170" r="1870">
+    <stop offset="0.00" stop-color="var(--c121)"/>
+    <stop offset="0.33" stop-color="var(--c80)"/>
+    <stop offset="0.66" stop-color="var(--c176)"/>
+    <stop offset="1.00" stop-color="var(--c225)"/>
+  </radialGradient>
+  <linearGradient id="grad-c53807-5" gradientUnits="userSpaceOnUse" x1="930" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c37)"/>
+    <stop offset="0.33" stop-color="var(--c33)"/>
+    <stop offset="0.66" stop-color="var(--c235)"/>
+    <stop offset="1.00" stop-color="var(--c243)"/>
+  </linearGradient>
+  <radialGradient id="grad-c53807-6" gradientUnits="userSpaceOnUse" cx="1210" cy="480" r="1000">
+    <stop offset="0.00" stop-color="var(--c93)"/>
+    <stop offset="0.33" stop-color="var(--c235)"/>
+    <stop offset="0.66" stop-color="var(--c79)"/>
+    <stop offset="1.00" stop-color="var(--c162)"/>
+  </radialGradient>
+  <linearGradient id="grad-c53807-7" gradientUnits="userSpaceOnUse" x1="440" y1="150" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c48)"/>
+    <stop offset="0.33" stop-color="var(--c116)"/>
+    <stop offset="0.66" stop-color="var(--c101)"/>
+    <stop offset="1.00" stop-color="var(--c115)"/>
+  </linearGradient>
+  <radialGradient id="grad-c53807-8" gradientUnits="userSpaceOnUse" cx="1210" cy="650" r="1730">
+    <stop offset="0.00" stop-color="var(--c77)"/>
+    <stop offset="0.33" stop-color="var(--c160)"/>
+    <stop offset="0.66" stop-color="var(--c204)"/>
+    <stop offset="1.00" stop-color="var(--c43)"/>
+  </radialGradient>
+  <linearGradient id="grad-c53807-9" gradientUnits="userSpaceOnUse" x1="410" y1="260" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c149)"/>
+    <stop offset="0.33" stop-color="var(--c236)"/>
+    <stop offset="0.66" stop-color="var(--c231)"/>
+    <stop offset="1.00" stop-color="var(--c32)"/>
+  </linearGradient>
+  <radialGradient id="grad-c53807-10" gradientUnits="userSpaceOnUse" cx="540" cy="520" r="1490">
+    <stop offset="0.00" stop-color="var(--c149)"/>
+    <stop offset="0.33" stop-color="var(--c76)"/>
+    <stop offset="0.66" stop-color="var(--c174)"/>
+    <stop offset="1.00" stop-color="var(--c77)"/>
+  </radialGradient>
+  <linearGradient id="grad-c53807-11" gradientUnits="userSpaceOnUse" x1="350" y1="170" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c5)"/>
+    <stop offset="0.33" stop-color="var(--c162)"/>
+    <stop offset="0.66" stop-color="var(--c183)"/>
+    <stop offset="1.00" stop-color="var(--c15)"/>
+  </linearGradient>
+  <radialGradient id="grad-c53807-12" gradientUnits="userSpaceOnUse" cx="1400" cy="830" r="1680">
+    <stop offset="0.00" stop-color="var(--c143)"/>
+    <stop offset="0.33" stop-color="var(--c127)"/>
+    <stop offset="0.66" stop-color="var(--c44)"/>
+    <stop offset="1.00" stop-color="var(--c62)"/>
+  </radialGradient>
+</defs>
+<filter id="gaussianblur">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="52 56" edgeMode="duplicate" color-interpolation-filters="sRGB" />
+</filter>
+<filter id="glow">
+  <feDropShadow in="FillPaint" dx="0" dy="0" stdDeviation="13" flood-color="var(--c160)" />
+</filter>
+<filter id="dance" color-interpolation-filters="linearRGB" filterUnits="objectBoundingBox" primitiveUnits="userSpaceOnUse">
+  <feMorphology operator="dilate" radius="8 8" in="SourceAlpha" result="morphology"/>
+  <feFlood flood-color="#000000" flood-opacity="0.5" result="flood"/>
+  <feComposite in="flood" in2="morphology" operator="in" result="composite"/>
+  <feComposite in="composite" in2="SourceAlpha" operator="out" result="composite1"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.01 0.02" numOctaves="1" seed="0" stitchTiles="stitch" result="turbulence"/>
+  <feDisplacementMap in="composite1" in2="turbulence" scale="17" xChannelSelector="A" yChannelSelector="A" result="displacementMap"/>
+  <feMerge result="merge">
+    <feMergeNode in="SourceGraphic" result="mergeNode"/>
+    <feMergeNode in="displacementMap" result="mergeNode1"/>
+  </feMerge>
+</filter>
+<rect x="0" y="0" id="box-c53807"  width="1920" height="957"   fill="currentColor" ></rect>
+<circle id="circ-c53807-1"  r="604" cx="465" cy="35"  fill="url(#grad-c53807-1)" stroke-width="100" stroke="#99CC9933"  filter="url(#glow)"></circle>
+<circle id="circ-c53807-2"  r="516" cx="1593" cy="343"  fill="url(#grad-c53807-2)" stroke-width="100" stroke="#99CC9933"  filter="url(#gaussianblur)"></circle>
+<circle id="circ-c53807-3"  r="125" cx="57" cy="180"  fill="url(#grad-c53807-3)" stroke-width="100" stroke="#99CC9933"  filter="url(#pointlighting)"></circle>
+<circle id="circ-c53807-4"  r="583" cx="576" cy="182"  fill="url(#grad-c53807-4)" stroke-width="100" stroke="#99CC9933"  filter="url(#dance)"></circle>
+<circle id="circ-c53807-5"  r="295" cx="887" cy="921"  fill="url(#grad-c53807-5)" stroke-width="100" stroke="#99CC9933"  filter="url(#pointlighting)"></circle>
+<circle id="circ-c53807-6"  r="501" cx="932" cy="103"  fill="url(#grad-c53807-6)" stroke-width="100" stroke="#99CC9933"  filter="url(#gaussianblur)"></circle>
+<circle id="circ-c53807-7"  r="76" cx="76" cy="236"  fill="url(#grad-c53807-7)" stroke-width="100" stroke="#99CC9933"  filter="url(#dance)"></circle>
+<circle id="circ-c53807-8"  r="539" cx="337" cy="56"  fill="url(#grad-c53807-8)" stroke-width="100" stroke="#99CC9933"  filter="url(#pointlighting)"></circle>
+<circle id="circ-c53807-9"  r="612" cx="32" cy="1006"  fill="url(#grad-c53807-9)" stroke-width="100" stroke="#99CC9933"  filter="url(#dance)"></circle>
+<circle id="circ-c53807-10"  r="487" cx="671" cy="325"  fill="url(#grad-c53807-10)" stroke-width="100" stroke="#99CC9933"  filter="url(#gaussianblur)"></circle>
+<circle id="circ-c53807-11"  r="306" cx="563" cy="432"  fill="url(#grad-c53807-11)" stroke-width="100" stroke="#99CC9933"  filter="url(#glow)"></circle>
+<circle id="circ-c53807-12"  r="255" cx="1733" cy="1152"  fill="url(#grad-c53807-12)" stroke-width="100" stroke="#99CC9933"  filter="url(#gaussianblur)"></circle>
+</svg>
