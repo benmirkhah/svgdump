@@ -1,0 +1,544 @@
+<svg viewBox="0 0 1920 957" id="svg-808325" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+* { transform-box: fill-box; } text { font-size:0.65em; }
+#svg-808325 {
+  --c0:  #00000000; 
+  --c1:  #5806c513;  --c2:  #5f987343;  --c3:  #e814dbb8;  --c4:  #2541fefe;  --c5:  #a69880e0;
+  --c6:  #e58e5ce7;  --c7:  #319b1017;  --c8:  #619043f6;  --c9:  #e7b513f9;  --c10: #9010eacb;
+  --c11: #ee2a90a8;  --c12: #8b112f4e;  --c13: #29743eb4;  --c14: #da8e4f78;  --c15: #e7831b09;
+  --c16: #8da10c88;  --c17: #4ed2dde6;  --c18: #7bde33f8;  --c19: #6f8b5588;  --c20: #72a83e0b;
+  --c21: #345f89a3;  --c22: #ad788edf;  --c23: #0c688ae8;  --c24: #ced2499e;  --c25: #2937c48c;
+  --c26: #a29444e7;  --c27: #0ac78d51;  --c28: #60e7571e;  --c29: #816462f7;  --c30: #ad638d0d;
+  --c31: #7d2a863c;  --c32: #9f9f2f31;  --c33: #11cd98a5;  --c34: #39021f2d;  --c35: #c4f70898;
+  --c36: #8169e963;  --c37: #23e7e131;  --c38: #b158f59a;  --c39: #8b6007b3;  --c40: #46cea0e8;
+  --c41: #5d4662f0;  --c42: #ade85648;  --c43: #5095d928;  --c44: #2b525be8;  --c45: #2cb052b9;
+  --c46: #fa9be762;  --c47: #b15e247b;  --c48: #d1502f28;  --c49: #41db33c3;  --c50: #9e4ebd30;
+  --c51: #1add0427;  --c52: #31065310;  --c53: #73c2be0d;  --c54: #898fbce9;  --c55: #b0ebbbc0;
+  --c56: #5e6abad3;  --c57: #ec54337c;  --c58: #9bc80056;  --c59: #0d3af05e;  --c60: #ddc95b27;
+  --c61: #f447a543;  --c62: #c527276d;  --c63: #0b01e3c3;  --c64: #a7acb4fc;  --c65: #0ceedd92;
+  --c66: #81e860f8;  --c67: #b3cf970c;  --c68: #6d407122;  --c69: #6f9e10f1;  --c70: #7b752c97;
+  --c71: #0c091acd;  --c72: #f1711e3d;  --c73: #ad0a9a56;  --c74: #aaf9aa67;  --c75: #0aaf72b6;
+  --c76: #60a30f3c;  --c77: #73fb881a;  --c78: #3988db76;  --c79: #a2d7d119;  --c80: #3da8ac17;
+  --c81: #b95d62a2;  --c82: #13eb6f3a;  --c83: #42982e5d;  --c84: #eed1a978;  --c85: #59326e59;
+  --c86: #db6fd3e7;  --c87: #c6b4fc77;  --c88: #1713c345;  --c89: #b50b9ea9;  --c90: #ec7b8c06;
+  --c91: #e4a8a2f1;  --c92: #5f56b471;  --c93: #0a998f81;  --c94: #7f2529cd;  --c95: #4c68a6b5;
+  --c96: #6020df3f;  --c97: #bc5134e6;  --c98: #e4fc32e8;  --c99: #9799f945;  --c100: #48ecd858;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <linearGradient id="grad-808325-1" gradientUnits="userSpaceOnUse" x1="540" y1="170" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c50)"></stop>
+    <stop offset="0.25" stop-color="var(--c62)"></stop>
+    <stop offset="0.50" stop-color="var(--c92)"></stop>
+    <stop offset="0.75" stop-color="var(--c54)"></stop>
+    <stop offset="1.00" stop-color="var(--c11)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-2" gradientUnits="userSpaceOnUse" cx="1590" cy="390" r="1440">
+    <stop offset="0.00" stop-color="var(--c86)"></stop>
+    <stop offset="0.25" stop-color="var(--c10)"></stop>
+    <stop offset="0.50" stop-color="var(--c77)"></stop>
+    <stop offset="0.75" stop-color="var(--c96)"></stop>
+    <stop offset="1.00" stop-color="var(--c51)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-3" gradientUnits="userSpaceOnUse" x1="160" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c24)"></stop>
+    <stop offset="0.25" stop-color="var(--c66)"></stop>
+    <stop offset="0.50" stop-color="var(--c53)"></stop>
+    <stop offset="0.75" stop-color="var(--c88)"></stop>
+    <stop offset="1.00" stop-color="var(--c25)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-4" gradientUnits="userSpaceOnUse" cx="280" cy="530" r="1820">
+    <stop offset="0.00" stop-color="var(--c41)"></stop>
+    <stop offset="0.25" stop-color="var(--c6)"></stop>
+    <stop offset="0.50" stop-color="var(--c71)"></stop>
+    <stop offset="0.75" stop-color="var(--c31)"></stop>
+    <stop offset="1.00" stop-color="var(--c6)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-5" gradientUnits="userSpaceOnUse" x1="100" y1="120" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c48)"></stop>
+    <stop offset="0.25" stop-color="var(--c37)"></stop>
+    <stop offset="0.50" stop-color="var(--c44)"></stop>
+    <stop offset="0.75" stop-color="var(--c86)"></stop>
+    <stop offset="1.00" stop-color="var(--c62)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-6" gradientUnits="userSpaceOnUse" cx="130" cy="180" r="1410">
+    <stop offset="0.00" stop-color="var(--c33)"></stop>
+    <stop offset="0.25" stop-color="var(--c12)"></stop>
+    <stop offset="0.50" stop-color="var(--c93)"></stop>
+    <stop offset="0.75" stop-color="var(--c34)"></stop>
+    <stop offset="1.00" stop-color="var(--c55)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-7" gradientUnits="userSpaceOnUse" x1="810" y1="170" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c78)"></stop>
+    <stop offset="0.25" stop-color="var(--c24)"></stop>
+    <stop offset="0.50" stop-color="var(--c14)"></stop>
+    <stop offset="0.75" stop-color="var(--c6)"></stop>
+    <stop offset="1.00" stop-color="var(--c39)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-8" gradientUnits="userSpaceOnUse" cx="550" cy="290" r="1330">
+    <stop offset="0.00" stop-color="var(--c93)"></stop>
+    <stop offset="0.25" stop-color="var(--c2)"></stop>
+    <stop offset="0.50" stop-color="var(--c84)"></stop>
+    <stop offset="0.75" stop-color="var(--c15)"></stop>
+    <stop offset="1.00" stop-color="var(--c97)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-9" gradientUnits="userSpaceOnUse" x1="230" y1="180" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c71)"></stop>
+    <stop offset="0.25" stop-color="var(--c54)"></stop>
+    <stop offset="0.50" stop-color="var(--c30)"></stop>
+    <stop offset="0.75" stop-color="var(--c73)"></stop>
+    <stop offset="1.00" stop-color="var(--c28)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-10" gradientUnits="userSpaceOnUse" cx="100" cy="300" r="1400">
+    <stop offset="0.00" stop-color="var(--c84)"></stop>
+    <stop offset="0.25" stop-color="var(--c86)"></stop>
+    <stop offset="0.50" stop-color="var(--c97)"></stop>
+    <stop offset="0.75" stop-color="var(--c10)"></stop>
+    <stop offset="1.00" stop-color="var(--c89)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-11" gradientUnits="userSpaceOnUse" x1="830" y1="140" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c59)"></stop>
+    <stop offset="0.25" stop-color="var(--c63)"></stop>
+    <stop offset="0.50" stop-color="var(--c31)"></stop>
+    <stop offset="0.75" stop-color="var(--c72)"></stop>
+    <stop offset="1.00" stop-color="var(--c43)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-12" gradientUnits="userSpaceOnUse" cx="840" cy="630" r="1230">
+    <stop offset="0.00" stop-color="var(--c45)"></stop>
+    <stop offset="0.25" stop-color="var(--c12)"></stop>
+    <stop offset="0.50" stop-color="var(--c54)"></stop>
+    <stop offset="0.75" stop-color="var(--c63)"></stop>
+    <stop offset="1.00" stop-color="var(--c55)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-13" gradientUnits="userSpaceOnUse" x1="910" y1="150" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c34)"></stop>
+    <stop offset="0.25" stop-color="var(--c15)"></stop>
+    <stop offset="0.50" stop-color="var(--c60)"></stop>
+    <stop offset="0.75" stop-color="var(--c6)"></stop>
+    <stop offset="1.00" stop-color="var(--c56)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-14" gradientUnits="userSpaceOnUse" cx="1160" cy="480" r="1410">
+    <stop offset="0.00" stop-color="var(--c9)"></stop>
+    <stop offset="0.25" stop-color="var(--c31)"></stop>
+    <stop offset="0.50" stop-color="var(--c39)"></stop>
+    <stop offset="0.75" stop-color="var(--c71)"></stop>
+    <stop offset="1.00" stop-color="var(--c67)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-15" gradientUnits="userSpaceOnUse" x1="800" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c91)"></stop>
+    <stop offset="0.25" stop-color="var(--c47)"></stop>
+    <stop offset="0.50" stop-color="var(--c50)"></stop>
+    <stop offset="0.75" stop-color="var(--c51)"></stop>
+    <stop offset="1.00" stop-color="var(--c72)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-16" gradientUnits="userSpaceOnUse" cx="330" cy="780" r="1140">
+    <stop offset="0.00" stop-color="var(--c56)"></stop>
+    <stop offset="0.25" stop-color="var(--c69)"></stop>
+    <stop offset="0.50" stop-color="var(--c74)"></stop>
+    <stop offset="0.75" stop-color="var(--c92)"></stop>
+    <stop offset="1.00" stop-color="var(--c56)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-17" gradientUnits="userSpaceOnUse" x1="470" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c36)"></stop>
+    <stop offset="0.25" stop-color="var(--c87)"></stop>
+    <stop offset="0.50" stop-color="var(--c34)"></stop>
+    <stop offset="0.75" stop-color="var(--c33)"></stop>
+    <stop offset="1.00" stop-color="var(--c20)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-18" gradientUnits="userSpaceOnUse" cx="1720" cy="130" r="1850">
+    <stop offset="0.00" stop-color="var(--c20)"></stop>
+    <stop offset="0.25" stop-color="var(--c2)"></stop>
+    <stop offset="0.50" stop-color="var(--c38)"></stop>
+    <stop offset="0.75" stop-color="var(--c76)"></stop>
+    <stop offset="1.00" stop-color="var(--c56)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-19" gradientUnits="userSpaceOnUse" x1="780" y1="220" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c16)"></stop>
+    <stop offset="0.25" stop-color="var(--c70)"></stop>
+    <stop offset="0.50" stop-color="var(--c93)"></stop>
+    <stop offset="0.75" stop-color="var(--c23)"></stop>
+    <stop offset="1.00" stop-color="var(--c45)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-20" gradientUnits="userSpaceOnUse" cx="940" cy="550" r="1680">
+    <stop offset="0.00" stop-color="var(--c69)"></stop>
+    <stop offset="0.25" stop-color="var(--c16)"></stop>
+    <stop offset="0.50" stop-color="var(--c90)"></stop>
+    <stop offset="0.75" stop-color="var(--c15)"></stop>
+    <stop offset="1.00" stop-color="var(--c89)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-21" gradientUnits="userSpaceOnUse" x1="110" y1="100" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c18)"></stop>
+    <stop offset="0.25" stop-color="var(--c52)"></stop>
+    <stop offset="0.50" stop-color="var(--c10)"></stop>
+    <stop offset="0.75" stop-color="var(--c60)"></stop>
+    <stop offset="1.00" stop-color="var(--c75)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-22" gradientUnits="userSpaceOnUse" cx="1660" cy="840" r="1070">
+    <stop offset="0.00" stop-color="var(--c97)"></stop>
+    <stop offset="0.25" stop-color="var(--c27)"></stop>
+    <stop offset="0.50" stop-color="var(--c55)"></stop>
+    <stop offset="0.75" stop-color="var(--c82)"></stop>
+    <stop offset="1.00" stop-color="var(--c38)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-23" gradientUnits="userSpaceOnUse" x1="130" y1="220" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c21)"></stop>
+    <stop offset="0.25" stop-color="var(--c85)"></stop>
+    <stop offset="0.50" stop-color="var(--c52)"></stop>
+    <stop offset="0.75" stop-color="var(--c9)"></stop>
+    <stop offset="1.00" stop-color="var(--c2)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-24" gradientUnits="userSpaceOnUse" cx="1690" cy="550" r="1670">
+    <stop offset="0.00" stop-color="var(--c54)"></stop>
+    <stop offset="0.25" stop-color="var(--c13)"></stop>
+    <stop offset="0.50" stop-color="var(--c26)"></stop>
+    <stop offset="0.75" stop-color="var(--c48)"></stop>
+    <stop offset="1.00" stop-color="var(--c55)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-25" gradientUnits="userSpaceOnUse" x1="750" y1="170" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c44)"></stop>
+    <stop offset="0.25" stop-color="var(--c90)"></stop>
+    <stop offset="0.50" stop-color="var(--c94)"></stop>
+    <stop offset="0.75" stop-color="var(--c42)"></stop>
+    <stop offset="1.00" stop-color="var(--c83)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-26" gradientUnits="userSpaceOnUse" cx="120" cy="680" r="1220">
+    <stop offset="0.00" stop-color="var(--c8)"></stop>
+    <stop offset="0.25" stop-color="var(--c35)"></stop>
+    <stop offset="0.50" stop-color="var(--c3)"></stop>
+    <stop offset="0.75" stop-color="var(--c20)"></stop>
+    <stop offset="1.00" stop-color="var(--c62)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-27" gradientUnits="userSpaceOnUse" x1="240" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c67)"></stop>
+    <stop offset="0.25" stop-color="var(--c63)"></stop>
+    <stop offset="0.50" stop-color="var(--c63)"></stop>
+    <stop offset="0.75" stop-color="var(--c95)"></stop>
+    <stop offset="1.00" stop-color="var(--c66)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-28" gradientUnits="userSpaceOnUse" cx="1770" cy="510" r="1250">
+    <stop offset="0.00" stop-color="var(--c86)"></stop>
+    <stop offset="0.25" stop-color="var(--c3)"></stop>
+    <stop offset="0.50" stop-color="var(--c58)"></stop>
+    <stop offset="0.75" stop-color="var(--c28)"></stop>
+    <stop offset="1.00" stop-color="var(--c30)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-29" gradientUnits="userSpaceOnUse" x1="720" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c51)"></stop>
+    <stop offset="0.25" stop-color="var(--c9)"></stop>
+    <stop offset="0.50" stop-color="var(--c85)"></stop>
+    <stop offset="0.75" stop-color="var(--c7)"></stop>
+    <stop offset="1.00" stop-color="var(--c46)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-30" gradientUnits="userSpaceOnUse" cx="180" cy="380" r="1000">
+    <stop offset="0.00" stop-color="var(--c10)"></stop>
+    <stop offset="0.25" stop-color="var(--c21)"></stop>
+    <stop offset="0.50" stop-color="var(--c69)"></stop>
+    <stop offset="0.75" stop-color="var(--c43)"></stop>
+    <stop offset="1.00" stop-color="var(--c98)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-31" gradientUnits="userSpaceOnUse" x1="920" y1="140" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c25)"></stop>
+    <stop offset="0.25" stop-color="var(--c38)"></stop>
+    <stop offset="0.50" stop-color="var(--c74)"></stop>
+    <stop offset="0.75" stop-color="var(--c85)"></stop>
+    <stop offset="1.00" stop-color="var(--c84)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-32" gradientUnits="userSpaceOnUse" cx="1590" cy="570" r="1680">
+    <stop offset="0.00" stop-color="var(--c95)"></stop>
+    <stop offset="0.25" stop-color="var(--c19)"></stop>
+    <stop offset="0.50" stop-color="var(--c42)"></stop>
+    <stop offset="0.75" stop-color="var(--c31)"></stop>
+    <stop offset="1.00" stop-color="var(--c29)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-33" gradientUnits="userSpaceOnUse" x1="440" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c65)"></stop>
+    <stop offset="0.25" stop-color="var(--c91)"></stop>
+    <stop offset="0.50" stop-color="var(--c1)"></stop>
+    <stop offset="0.75" stop-color="var(--c9)"></stop>
+    <stop offset="1.00" stop-color="var(--c7)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-34" gradientUnits="userSpaceOnUse" cx="660" cy="760" r="1580">
+    <stop offset="0.00" stop-color="var(--c55)"></stop>
+    <stop offset="0.25" stop-color="var(--c71)"></stop>
+    <stop offset="0.50" stop-color="var(--c61)"></stop>
+    <stop offset="0.75" stop-color="var(--c64)"></stop>
+    <stop offset="1.00" stop-color="var(--c62)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-35" gradientUnits="userSpaceOnUse" x1="640" y1="260" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c80)"></stop>
+    <stop offset="0.25" stop-color="var(--c15)"></stop>
+    <stop offset="0.50" stop-color="var(--c23)"></stop>
+    <stop offset="0.75" stop-color="var(--c16)"></stop>
+    <stop offset="1.00" stop-color="var(--c98)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-36" gradientUnits="userSpaceOnUse" cx="1100" cy="830" r="1770">
+    <stop offset="0.00" stop-color="var(--c71)"></stop>
+    <stop offset="0.25" stop-color="var(--c76)"></stop>
+    <stop offset="0.50" stop-color="var(--c2)"></stop>
+    <stop offset="0.75" stop-color="var(--c17)"></stop>
+    <stop offset="1.00" stop-color="var(--c10)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-37" gradientUnits="userSpaceOnUse" x1="510" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c44)"></stop>
+    <stop offset="0.25" stop-color="var(--c28)"></stop>
+    <stop offset="0.50" stop-color="var(--c22)"></stop>
+    <stop offset="0.75" stop-color="var(--c24)"></stop>
+    <stop offset="1.00" stop-color="var(--c55)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-38" gradientUnits="userSpaceOnUse" cx="1760" cy="750" r="1800">
+    <stop offset="0.00" stop-color="var(--c41)"></stop>
+    <stop offset="0.25" stop-color="var(--c72)"></stop>
+    <stop offset="0.50" stop-color="var(--c68)"></stop>
+    <stop offset="0.75" stop-color="var(--c21)"></stop>
+    <stop offset="1.00" stop-color="var(--c84)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-39" gradientUnits="userSpaceOnUse" x1="460" y1="100" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c61)"></stop>
+    <stop offset="0.25" stop-color="var(--c94)"></stop>
+    <stop offset="0.50" stop-color="var(--c63)"></stop>
+    <stop offset="0.75" stop-color="var(--c48)"></stop>
+    <stop offset="1.00" stop-color="var(--c82)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-40" gradientUnits="userSpaceOnUse" cx="550" cy="330" r="1860">
+    <stop offset="0.00" stop-color="var(--c6)"></stop>
+    <stop offset="0.25" stop-color="var(--c88)"></stop>
+    <stop offset="0.50" stop-color="var(--c39)"></stop>
+    <stop offset="0.75" stop-color="var(--c97)"></stop>
+    <stop offset="1.00" stop-color="var(--c22)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-41" gradientUnits="userSpaceOnUse" x1="340" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c40)"></stop>
+    <stop offset="0.25" stop-color="var(--c87)"></stop>
+    <stop offset="0.50" stop-color="var(--c19)"></stop>
+    <stop offset="0.75" stop-color="var(--c24)"></stop>
+    <stop offset="1.00" stop-color="var(--c78)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-42" gradientUnits="userSpaceOnUse" cx="100" cy="370" r="980">
+    <stop offset="0.00" stop-color="var(--c80)"></stop>
+    <stop offset="0.25" stop-color="var(--c37)"></stop>
+    <stop offset="0.50" stop-color="var(--c50)"></stop>
+    <stop offset="0.75" stop-color="var(--c82)"></stop>
+    <stop offset="1.00" stop-color="var(--c1)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-43" gradientUnits="userSpaceOnUse" x1="150" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c80)"></stop>
+    <stop offset="0.25" stop-color="var(--c19)"></stop>
+    <stop offset="0.50" stop-color="var(--c21)"></stop>
+    <stop offset="0.75" stop-color="var(--c5)"></stop>
+    <stop offset="1.00" stop-color="var(--c12)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-44" gradientUnits="userSpaceOnUse" cx="1740" cy="610" r="1730">
+    <stop offset="0.00" stop-color="var(--c76)"></stop>
+    <stop offset="0.25" stop-color="var(--c63)"></stop>
+    <stop offset="0.50" stop-color="var(--c59)"></stop>
+    <stop offset="0.75" stop-color="var(--c89)"></stop>
+    <stop offset="1.00" stop-color="var(--c8)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-45" gradientUnits="userSpaceOnUse" x1="220" y1="230" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c53)"></stop>
+    <stop offset="0.25" stop-color="var(--c76)"></stop>
+    <stop offset="0.50" stop-color="var(--c46)"></stop>
+    <stop offset="0.75" stop-color="var(--c15)"></stop>
+    <stop offset="1.00" stop-color="var(--c19)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-46" gradientUnits="userSpaceOnUse" cx="1080" cy="140" r="980">
+    <stop offset="0.00" stop-color="var(--c41)"></stop>
+    <stop offset="0.25" stop-color="var(--c28)"></stop>
+    <stop offset="0.50" stop-color="var(--c21)"></stop>
+    <stop offset="0.75" stop-color="var(--c1)"></stop>
+    <stop offset="1.00" stop-color="var(--c9)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-47" gradientUnits="userSpaceOnUse" x1="190" y1="150" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c33)"></stop>
+    <stop offset="0.25" stop-color="var(--c81)"></stop>
+    <stop offset="0.50" stop-color="var(--c77)"></stop>
+    <stop offset="0.75" stop-color="var(--c15)"></stop>
+    <stop offset="1.00" stop-color="var(--c73)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-48" gradientUnits="userSpaceOnUse" cx="120" cy="150" r="1330">
+    <stop offset="0.00" stop-color="var(--c72)"></stop>
+    <stop offset="0.25" stop-color="var(--c94)"></stop>
+    <stop offset="0.50" stop-color="var(--c88)"></stop>
+    <stop offset="0.75" stop-color="var(--c16)"></stop>
+    <stop offset="1.00" stop-color="var(--c89)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-49" gradientUnits="userSpaceOnUse" x1="770" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c76)"></stop>
+    <stop offset="0.25" stop-color="var(--c30)"></stop>
+    <stop offset="0.50" stop-color="var(--c5)"></stop>
+    <stop offset="0.75" stop-color="var(--c71)"></stop>
+    <stop offset="1.00" stop-color="var(--c66)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-50" gradientUnits="userSpaceOnUse" cx="600" cy="470" r="1460">
+    <stop offset="0.00" stop-color="var(--c41)"></stop>
+    <stop offset="0.25" stop-color="var(--c60)"></stop>
+    <stop offset="0.50" stop-color="var(--c93)"></stop>
+    <stop offset="0.75" stop-color="var(--c37)"></stop>
+    <stop offset="1.00" stop-color="var(--c96)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-51" gradientUnits="userSpaceOnUse" x1="270" y1="260" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c45)"></stop>
+    <stop offset="0.25" stop-color="var(--c36)"></stop>
+    <stop offset="0.50" stop-color="var(--c38)"></stop>
+    <stop offset="0.75" stop-color="var(--c21)"></stop>
+    <stop offset="1.00" stop-color="var(--c10)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-52" gradientUnits="userSpaceOnUse" cx="140" cy="600" r="1860">
+    <stop offset="0.00" stop-color="var(--c37)"></stop>
+    <stop offset="0.25" stop-color="var(--c28)"></stop>
+    <stop offset="0.50" stop-color="var(--c22)"></stop>
+    <stop offset="0.75" stop-color="var(--c17)"></stop>
+    <stop offset="1.00" stop-color="var(--c36)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-53" gradientUnits="userSpaceOnUse" x1="550" y1="180" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c28)"></stop>
+    <stop offset="0.25" stop-color="var(--c32)"></stop>
+    <stop offset="0.50" stop-color="var(--c19)"></stop>
+    <stop offset="0.75" stop-color="var(--c24)"></stop>
+    <stop offset="1.00" stop-color="var(--c85)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-54" gradientUnits="userSpaceOnUse" cx="800" cy="630" r="1580">
+    <stop offset="0.00" stop-color="var(--c7)"></stop>
+    <stop offset="0.25" stop-color="var(--c81)"></stop>
+    <stop offset="0.50" stop-color="var(--c49)"></stop>
+    <stop offset="0.75" stop-color="var(--c51)"></stop>
+    <stop offset="1.00" stop-color="var(--c64)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-55" gradientUnits="userSpaceOnUse" x1="310" y1="100" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c32)"></stop>
+    <stop offset="0.25" stop-color="var(--c25)"></stop>
+    <stop offset="0.50" stop-color="var(--c28)"></stop>
+    <stop offset="0.75" stop-color="var(--c68)"></stop>
+    <stop offset="1.00" stop-color="var(--c47)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-56" gradientUnits="userSpaceOnUse" cx="1490" cy="720" r="1580">
+    <stop offset="0.00" stop-color="var(--c62)"></stop>
+    <stop offset="0.25" stop-color="var(--c4)"></stop>
+    <stop offset="0.50" stop-color="var(--c5)"></stop>
+    <stop offset="0.75" stop-color="var(--c73)"></stop>
+    <stop offset="1.00" stop-color="var(--c3)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-57" gradientUnits="userSpaceOnUse" x1="380" y1="280" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c78)"></stop>
+    <stop offset="0.25" stop-color="var(--c17)"></stop>
+    <stop offset="0.50" stop-color="var(--c20)"></stop>
+    <stop offset="0.75" stop-color="var(--c11)"></stop>
+    <stop offset="1.00" stop-color="var(--c23)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-58" gradientUnits="userSpaceOnUse" cx="880" cy="620" r="1180">
+    <stop offset="0.00" stop-color="var(--c75)"></stop>
+    <stop offset="0.25" stop-color="var(--c28)"></stop>
+    <stop offset="0.50" stop-color="var(--c75)"></stop>
+    <stop offset="0.75" stop-color="var(--c4)"></stop>
+    <stop offset="1.00" stop-color="var(--c37)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-59" gradientUnits="userSpaceOnUse" x1="300" y1="120" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c79)"></stop>
+    <stop offset="0.25" stop-color="var(--c90)"></stop>
+    <stop offset="0.50" stop-color="var(--c48)"></stop>
+    <stop offset="0.75" stop-color="var(--c15)"></stop>
+    <stop offset="1.00" stop-color="var(--c56)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-60" gradientUnits="userSpaceOnUse" cx="1160" cy="840" r="1640">
+    <stop offset="0.00" stop-color="var(--c45)"></stop>
+    <stop offset="0.25" stop-color="var(--c14)"></stop>
+    <stop offset="0.50" stop-color="var(--c16)"></stop>
+    <stop offset="0.75" stop-color="var(--c92)"></stop>
+    <stop offset="1.00" stop-color="var(--c86)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-61" gradientUnits="userSpaceOnUse" x1="180" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c97)"></stop>
+    <stop offset="0.25" stop-color="var(--c78)"></stop>
+    <stop offset="0.50" stop-color="var(--c61)"></stop>
+    <stop offset="0.75" stop-color="var(--c12)"></stop>
+    <stop offset="1.00" stop-color="var(--c47)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-62" gradientUnits="userSpaceOnUse" cx="220" cy="180" r="1880">
+    <stop offset="0.00" stop-color="var(--c49)"></stop>
+    <stop offset="0.25" stop-color="var(--c36)"></stop>
+    <stop offset="0.50" stop-color="var(--c89)"></stop>
+    <stop offset="0.75" stop-color="var(--c19)"></stop>
+    <stop offset="1.00" stop-color="var(--c85)"></stop>
+  </radialGradient>
+  <linearGradient id="grad-808325-63" gradientUnits="userSpaceOnUse" x1="170" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c23)"></stop>
+    <stop offset="0.25" stop-color="var(--c57)"></stop>
+    <stop offset="0.50" stop-color="var(--c63)"></stop>
+    <stop offset="0.75" stop-color="var(--c69)"></stop>
+    <stop offset="1.00" stop-color="var(--c56)"></stop>
+  </linearGradient>
+  <radialGradient id="grad-808325-64" gradientUnits="userSpaceOnUse" cx="1330" cy="350" r="1670">
+    <stop offset="0.00" stop-color="var(--c3)"></stop>
+    <stop offset="0.25" stop-color="var(--c28)"></stop>
+    <stop offset="0.50" stop-color="var(--c5)"></stop>
+    <stop offset="0.75" stop-color="var(--c38)"></stop>
+    <stop offset="1.00" stop-color="var(--c59)"></stop>
+  </radialGradient>
+</defs>
+<rect x="0" y="0" id="box-808325" width="1920" height="957" fill="#333F"></rect>
+<rect id="rect-808325-1" x="956" y="474" width="8" height="8" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" class="square cx960 cy478" style="fill: rgba(213, 6, 13, 0.82);"></rect>
+<rect id="rect-808325-2" x="950" y="479" width="12" height="12" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(10)" class="square cx956 cy485" style="fill: rgba(129, 119, 232, 0.753);"></rect>
+<rect id="rect-808325-3" x="941" y="456" width="16" height="16" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-1)" class="square cx949 cy464" style="fill: rgba(117, 126, 138, 0.557);"></rect>
+<rect id="rect-808325-4" x="974" y="462" width="20" height="20" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(12)" class="square cx984 cy472" style="fill: rgba(224, 155, 69, 0.51);"></rect>
+<rect id="rect-808325-5" x="940" y="499" width="24" height="24" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-2)" class="square cx952 cy511" style="fill: rgba(180, 215, 178, 0.882);"></rect>
+<rect id="rect-808325-6" x="912" y="437" width="28" height="28" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(13)" class="square cx926 cy451" style="fill: rgba(94, 132, 228, 0.282);"></rect>
+<rect id="rect-808325-7" x="990" y="438" width="32" height="32" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-4)" class="square cx1006 cy454" style="fill: rgba(133, 159, 251, 0.404);"></rect>
+<rect id="rect-808325-8" x="942" y="521" width="36" height="36" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(14)" class="square cx960 cy539" style="fill: rgba(222, 189, 163, 0.475);"></rect>
+<rect id="rect-808325-9" x="874" y="427" width="40" height="40" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-5)" class="square cx894 cy447" style="fill: rgba(156, 123, 92, 0.353);"></rect>
+<rect id="rect-808325-10" x="1001" y="403" width="44" height="44" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(16)" class="square cx1023 cy425" style="fill: rgba(249, 254, 26, 0.275);"></rect>
+<rect id="rect-808325-11" x="958" y="543" width="48" height="48" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-7)" class="square cx982 cy567" style="fill: rgba(242, 100, 207, 0.6);"></rect>
+<rect id="rect-808325-12" x="832" y="430" width="52" height="52" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(19)" class="square cx858 cy456" style="fill: rgba(106, 36, 202, 0.533);"></rect>
+<rect id="rect-808325-13" x="1001" y="358" width="56" height="56" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-10)" class="square cx1029 cy386" style="fill: rgba(149, 193, 129, 0.408);"></rect>
+<rect id="rect-808325-14" x="986" y="557" width="60" height="60" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(21)" class="square cx1016 cy587" style="fill: rgba(5, 206, 12, 0.224);"></rect>
+<rect id="rect-808325-15" x="796" y="449" width="64" height="64" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-13)" class="square cx828 cy481" style="fill: rgba(149, 109, 220, 0.44);"></rect>
+<rect id="rect-808325-16" x="983" y="316" width="68" height="68" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(24)" class="square cx1017 cy350" style="fill: rgba(73, 139, 167, 0.72);"></rect>
+<rect id="rect-808325-17" x="1020" y="555" width="72" height="72" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-16)" class="square cx1056 cy591" style="fill: rgba(233, 221, 177, 0.486);"></rect>
+<rect id="rect-808325-18" x="769" y="479" width="76" height="76" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(28)" class="square cx807 cy517" style="fill: rgba(251, 247, 212, 0.27);"></rect>
+<rect id="rect-808325-19" x="952" y="273" width="80" height="80" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-20)" class="square cx992 cy313" style="fill: rgba(63, 118, 8, 0.427);"></rect>
+<rect id="rect-808325-20" x="1059" y="541" width="84" height="84" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(33)" class="square cx1101 cy583" style="fill: rgba(50, 114, 56, 0.667);"></rect>
+<rect id="rect-808325-21" x="750" y="520" width="88" height="88" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-25)" class="square cx794 cy564" style="fill: rgba(128, 27, 116, 0.67);"></rect>
+<rect id="rect-808325-22" x="906" y="235" width="92" height="92" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(38)" class="square cx952 cy281" style="fill: rgba(77, 101, 132, 0.63);"></rect>
+<rect id="rect-808325-23" x="1102" y="512" width="96" height="96" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-31)" class="square cx1150 cy560" style="fill: rgba(205, 43, 62, 0.192);"></rect>
+<rect id="rect-808325-24" x="744" y="571" width="100" height="100" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(44)" class="square cx794 cy621" style="fill: rgba(234, 2, 112, 0.357);"></rect>
+<rect id="rect-808325-25" x="847" y="204" width="104" height="104" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-38)" class="square cx899 cy256" style="fill: rgba(138, 169, 143, 0.52);"></rect>
+<rect id="rect-808325-26" x="1140" y="466" width="108" height="108" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(51)" class="square cx1194 cy520" style="fill: rgba(18, 90, 135, 0.56);"></rect>
+<rect id="rect-808325-27" x="759" y="621" width="112" height="112" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-46)" class="square cx815 cy677" style="fill: rgba(161, 86, 219, 0.424);"></rect>
+<rect id="rect-808325-28" x="780" y="195" width="116" height="116" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(60)" class="square cx838 cy253" style="fill: rgba(227, 46, 92, 0.518);"></rect>
+<rect id="rect-808325-29" x="1163" y="404" width="120" height="120" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-55)" class="square cx1223 cy464" style="fill: rgba(223, 213, 63, 0.267);"></rect>
+<rect id="rect-808325-30" x="792" y="667" width="124" height="124" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(71)" class="square cx854 cy729" style="fill: rgba(36, 188, 188, 0.56);"></rect>
+<rect id="rect-808325-31" x="708" y="203" width="128" height="128" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-67)" class="square cx772 cy267" style="fill: rgba(156, 153, 131, 0.373);"></rect>
+<rect id="rect-808325-32" x="1174" y="331" width="132" height="132" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(83)" class="square cx1240 cy397" style="fill: rgba(124, 17, 122, 0.35);"></rect>
+<rect id="rect-808325-33" x="841" y="707" width="136" height="136" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-80)" class="square cx909 cy775" style="fill: rgba(67, 216, 111, 0.13);"></rect>
+<rect id="rect-808325-34" x="635" y="228" width="140" height="140" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(98)" class="square cx705 cy298" style="fill: rgba(21, 129, 35, 0.255);"></rect>
+<rect id="rect-808325-35" x="1169" y="248" width="144" height="144" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-97)" class="square cx1241 cy320" style="fill: rgba(53, 118, 186, 0.5);"></rect>
+<rect id="rect-808325-36" x="906" y="736" width="148" height="148" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(116)" class="square cx980 cy810" style="fill: rgba(95, 191, 119, 0.28);"></rect>
+<rect id="rect-808325-37" x="564" y="272" width="152" height="152" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-116)" class="square cx640 cy348" style="fill: rgba(159, 210, 116, 0.294);"></rect>
+<rect id="rect-808325-38" x="1143" y="162" width="156" height="156" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(137)" class="square cx1221 cy240" style="fill: rgba(70, 192, 232, 0.23);"></rect>
+<rect id="rect-808325-39" x="983" y="744" width="160" height="160" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-139)" class="square cx1063 cy824" style="fill: rgba(102, 14, 253, 0.29);"></rect>
+<rect id="rect-808325-40" x="512" y="338" width="164" height="164" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(162)" class="square cx594 cy420" style="fill: rgba(237, 163, 128, 0.32);"></rect>
+<rect id="rect-808325-41" x="1090" y="81" width="168" height="168" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-166)" class="square cx1174 cy165" style="fill: rgba(231, 67, 0, 0.17);"></rect>
+<rect id="rect-808325-42" x="1067" y="728" width="172" height="172" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(191)" class="square cx1153 cy814" style="fill: rgba(133, 121, 53, 0.6);"></rect>
+<rect id="rect-808325-43" x="475" y="419" width="176" height="176" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-198)" class="square cx563 cy507" style="fill: rgba(36, 191, 178, 0.463);"></rect>
+<rect id="rect-808325-44" x="1018" y="9" width="180" height="180" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(226)" class="square cx1108 cy99" style="fill: rgba(6, 107, 7, 0.294);"></rect>
+<rect id="rect-808325-45" x="1152" y="690" width="184" height="184" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-236)" class="square cx1244 cy782" style="fill: rgba(205, 128, 170, 0.376);"></rect>
+<rect id="rect-808325-46" x="458" y="511" width="188" height="188" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(268)" class="square cx552 cy605" style="fill: rgba(116, 30, 160, 0.28);"></rect>
+<rect id="rect-808325-47" x="926" y="-51" width="192" height="192" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-282)" class="square cx1022 cy45" style="fill: rgba(161, 48, 176, 0.427);"></rect>
+<rect id="rect-808325-48" x="1234" y="629" width="196" height="196" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(317)" class="square cx1332 cy727" style="fill: rgba(45, 109, 115, 0.314);"></rect>
+<rect id="rect-808325-49" x="464" y="611" width="200" height="200" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-336)" class="square cx564 cy711" style="fill: rgba(92, 35, 244, 0.333);"></rect>
+<rect id="rect-808325-50" x="817" y="-91" width="204" height="204" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(376)" class="square cx919 cy11" style="fill: rgba(165, 194, 67, 0.176);"></rect>
+<rect id="rect-808325-51" x="1301" y="541" width="208" height="208" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-400)" class="square cx1405 cy645" style="fill: rgba(159, 103, 252, 0.16);"></rect>
+<rect id="rect-808325-52" x="503" y="707" width="212" height="212" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(446)" class="square cx609 cy813" style="fill: rgba(6, 68, 26, 0.306);"></rect>
+<rect id="rect-808325-53" x="698" y="-100" width="216" height="216" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-476)" class="square cx806 cy8" style="fill: rgba(103, 63, 166, 0.62);"></rect>
+<rect id="rect-808325-54" x="1348" y="433" width="220" height="220" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(529)" class="square cx1458 cy543" style="fill: rgba(134, 98, 15, 0.42);"></rect>
+<rect id="rect-808325-55" x="568" y="795" width="224" height="224" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-567)" class="square cx680 cy907" style="fill: rgba(174, 188, 55, 0.314);"></rect>
+<rect id="rect-808325-56" x="574" y="-82" width="228" height="228" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(628)" class="square cx688 cy32" style="fill: rgba(214, 147, 160, 0.227);"></rect>
+<rect id="rect-808325-57" x="1372" y="309" width="232" height="232" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-674)" class="square cx1488 cy425" style="fill: rgba(24, 96, 84, 0.357);"></rect>
+<rect id="rect-808325-58" x="455" y="-35" width="236" height="236" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(745)" class="square cx573 cy83" style="fill: rgba(222, 42, 157, 0.353);"></rect>
+<rect id="rect-808325-59" x="1373" y="176" width="240" height="240" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-802)" class="square cx1493 cy296" style="fill: rgba(2, 84, 116, 0.518);"></rect>
+<rect id="rect-808325-60" x="345" y="43" width="244" height="244" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(885)" class="square cx467 cy165" style="fill: rgba(135, 73, 31, 0.545);"></rect>
+<rect id="rect-808325-61" x="1337" y="40" width="248" height="248" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-954)" class="square cx1461 cy164" style="fill: rgba(189, 101, 121, 0.353);"></rect>
+<rect id="rect-808325-62" x="259" y="151" width="252" height="252" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(1050)" class="square cx385 cy277" style="fill: rgba(80, 69, 40, 0.698);"></rect>
+<rect id="rect-808325-63" x="1267" y="-89" width="256" height="256" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(-1134)" class="square cx1395 cy39" style="fill: rgba(155, 103, 26, 0.486);"></rect>
+<rect id="rect-808325-64" x="196" y="280" width="260" height="260" fill="#FF000011" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" onclick="this.style.fill = randomColor()" transform-origin="center center" transform="rotate(1247)" class="square cx326 cy410" style="fill: rgba(74, 35, 134, 0.337);"></rect>
+</svg>

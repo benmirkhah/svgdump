@@ -1,0 +1,282 @@
+<svg viewBox="0 0 1920 957" id="svg-83c329" fill="none" preserveAspectRatio="xMinYMid slice" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<style>
+* { transform-box: fill-box; } text { font-size:0.65em; }
+#svg-83c329 {
+  --c0:  #00000000; 
+  --c1:  #a3715f3a;  --c2:  #bf0d2353;  --c3:  #654f5644;  --c4:  #855d4641;  --c5:  #b46dd670;
+  --c6:  #7b57071e;  --c7:  #a34cfd26;  --c8:  #6344374b;  --c9:  #c37c6e51;  --c10: #8b78f755;
+  --c11: #7d17a96b;  --c12: #7c1be52d;  --c13: #87469519;  --c14: #80755c0d;  --c15: #9c4ff80f;
+  --c16: #e9200f0c;  --c17: #9b4c494f;  --c18: #9d12a046;  --c19: #f04c1904;  --c20: #6b561938;
+  --c21: #e12af509;  --c22: #da254b37;  --c23: #f975df4a;  --c24: #c52d1a12;  --c25: #970b693f;
+  --c26: #8b3f4e46;  --c27: #bc092122;  --c28: #7f03d545;  --c29: #c36a6a31;  --c30: #f9607108;
+  --c31: #cf71c709;  --c32: #b95cfc46;  --c33: #6e31e66a;  --c34: #cd699f36;  --c35: #c429197a;
+  --c36: #bb517f62;  --c37: #9c49804c;  --c38: #99600b33;  --c39: #e408bd5f;  --c40: #8b64c37e;
+  --c41: #ab35a646;  --c42: #f5710e40;  --c43: #b62a477e;  --c44: #f0323363;  --c45: #ad340810;
+  --c46: #ca060d3f;  --c47: #dd2d9738;  --c48: #7f2b2f23;  --c49: #916eaf04;  --c50: #95278413;
+  --c51: #ec2b1942;  --c52: #7e67922e;  --c53: #da2c631b;  --c54: #7d1e7a1e;  --c55: #a64f5366;
+  --c56: #6604ac6a;  --c57: #f62b207a;  --c58: #fe780a66;  --c59: #6c795147;  --c60: #6469e718;
+  --c61: #ec20d342;  --c62: #fe547619;  --c63: #653b423c;  --c64: #941b222a;  --c65: #86641b53;
+  --c66: #ad0a8f0e;  --c67: #9d33d243;  --c68: #e569d63d;  --c69: #820cdc47;  --c70: #8f020574;
+  --c71: #ae484551;  --c72: #b32a553c;  --c73: #fa6e4175;  --c74: #d43de544;  --c75: #a46eb631;
+  --c76: #e0737939;  --c77: #e53eff76;  --c78: #82457b24;  --c79: #f829a67d;  --c80: #fd7c1034;
+  --c81: #d04bcf0b;  --c82: #b97bf037;  --c83: #c9221a3f;  --c84: #8f69b155;  --c85: #d464b008;
+  --c86: #9b14d026;  --c87: #886ce034;  --c88: #e42b3743;  --c89: #7a091223;  --c90: #e85c115f;
+  --c91: #e615db24;  --c92: #9c67550b;  --c93: #f16beb2f;  --c94: #bb415b73;  --c95: #722ed208;
+  --c96: #c364555d;  --c97: #7e5b1c1c;  --c98: #b902bd0a;  --c99: #d107397d;  --c100: #73357a0b;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <radialGradient id="corner-tlc" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#7631658d"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#7631658d"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#4b7caf3c"/>
+    <stop offset="1.00" stop-opacity="0.0"  stop-color="#2b584b11"/>
+  </radialGradient>
+  <radialGradient id="corner-trc" gradientUnits="userSpaceOnUse" cx="1920" cy="0" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#6e2a6698"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#6e2a6698"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#648dda54"/>
+    <stop offset="1.00" stop-opacity="0.0"  stop-color="#38476b1e"/>
+  </radialGradient>
+  <radialGradient id="corner-blc" gradientUnits="userSpaceOnUse" cx="0" cy="957" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#d77fdd97"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#d77fdd97"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#a8aebe26"/>
+    <stop offset="1.00" stop-opacity="0.0"  stop-color="#75746616"/>
+  </radialGradient>
+  <radialGradient id="corner-brc" gradientUnits="userSpaceOnUse" cx="1920" cy="957" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#ae6d84ac"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#ae6d84ac"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#4a918356"/>
+    <stop offset="1.00" stop-opacity="0.0"  stop-color="#782f221a"/>
+  </radialGradient>
+  <linearGradient id="grad-83c329-1" gradientUnits="userSpaceOnUse" x1="860" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c29)"/>
+    <stop offset="0.25" stop-color="var(--c58)"/>
+    <stop offset="0.50" stop-color="var(--c4)"/>
+    <stop offset="0.75" stop-color="var(--c20)"/>
+    <stop offset="1.00" stop-color="var(--c75)"/>
+  </linearGradient>
+  <radialGradient id="grad-83c329-2" gradientUnits="userSpaceOnUse" cx="540" cy="500" r="1170">
+    <stop offset="0.00" stop-color="var(--c68)"/>
+    <stop offset="0.25" stop-color="var(--c99)"/>
+    <stop offset="0.50" stop-color="var(--c76)"/>
+    <stop offset="0.75" stop-color="var(--c79)"/>
+    <stop offset="1.00" stop-color="var(--c44)"/>
+  </radialGradient>
+  <linearGradient id="grad-83c329-3" gradientUnits="userSpaceOnUse" x1="430" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c78)"/>
+    <stop offset="0.25" stop-color="var(--c51)"/>
+    <stop offset="0.50" stop-color="var(--c96)"/>
+    <stop offset="0.75" stop-color="var(--c6)"/>
+    <stop offset="1.00" stop-color="var(--c98)"/>
+  </linearGradient>
+  <radialGradient id="grad-83c329-4" gradientUnits="userSpaceOnUse" cx="1030" cy="720" r="980">
+    <stop offset="0.00" stop-color="var(--c39)"/>
+    <stop offset="0.25" stop-color="var(--c23)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c44)"/>
+    <stop offset="1.00" stop-color="var(--c3)"/>
+  </radialGradient>
+  <linearGradient id="grad-83c329-5" gradientUnits="userSpaceOnUse" x1="350" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c53)"/>
+    <stop offset="0.25" stop-color="var(--c20)"/>
+    <stop offset="0.50" stop-color="var(--c21)"/>
+    <stop offset="0.75" stop-color="var(--c64)"/>
+    <stop offset="1.00" stop-color="var(--c71)"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="0" id="box-83c329"  width="1920" height="957"   fill="#333F" ></rect>
+  <path id="83c329-1" class="corner tlc"  fill="url(#corner-tlc)"  d="M 0,0
+  L 0,0 1920,0
+  Q 1267,803 0,957
+  L 0,957 0,0
+  Z">
+  </path>
+
+  <path id="83c329-2" class="corner trc"  fill="url(#corner-trc)"  d="M 1920,0
+  L 1920,0 0,0
+  Q 653,803 1920,957
+  L 1920,957 1920,0
+  Z">
+  </path>
+
+  <path id="83c329-3" class="corner blc"  fill="url(#corner-blc)"  d="M 0,957
+  L 0,957 0,0
+  Q 1267,154 1920,957
+  L 1920,957 0,957
+  Z">
+  </path>
+
+  <path id="83c329-4" class="corner brc"  fill="url(#corner-brc)"  d="M 1920,957
+  L 1920,957 1920,0
+  Q 653,154 0,957
+  L 0,957 1920,957
+  Z">
+  </path>
+
+<g id="83c329-5" class="nautilus p49"  onclick="this.style.fill = randomColor()" >
+  <path  fill="#f554737d" d="
+  M 711,942
+  Q 675,819 555,774
+  L 555,774 1128,152
+  Q 1033.5,158 972,86
+  L 972,86 711,942
+  Z">
+  </path>
+
+  <path  fill="#ca6de738" d="
+  M 555,774
+  Q 574,653.5 489,566
+  L 489,566 1234,271
+  Q 1151.25,238 1128,152
+  L 1128,152 555,774
+  Z">
+  </path>
+
+  <path  fill="#d622a02d" d="
+  M 489,566
+  Q 555.5,470.5 519,360
+  L 519,360 1274,414
+  Q 1218.25,352.5 1234,271
+  L 1234,271 489,566
+  Z">
+  </path>
+
+  <path  fill="#960cb37b" d="
+  M 519,360
+  Q 615.25,305 629,195
+  L 629,195 1250,551
+  Q 1227.75,476.5 1274,414
+  L 1274,414 519,360
+  Z">
+  </path>
+
+  <path  fill="#dc010e26" d="
+  M 629,195
+  Q 734.75,187.25 792,98
+  L 792,98 1174,657
+  Q 1185.5,585 1250,551
+  L 1250,551 629,195
+  Z">
+  </path>
+
+  <path  fill="#db1a987b" d="
+  M 792,98
+  Q 885,137 972,86
+  L 972,86 1066,711
+  Q 1106.5,657 1174,657
+  L 1174,657 792,98
+  Z">
+  </path>
+
+  <path  fill="#8a166b54" d="
+  M 972,86
+  Q 1033.5,158 1128,152
+  L 1128,152 955,709
+  Q 1011,682.25 1066,711
+  L 1066,711 972,86
+  Z">
+  </path>
+
+  <path  fill="#aa3f9a21" d="
+  M 1128,152
+  Q 1151.25,238 1234,271
+  L 1234,271 866,664
+  Q 921.75,664.25 955,709
+  L 955,709 1128,152
+  Z">
+  </path>
+
+  <path  fill="#b3387802" d="
+  M 1234,271
+  Q 1218.25,352.5 1274,414
+  L 1274,414 812,591
+  Q 857.25,614 866,664
+  L 866,664 1234,271
+  Z">
+  </path>
+
+  <path  fill="#c2299879" d="
+  M 1274,414
+  Q 1227.75,476.5 1250,551
+  L 1250,551 798,512
+  Q 824.75,548 812,591
+  L 812,591 1274,414
+  Z">
+  </path>
+
+  <path  fill="#a03d0e35" d="
+  M 1250,551
+  Q 1185.5,585 1174,657
+  L 1174,657 819,444
+  Q 825.5,483.25 798,512
+  L 798,512 1250,551
+  Z">
+  </path>
+
+  <path  fill="#a636a04f" d="
+  M 1174,657
+  Q 1106.5,657 1066,711
+  L 1066,711 865,401
+  Q 852.75,434 819,444
+  L 819,444 1174,657
+  Z">
+  </path>
+
+  <path  fill="#e75f0625" d="
+  M 1066,711
+  Q 1011,682.25 955,709
+  L 955,709 918,390
+  Q 894.25,408.75 865,401
+  L 865,401 1066,711
+  Z">
+  </path>
+
+  <path  fill="#d369db36" d="
+  M 955,709
+  Q 921.75,664.25 866,664
+  L 866,664 960,404
+  Q 935.5,407.5 918,390
+  L 918,390 955,709
+  Z">
+  </path>
+
+  <path  fill="#d00aed20" d="
+  M 866,664
+  Q 857.25,614 812,591
+  L 812,591 982,431
+  Q 964.25,423 960,404
+  L 960,404 866,664
+  Z">
+  </path>
+
+  <path  fill="#b8272069" d="
+  M 812,591
+  Q 824.75,548 798,512
+  L 798,512 983,459
+  Q 975.5,445.25 982,431
+  L 982,431 812,591
+  Z">
+  </path>
+
+  <path  fill="#874daf5b" d="
+  M 798,512
+  Q 825.5,483.25 819,444
+  L 819,444 969,475
+  Q 972,463.5 983,459
+  L 983,459 798,512
+  Z">
+  </path>
+
+  <path  fill="#ab48b62a" d="
+  M 819,444
+  Q 852.75,434 865,401
+  L 865,401 960,478
+  Q 963.75,474.25 969,475
+  L 969,475 819,444
+  Z">
+  </path>
+</g>
+</svg>

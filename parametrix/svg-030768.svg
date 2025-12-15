@@ -1,0 +1,797 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 957" id="svg-030768" fill="none" preserveAspectRatio="xMinYMid slice">
+<style>
+* { transform-box: fill-box; } text { font-size:0.65em; }
+#svg-030768 {
+  --c0:  #00000000; 
+  --c1:  #8a38145a;  --c2:  #ee56da70;  --c3:  #f81a8a42;  --c4:  #95164a79;  --c5:  #7c733f63;
+  --c6:  #a80d3f44;  --c7:  #f30c9f79;  --c8:  #79681b5f;  --c9:  #697d4968;  --c10: #f911c415;
+  --c11: #ad197600;  --c12: #a1183958;  --c13: #ef42e015;  --c14: #e531cd7f;  --c15: #c06e183c;
+  --c16: #ea52675e;  --c17: #d150625d;  --c18: #7855857b;  --c19: #bd275e5b;  --c20: #7d68ea6e;
+  --c21: #b0639302;  --c22: #aa0b0479;  --c23: #7205ba45;  --c24: #855e575e;  --c25: #c065947e;
+  --c26: #ba02563b;  --c27: #f04d810d;  --c28: #e12c3218;  --c29: #6f1fe85a;  --c30: #ea521c58;
+  --c31: #ab090f2b;  --c32: #73416b29;  --c33: #81681818;  --c34: #64735a0d;  --c35: #f9034869;
+  --c36: #e003fe64;  --c37: #8968a564;  --c38: #d746dd4b;  --c39: #a2725d31;  --c40: #9b4b416e;
+  --c41: #ca570642;  --c42: #8227d518;  --c43: #af336560;  --c44: #e56a4b5d;  --c45: #9c36a725;
+  --c46: #df48d952;  --c47: #6729bb3f;  --c48: #a5177d53;  --c49: #64776028;  --c50: #ed54da2d;
+  --c51: #da4c6e63;  --c52: #cf07fc6b;  --c53: #af79af3a;  --c54: #b42f884c;  --c55: #74709337;
+  --c56: #b0715358;  --c57: #bb6c4d14;  --c58: #716c3826;  --c59: #b51a580c;  --c60: #f97f061b;
+  --c61: #c1450c1a;  --c62: #8065f338;  --c63: #e9248756;  --c64: #cc5aa26d;  --c65: #b1408464;
+  --c66: #a023057a;  --c67: #c0509e71;  --c68: #fc6fa119;  --c69: #f66df759;  --c70: #f77dd728;
+  --c71: #6a70a747;  --c72: #7827f532;  --c73: #c675d426;  --c74: #ba5cde7c;  --c75: #ae234070;
+  --c76: #e90b3820;  --c77: #824daf6e;  --c78: #97092e68;  --c79: #7450fb76;  --c80: #ac02fe10;
+  --c81: #681a203c;  --c82: #f10f6501;  --c83: #674d913f;  --c84: #ac034a3c;  --c85: #844e2158;
+  --c86: #d262c464;  --c87: #d5697e30;  --c88: #c3307147;  --c89: #634e8e07;  --c90: #e96eb160;
+  --c91: #9c1c2651;  --c92: #ea36b307;  --c93: #ee6b7e56;  --c94: #c36b9835;  --c95: #c83fb025;
+  --c96: #8c186a28;  --c97: #cc1c7122;  --c98: #6128bb13;  --c99: #d023e146;  --c100: #a2327a3f;
+  --c-count: 100;
+}
+</style>
+<defs>
+  <radialGradient id="corner-tlc" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#9453a06d"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#9453a06d"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#6fab474a"/>
+    <stop offset="1.00" stop-opacity="0.0" stop-color="#7f51213b"/>
+  </radialGradient>
+  <radialGradient id="corner-trc" gradientUnits="userSpaceOnUse" cx="1920" cy="0" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#bc5bca9a"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#bc5bca9a"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#69807329"/>
+    <stop offset="1.00" stop-opacity="0.0" stop-color="#37342826"/>
+  </radialGradient>
+  <radialGradient id="corner-blc" gradientUnits="userSpaceOnUse" cx="0" cy="957" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#c47da6a9"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#c47da6a9"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#708dad2a"/>
+    <stop offset="1.00" stop-opacity="0.0" stop-color="#526c5e16"/>
+  </radialGradient>
+  <radialGradient id="corner-brc" gradientUnits="userSpaceOnUse" cx="1920" cy="957" r="957">
+    <stop offset="0.00" stop-opacity="0.50" stop-color="#b067826e"/>
+    <stop offset="0.25" stop-opacity="0.33" stop-color="#b067826e"/>
+    <stop offset="0.75" stop-opacity="0.15" stop-color="#7b88484b"/>
+    <stop offset="1.00" stop-opacity="0.0" stop-color="#47344a2f"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-1" gradientUnits="userSpaceOnUse" x1="100" y1="120" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c95)"/>
+    <stop offset="0.25" stop-color="var(--c25)"/>
+    <stop offset="0.50" stop-color="var(--c50)"/>
+    <stop offset="0.75" stop-color="var(--c29)"/>
+    <stop offset="1.00" stop-color="var(--c48)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-2" gradientUnits="userSpaceOnUse" cx="1780" cy="750" r="1350">
+    <stop offset="0.00" stop-color="var(--c55)"/>
+    <stop offset="0.25" stop-color="var(--c94)"/>
+    <stop offset="0.50" stop-color="var(--c34)"/>
+    <stop offset="0.75" stop-color="var(--c11)"/>
+    <stop offset="1.00" stop-color="var(--c87)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-3" gradientUnits="userSpaceOnUse" x1="310" y1="280" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c3)"/>
+    <stop offset="0.25" stop-color="var(--c4)"/>
+    <stop offset="0.50" stop-color="var(--c15)"/>
+    <stop offset="0.75" stop-color="var(--c57)"/>
+    <stop offset="1.00" stop-color="var(--c21)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-4" gradientUnits="userSpaceOnUse" cx="1300" cy="450" r="1390">
+    <stop offset="0.00" stop-color="var(--c98)"/>
+    <stop offset="0.25" stop-color="var(--c31)"/>
+    <stop offset="0.50" stop-color="var(--c92)"/>
+    <stop offset="0.75" stop-color="var(--c65)"/>
+    <stop offset="1.00" stop-color="var(--c99)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-5" gradientUnits="userSpaceOnUse" x1="270" y1="220" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c59)"/>
+    <stop offset="0.25" stop-color="var(--c67)"/>
+    <stop offset="0.50" stop-color="var(--c68)"/>
+    <stop offset="0.75" stop-color="var(--c78)"/>
+    <stop offset="1.00" stop-color="var(--c64)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-6" gradientUnits="userSpaceOnUse" cx="680" cy="550" r="1490">
+    <stop offset="0.00" stop-color="var(--c94)"/>
+    <stop offset="0.25" stop-color="var(--c34)"/>
+    <stop offset="0.50" stop-color="var(--c77)"/>
+    <stop offset="0.75" stop-color="var(--c21)"/>
+    <stop offset="1.00" stop-color="var(--c48)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-7" gradientUnits="userSpaceOnUse" x1="570" y1="170" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c11)"/>
+    <stop offset="0.25" stop-color="var(--c42)"/>
+    <stop offset="0.50" stop-color="var(--c12)"/>
+    <stop offset="0.75" stop-color="var(--c11)"/>
+    <stop offset="1.00" stop-color="var(--c78)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-8" gradientUnits="userSpaceOnUse" cx="1420" cy="760" r="1170">
+    <stop offset="0.00" stop-color="var(--c90)"/>
+    <stop offset="0.25" stop-color="var(--c47)"/>
+    <stop offset="0.50" stop-color="var(--c48)"/>
+    <stop offset="0.75" stop-color="var(--c52)"/>
+    <stop offset="1.00" stop-color="var(--c49)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-9" gradientUnits="userSpaceOnUse" x1="400" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c27)"/>
+    <stop offset="0.25" stop-color="var(--c49)"/>
+    <stop offset="0.50" stop-color="var(--c58)"/>
+    <stop offset="0.75" stop-color="var(--c40)"/>
+    <stop offset="1.00" stop-color="var(--c25)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-10" gradientUnits="userSpaceOnUse" cx="1480" cy="270" r="1720">
+    <stop offset="0.00" stop-color="var(--c28)"/>
+    <stop offset="0.25" stop-color="var(--c49)"/>
+    <stop offset="0.50" stop-color="var(--c90)"/>
+    <stop offset="0.75" stop-color="var(--c13)"/>
+    <stop offset="1.00" stop-color="var(--c1)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-11" gradientUnits="userSpaceOnUse" x1="680" y1="280" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c42)"/>
+    <stop offset="0.25" stop-color="var(--c63)"/>
+    <stop offset="0.50" stop-color="var(--c36)"/>
+    <stop offset="0.75" stop-color="var(--c16)"/>
+    <stop offset="1.00" stop-color="var(--c13)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-12" gradientUnits="userSpaceOnUse" cx="1010" cy="100" r="1180">
+    <stop offset="0.00" stop-color="var(--c37)"/>
+    <stop offset="0.25" stop-color="var(--c70)"/>
+    <stop offset="0.50" stop-color="var(--c27)"/>
+    <stop offset="0.75" stop-color="var(--c36)"/>
+    <stop offset="1.00" stop-color="var(--c10)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-13" gradientUnits="userSpaceOnUse" x1="680" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c18)"/>
+    <stop offset="0.25" stop-color="var(--c71)"/>
+    <stop offset="0.50" stop-color="var(--c84)"/>
+    <stop offset="0.75" stop-color="var(--c96)"/>
+    <stop offset="1.00" stop-color="var(--c94)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-14" gradientUnits="userSpaceOnUse" cx="530" cy="630" r="1840">
+    <stop offset="0.00" stop-color="var(--c15)"/>
+    <stop offset="0.25" stop-color="var(--c98)"/>
+    <stop offset="0.50" stop-color="var(--c35)"/>
+    <stop offset="0.75" stop-color="var(--c22)"/>
+    <stop offset="1.00" stop-color="var(--c20)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-15" gradientUnits="userSpaceOnUse" x1="810" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c49)"/>
+    <stop offset="0.25" stop-color="var(--c78)"/>
+    <stop offset="0.50" stop-color="var(--c63)"/>
+    <stop offset="0.75" stop-color="var(--c46)"/>
+    <stop offset="1.00" stop-color="var(--c51)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-16" gradientUnits="userSpaceOnUse" cx="810" cy="710" r="1770">
+    <stop offset="0.00" stop-color="var(--c2)"/>
+    <stop offset="0.25" stop-color="var(--c13)"/>
+    <stop offset="0.50" stop-color="var(--c54)"/>
+    <stop offset="0.75" stop-color="var(--c50)"/>
+    <stop offset="1.00" stop-color="var(--c1)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-17" gradientUnits="userSpaceOnUse" x1="870" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c36)"/>
+    <stop offset="0.25" stop-color="var(--c49)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c87)"/>
+    <stop offset="1.00" stop-color="var(--c53)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-18" gradientUnits="userSpaceOnUse" cx="500" cy="310" r="1590">
+    <stop offset="0.00" stop-color="var(--c50)"/>
+    <stop offset="0.25" stop-color="var(--c26)"/>
+    <stop offset="0.50" stop-color="var(--c89)"/>
+    <stop offset="0.75" stop-color="var(--c67)"/>
+    <stop offset="1.00" stop-color="var(--c10)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-19" gradientUnits="userSpaceOnUse" x1="510" y1="190" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c22)"/>
+    <stop offset="0.25" stop-color="var(--c29)"/>
+    <stop offset="0.50" stop-color="var(--c30)"/>
+    <stop offset="0.75" stop-color="var(--c31)"/>
+    <stop offset="1.00" stop-color="var(--c28)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-20" gradientUnits="userSpaceOnUse" cx="990" cy="730" r="1160">
+    <stop offset="0.00" stop-color="var(--c95)"/>
+    <stop offset="0.25" stop-color="var(--c8)"/>
+    <stop offset="0.50" stop-color="var(--c63)"/>
+    <stop offset="0.75" stop-color="var(--c80)"/>
+    <stop offset="1.00" stop-color="var(--c2)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-21" gradientUnits="userSpaceOnUse" x1="290" y1="230" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c93)"/>
+    <stop offset="0.25" stop-color="var(--c7)"/>
+    <stop offset="0.50" stop-color="var(--c10)"/>
+    <stop offset="0.75" stop-color="var(--c79)"/>
+    <stop offset="1.00" stop-color="var(--c29)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-22" gradientUnits="userSpaceOnUse" cx="1090" cy="240" r="1320">
+    <stop offset="0.00" stop-color="var(--c1)"/>
+    <stop offset="0.25" stop-color="var(--c8)"/>
+    <stop offset="0.50" stop-color="var(--c76)"/>
+    <stop offset="0.75" stop-color="var(--c53)"/>
+    <stop offset="1.00" stop-color="var(--c82)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-23" gradientUnits="userSpaceOnUse" x1="900" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c38)"/>
+    <stop offset="0.25" stop-color="var(--c33)"/>
+    <stop offset="0.50" stop-color="var(--c72)"/>
+    <stop offset="0.75" stop-color="var(--c30)"/>
+    <stop offset="1.00" stop-color="var(--c67)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-24" gradientUnits="userSpaceOnUse" cx="640" cy="390" r="1150">
+    <stop offset="0.00" stop-color="var(--c97)"/>
+    <stop offset="0.25" stop-color="var(--c27)"/>
+    <stop offset="0.50" stop-color="var(--c11)"/>
+    <stop offset="0.75" stop-color="var(--c20)"/>
+    <stop offset="1.00" stop-color="var(--c1)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-25" gradientUnits="userSpaceOnUse" x1="950" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c60)"/>
+    <stop offset="0.25" stop-color="var(--c13)"/>
+    <stop offset="0.50" stop-color="var(--c53)"/>
+    <stop offset="0.75" stop-color="var(--c41)"/>
+    <stop offset="1.00" stop-color="var(--c59)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-26" gradientUnits="userSpaceOnUse" cx="290" cy="790" r="1730">
+    <stop offset="0.00" stop-color="var(--c22)"/>
+    <stop offset="0.25" stop-color="var(--c85)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c94)"/>
+    <stop offset="1.00" stop-color="var(--c4)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-27" gradientUnits="userSpaceOnUse" x1="570" y1="120" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c49)"/>
+    <stop offset="0.25" stop-color="var(--c65)"/>
+    <stop offset="0.50" stop-color="var(--c96)"/>
+    <stop offset="0.75" stop-color="var(--c89)"/>
+    <stop offset="1.00" stop-color="var(--c13)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-28" gradientUnits="userSpaceOnUse" cx="760" cy="180" r="1810">
+    <stop offset="0.00" stop-color="var(--c48)"/>
+    <stop offset="0.25" stop-color="var(--c67)"/>
+    <stop offset="0.50" stop-color="var(--c64)"/>
+    <stop offset="0.75" stop-color="var(--c4)"/>
+    <stop offset="1.00" stop-color="var(--c24)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-29" gradientUnits="userSpaceOnUse" x1="100" y1="150" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c13)"/>
+    <stop offset="0.25" stop-color="var(--c37)"/>
+    <stop offset="0.50" stop-color="var(--c89)"/>
+    <stop offset="0.75" stop-color="var(--c54)"/>
+    <stop offset="1.00" stop-color="var(--c7)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-30" gradientUnits="userSpaceOnUse" cx="1460" cy="710" r="1150">
+    <stop offset="0.00" stop-color="var(--c47)"/>
+    <stop offset="0.25" stop-color="var(--c31)"/>
+    <stop offset="0.50" stop-color="var(--c54)"/>
+    <stop offset="0.75" stop-color="var(--c97)"/>
+    <stop offset="1.00" stop-color="var(--c39)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-31" gradientUnits="userSpaceOnUse" x1="250" y1="140" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c11)"/>
+    <stop offset="0.25" stop-color="var(--c88)"/>
+    <stop offset="0.50" stop-color="var(--c41)"/>
+    <stop offset="0.75" stop-color="var(--c92)"/>
+    <stop offset="1.00" stop-color="var(--c62)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-32" gradientUnits="userSpaceOnUse" cx="270" cy="480" r="1000">
+    <stop offset="0.00" stop-color="var(--c88)"/>
+    <stop offset="0.25" stop-color="var(--c14)"/>
+    <stop offset="0.50" stop-color="var(--c99)"/>
+    <stop offset="0.75" stop-color="var(--c13)"/>
+    <stop offset="1.00" stop-color="var(--c60)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-33" gradientUnits="userSpaceOnUse" x1="620" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c41)"/>
+    <stop offset="0.25" stop-color="var(--c50)"/>
+    <stop offset="0.50" stop-color="var(--c52)"/>
+    <stop offset="0.75" stop-color="var(--c64)"/>
+    <stop offset="1.00" stop-color="var(--c45)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-34" gradientUnits="userSpaceOnUse" cx="340" cy="440" r="1300">
+    <stop offset="0.00" stop-color="var(--c98)"/>
+    <stop offset="0.25" stop-color="var(--c48)"/>
+    <stop offset="0.50" stop-color="var(--c74)"/>
+    <stop offset="0.75" stop-color="var(--c95)"/>
+    <stop offset="1.00" stop-color="var(--c74)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-35" gradientUnits="userSpaceOnUse" x1="910" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c74)"/>
+    <stop offset="0.25" stop-color="var(--c51)"/>
+    <stop offset="0.50" stop-color="var(--c3)"/>
+    <stop offset="0.75" stop-color="var(--c3)"/>
+    <stop offset="1.00" stop-color="var(--c66)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-36" gradientUnits="userSpaceOnUse" cx="1580" cy="180" r="1270">
+    <stop offset="0.00" stop-color="var(--c42)"/>
+    <stop offset="0.25" stop-color="var(--c18)"/>
+    <stop offset="0.50" stop-color="var(--c47)"/>
+    <stop offset="0.75" stop-color="var(--c70)"/>
+    <stop offset="1.00" stop-color="var(--c71)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-37" gradientUnits="userSpaceOnUse" x1="880" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c43)"/>
+    <stop offset="0.25" stop-color="var(--c54)"/>
+    <stop offset="0.50" stop-color="var(--c27)"/>
+    <stop offset="0.75" stop-color="var(--c37)"/>
+    <stop offset="1.00" stop-color="var(--c34)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-38" gradientUnits="userSpaceOnUse" cx="1600" cy="520" r="1500">
+    <stop offset="0.00" stop-color="var(--c53)"/>
+    <stop offset="0.25" stop-color="var(--c89)"/>
+    <stop offset="0.50" stop-color="var(--c22)"/>
+    <stop offset="0.75" stop-color="var(--c73)"/>
+    <stop offset="1.00" stop-color="var(--c30)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-39" gradientUnits="userSpaceOnUse" x1="870" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c33)"/>
+    <stop offset="0.25" stop-color="var(--c43)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c15)"/>
+    <stop offset="1.00" stop-color="var(--c69)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-40" gradientUnits="userSpaceOnUse" cx="1110" cy="340" r="1740">
+    <stop offset="0.00" stop-color="var(--c5)"/>
+    <stop offset="0.25" stop-color="var(--c79)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c74)"/>
+    <stop offset="1.00" stop-color="var(--c83)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-41" gradientUnits="userSpaceOnUse" x1="410" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c20)"/>
+    <stop offset="0.25" stop-color="var(--c49)"/>
+    <stop offset="0.50" stop-color="var(--c62)"/>
+    <stop offset="0.75" stop-color="var(--c43)"/>
+    <stop offset="1.00" stop-color="var(--c21)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-42" gradientUnits="userSpaceOnUse" cx="390" cy="610" r="1710">
+    <stop offset="0.00" stop-color="var(--c70)"/>
+    <stop offset="0.25" stop-color="var(--c11)"/>
+    <stop offset="0.50" stop-color="var(--c40)"/>
+    <stop offset="0.75" stop-color="var(--c4)"/>
+    <stop offset="1.00" stop-color="var(--c94)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-43" gradientUnits="userSpaceOnUse" x1="260" y1="160" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c95)"/>
+    <stop offset="0.25" stop-color="var(--c84)"/>
+    <stop offset="0.50" stop-color="var(--c47)"/>
+    <stop offset="0.75" stop-color="var(--c53)"/>
+    <stop offset="1.00" stop-color="var(--c9)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-44" gradientUnits="userSpaceOnUse" cx="1610" cy="320" r="1470">
+    <stop offset="0.00" stop-color="var(--c15)"/>
+    <stop offset="0.25" stop-color="var(--c32)"/>
+    <stop offset="0.50" stop-color="var(--c9)"/>
+    <stop offset="0.75" stop-color="var(--c41)"/>
+    <stop offset="1.00" stop-color="var(--c80)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-45" gradientUnits="userSpaceOnUse" x1="950" y1="140" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c80)"/>
+    <stop offset="0.25" stop-color="var(--c69)"/>
+    <stop offset="0.50" stop-color="var(--c39)"/>
+    <stop offset="0.75" stop-color="var(--c13)"/>
+    <stop offset="1.00" stop-color="var(--c53)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-46" gradientUnits="userSpaceOnUse" cx="960" cy="110" r="1690">
+    <stop offset="0.00" stop-color="var(--c85)"/>
+    <stop offset="0.25" stop-color="var(--c40)"/>
+    <stop offset="0.50" stop-color="var(--c75)"/>
+    <stop offset="0.75" stop-color="var(--c87)"/>
+    <stop offset="1.00" stop-color="var(--c69)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-47" gradientUnits="userSpaceOnUse" x1="740" y1="280" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c29)"/>
+    <stop offset="0.25" stop-color="var(--c68)"/>
+    <stop offset="0.50" stop-color="var(--c3)"/>
+    <stop offset="0.75" stop-color="var(--c51)"/>
+    <stop offset="1.00" stop-color="var(--c3)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-48" gradientUnits="userSpaceOnUse" cx="1560" cy="360" r="1600">
+    <stop offset="0.00" stop-color="var(--c15)"/>
+    <stop offset="0.25" stop-color="var(--c99)"/>
+    <stop offset="0.50" stop-color="var(--c42)"/>
+    <stop offset="0.75" stop-color="var(--c2)"/>
+    <stop offset="1.00" stop-color="var(--c88)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-49" gradientUnits="userSpaceOnUse" x1="590" y1="270" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c83)"/>
+    <stop offset="0.25" stop-color="var(--c38)"/>
+    <stop offset="0.50" stop-color="var(--c57)"/>
+    <stop offset="0.75" stop-color="var(--c27)"/>
+    <stop offset="1.00" stop-color="var(--c38)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-50" gradientUnits="userSpaceOnUse" cx="320" cy="840" r="1420">
+    <stop offset="0.00" stop-color="var(--c93)"/>
+    <stop offset="0.25" stop-color="var(--c24)"/>
+    <stop offset="0.50" stop-color="var(--c23)"/>
+    <stop offset="0.75" stop-color="var(--c81)"/>
+    <stop offset="1.00" stop-color="var(--c99)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-51" gradientUnits="userSpaceOnUse" x1="930" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c20)"/>
+    <stop offset="0.25" stop-color="var(--c59)"/>
+    <stop offset="0.50" stop-color="var(--c3)"/>
+    <stop offset="0.75" stop-color="var(--c55)"/>
+    <stop offset="1.00" stop-color="var(--c96)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-52" gradientUnits="userSpaceOnUse" cx="260" cy="830" r="1910">
+    <stop offset="0.00" stop-color="var(--c4)"/>
+    <stop offset="0.25" stop-color="var(--c30)"/>
+    <stop offset="0.50" stop-color="var(--c37)"/>
+    <stop offset="0.75" stop-color="var(--c17)"/>
+    <stop offset="1.00" stop-color="var(--c45)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-53" gradientUnits="userSpaceOnUse" x1="790" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c88)"/>
+    <stop offset="0.25" stop-color="var(--c14)"/>
+    <stop offset="0.50" stop-color="var(--c91)"/>
+    <stop offset="0.75" stop-color="var(--c71)"/>
+    <stop offset="1.00" stop-color="var(--c39)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-54" gradientUnits="userSpaceOnUse" cx="1000" cy="190" r="1670">
+    <stop offset="0.00" stop-color="var(--c42)"/>
+    <stop offset="0.25" stop-color="var(--c87)"/>
+    <stop offset="0.50" stop-color="var(--c88)"/>
+    <stop offset="0.75" stop-color="var(--c53)"/>
+    <stop offset="1.00" stop-color="var(--c68)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-55" gradientUnits="userSpaceOnUse" x1="630" y1="100" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c22)"/>
+    <stop offset="0.25" stop-color="var(--c64)"/>
+    <stop offset="0.50" stop-color="var(--c23)"/>
+    <stop offset="0.75" stop-color="var(--c49)"/>
+    <stop offset="1.00" stop-color="var(--c33)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-56" gradientUnits="userSpaceOnUse" cx="640" cy="660" r="1060">
+    <stop offset="0.00" stop-color="var(--c95)"/>
+    <stop offset="0.25" stop-color="var(--c56)"/>
+    <stop offset="0.50" stop-color="var(--c50)"/>
+    <stop offset="0.75" stop-color="var(--c67)"/>
+    <stop offset="1.00" stop-color="var(--c62)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-57" gradientUnits="userSpaceOnUse" x1="950" y1="230" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c7)"/>
+    <stop offset="0.25" stop-color="var(--c86)"/>
+    <stop offset="0.50" stop-color="var(--c26)"/>
+    <stop offset="0.75" stop-color="var(--c25)"/>
+    <stop offset="1.00" stop-color="var(--c49)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-58" gradientUnits="userSpaceOnUse" cx="1130" cy="430" r="1400">
+    <stop offset="0.00" stop-color="var(--c55)"/>
+    <stop offset="0.25" stop-color="var(--c21)"/>
+    <stop offset="0.50" stop-color="var(--c79)"/>
+    <stop offset="0.75" stop-color="var(--c96)"/>
+    <stop offset="1.00" stop-color="var(--c22)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-59" gradientUnits="userSpaceOnUse" x1="920" y1="220" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c66)"/>
+    <stop offset="0.25" stop-color="var(--c98)"/>
+    <stop offset="0.50" stop-color="var(--c76)"/>
+    <stop offset="0.75" stop-color="var(--c73)"/>
+    <stop offset="1.00" stop-color="var(--c19)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-60" gradientUnits="userSpaceOnUse" cx="780" cy="720" r="1840">
+    <stop offset="0.00" stop-color="var(--c34)"/>
+    <stop offset="0.25" stop-color="var(--c36)"/>
+    <stop offset="0.50" stop-color="var(--c55)"/>
+    <stop offset="0.75" stop-color="var(--c19)"/>
+    <stop offset="1.00" stop-color="var(--c54)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-61" gradientUnits="userSpaceOnUse" x1="550" y1="240" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c36)"/>
+    <stop offset="0.25" stop-color="var(--c71)"/>
+    <stop offset="0.50" stop-color="var(--c17)"/>
+    <stop offset="0.75" stop-color="var(--c24)"/>
+    <stop offset="1.00" stop-color="var(--c26)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-62" gradientUnits="userSpaceOnUse" cx="680" cy="410" r="1050">
+    <stop offset="0.00" stop-color="var(--c76)"/>
+    <stop offset="0.25" stop-color="var(--c47)"/>
+    <stop offset="0.50" stop-color="var(--c27)"/>
+    <stop offset="0.75" stop-color="var(--c97)"/>
+    <stop offset="1.00" stop-color="var(--c44)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-63" gradientUnits="userSpaceOnUse" x1="300" y1="220" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c71)"/>
+    <stop offset="0.25" stop-color="var(--c93)"/>
+    <stop offset="0.50" stop-color="var(--c44)"/>
+    <stop offset="0.75" stop-color="var(--c90)"/>
+    <stop offset="1.00" stop-color="var(--c54)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-64" gradientUnits="userSpaceOnUse" cx="1590" cy="840" r="1610">
+    <stop offset="0.00" stop-color="var(--c79)"/>
+    <stop offset="0.25" stop-color="var(--c47)"/>
+    <stop offset="0.50" stop-color="var(--c5)"/>
+    <stop offset="0.75" stop-color="var(--c54)"/>
+    <stop offset="1.00" stop-color="var(--c52)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-65" gradientUnits="userSpaceOnUse" x1="900" y1="100" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c55)"/>
+    <stop offset="0.25" stop-color="var(--c34)"/>
+    <stop offset="0.50" stop-color="var(--c72)"/>
+    <stop offset="0.75" stop-color="var(--c36)"/>
+    <stop offset="1.00" stop-color="var(--c56)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-66" gradientUnits="userSpaceOnUse" cx="1430" cy="320" r="1060">
+    <stop offset="0.00" stop-color="var(--c93)"/>
+    <stop offset="0.25" stop-color="var(--c68)"/>
+    <stop offset="0.50" stop-color="var(--c57)"/>
+    <stop offset="0.75" stop-color="var(--c82)"/>
+    <stop offset="1.00" stop-color="var(--c46)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-67" gradientUnits="userSpaceOnUse" x1="140" y1="170" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c5)"/>
+    <stop offset="0.25" stop-color="var(--c13)"/>
+    <stop offset="0.50" stop-color="var(--c74)"/>
+    <stop offset="0.75" stop-color="var(--c42)"/>
+    <stop offset="1.00" stop-color="var(--c34)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-68" gradientUnits="userSpaceOnUse" cx="950" cy="410" r="960">
+    <stop offset="0.00" stop-color="var(--c77)"/>
+    <stop offset="0.25" stop-color="var(--c9)"/>
+    <stop offset="0.50" stop-color="var(--c65)"/>
+    <stop offset="0.75" stop-color="var(--c92)"/>
+    <stop offset="1.00" stop-color="var(--c85)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-69" gradientUnits="userSpaceOnUse" x1="220" y1="110" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c22)"/>
+    <stop offset="0.25" stop-color="var(--c63)"/>
+    <stop offset="0.50" stop-color="var(--c10)"/>
+    <stop offset="0.75" stop-color="var(--c16)"/>
+    <stop offset="1.00" stop-color="var(--c96)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-70" gradientUnits="userSpaceOnUse" cx="1100" cy="800" r="1200">
+    <stop offset="0.00" stop-color="var(--c64)"/>
+    <stop offset="0.25" stop-color="var(--c8)"/>
+    <stop offset="0.50" stop-color="var(--c68)"/>
+    <stop offset="0.75" stop-color="var(--c30)"/>
+    <stop offset="1.00" stop-color="var(--c77)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-71" gradientUnits="userSpaceOnUse" x1="800" y1="200" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c73)"/>
+    <stop offset="0.25" stop-color="var(--c80)"/>
+    <stop offset="0.50" stop-color="var(--c23)"/>
+    <stop offset="0.75" stop-color="var(--c23)"/>
+    <stop offset="1.00" stop-color="var(--c39)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-72" gradientUnits="userSpaceOnUse" cx="170" cy="200" r="1560">
+    <stop offset="0.00" stop-color="var(--c62)"/>
+    <stop offset="0.25" stop-color="var(--c47)"/>
+    <stop offset="0.50" stop-color="var(--c13)"/>
+    <stop offset="0.75" stop-color="var(--c39)"/>
+    <stop offset="1.00" stop-color="var(--c39)"/>
+  </radialGradient>
+  <linearGradient id="grad-030768-73" gradientUnits="userSpaceOnUse" x1="140" y1="260" x2="1920" y2="957">
+    <stop offset="0.00" stop-color="var(--c87)"/>
+    <stop offset="0.25" stop-color="var(--c12)"/>
+    <stop offset="0.50" stop-color="var(--c19)"/>
+    <stop offset="0.75" stop-color="var(--c35)"/>
+    <stop offset="1.00" stop-color="var(--c5)"/>
+  </linearGradient>
+  <radialGradient id="grad-030768-74" gradientUnits="userSpaceOnUse" cx="220" cy="380" r="1450">
+    <stop offset="0.00" stop-color="var(--c2)"/>
+    <stop offset="0.25" stop-color="var(--c97)"/>
+    <stop offset="0.50" stop-color="var(--c52)"/>
+    <stop offset="0.75" stop-color="var(--c44)"/>
+    <stop offset="1.00" stop-color="var(--c95)"/>
+  </radialGradient>
+</defs>
+<rect x="0" y="0" id="box-030768" width="1920" height="957" fill="#333F"/>
+<circle cx="53" cy="427" r="6" stroke="#5a51d73f" class="point"/> 
+  <path id="030768-1" class="corner tlc" fill="url(#corner-tlc)" d="M 0,0   L 0,0 1920,0   Q 1267,803 0,957   L 0,957 0,0   Z">
+  </path>
+
+  <path id="030768-2" class="corner trc" fill="url(#corner-trc)" d="M 1920,0   L 1920,0 0,0   Q 653,803 1920,957   L 1920,957 1920,0   Z">
+  </path>
+
+  <path id="030768-3" class="corner blc" fill="url(#corner-blc)" d="M 0,957   L 0,957 0,0   Q 1267,154 1920,957   L 1920,957 0,957   Z">
+  </path>
+
+  <path id="030768-4" class="corner brc" fill="url(#corner-brc)" d="M 1920,957   L 1920,957 1920,0   Q 653,154 0,957   L 0,957 1920,957   Z">
+  </path>
+
+  <polygon id="pentagon-030768-5-5" class="pentagon" fill="url(#grad-030768-5)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(5)" onclick="this.style.fill = randomColor()" points="971,478 963,489 950,485 950,470 963,466 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-6-6" class="pentagon" fill="url(#grad-030768-6)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(10)" onclick="this.style.fill = randomColor()" points="969,485 960,498 944,493 944,476 960,471 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-7-6" class="pentagon" fill="url(#grad-030768-7)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(15)" onclick="this.style.fill = randomColor()" points="964,464 953,479 936,473 936,454 953,448 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-8-6" class="pentagon" fill="url(#grad-030768-8)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(20)" onclick="this.style.fill = randomColor()" points="1001,472 989,489 969,482 969,461 989,454 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-9-6" class="pentagon" fill="url(#grad-030768-9)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(25)" onclick="this.style.fill = randomColor()" points="971,511 958,530 935,522 935,499 958,491 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-10-6" class="pentagon" fill="url(#grad-030768-10)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(30)" onclick="this.style.fill = randomColor()" points="947,451 932,471 908,463 908,438 932,430 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-11-6" class="pentagon" fill="url(#grad-030768-11)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(35)" onclick="this.style.fill = randomColor()" points="1029,454 1013,476 986,468 986,439 1013,431 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-12-6" class="pentagon" fill="url(#grad-030768-12)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(40)" onclick="this.style.fill = randomColor()" points="985,539 968,563 938,554 938,523 968,514 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-13-6" class="pentagon" fill="url(#grad-030768-13)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(45)" onclick="this.style.fill = randomColor()" points="921,447 902,473 871,463 871,430 902,420 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-14-6" class="pentagon" fill="url(#grad-030768-14)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(50)" onclick="this.style.fill = randomColor()" points="1052,425 1032,453 998,442 998,407 1032,396 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-15-6" class="pentagon" fill="url(#grad-030768-15)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(55)" onclick="this.style.fill = randomColor()" points="1013,567 991,597 956,585 956,548 991,536 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-16-6" class="pentagon" fill="url(#grad-030768-16)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(60)" onclick="this.style.fill = randomColor()" points="891,456 868,488 830,475 830,435 868,423 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-17-6" class="pentagon" fill="url(#grad-030768-17)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(65)" onclick="this.style.fill = randomColor()" points="1064,386 1040,420 999,407 999,364 1040,351 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-18-6" class="pentagon" fill="url(#grad-030768-18)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(70)" onclick="this.style.fill = randomColor()" points="1053,587 1027,623 985,609 985,564 1027,550 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-19-6" class="pentagon" fill="url(#grad-030768-19)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(75)" onclick="this.style.fill = randomColor()" points="867,481 840,519 795,504 795,457 840,442 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-20-6" class="pentagon" fill="url(#grad-030768-20)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(80)" onclick="this.style.fill = randomColor()" points="1058,350 1029,389 982,374 983,325 1030,310 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-21-6" class="pentagon" fill="url(#grad-030768-21)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(85)" onclick="this.style.fill = randomColor()" points="1099,591 1069,632 1020,616 1020,565 1069,549 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-22-6" class="pentagon" fill="url(#grad-030768-22)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(90)" onclick="this.style.fill = randomColor()" points="852,517 821,560 769,543 769,489 821,473 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-23-6" class="pentagon" fill="url(#grad-030768-23)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(95)" onclick="this.style.fill = randomColor()" points="1039,313 1006,358 953,341 953,284 1006,267 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-24-6" class="pentagon" fill="url(#grad-030768-24)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(100)" onclick="this.style.fill = randomColor()" points="1150,583 1116,630 1060,612 1060,553 1116,535 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-25-6" class="pentagon" fill="url(#grad-030768-25)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(105)" onclick="this.style.fill = randomColor()" points="845,564 810,613 751,594 751,533 810,514 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-26-6" class="pentagon" fill="url(#grad-030768-26)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(110)" onclick="this.style.fill = randomColor()" points="1005,281 968,332 908,312 908,249 968,229 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-27-6" class="pentagon" fill="url(#grad-030768-27)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(115)" onclick="this.style.fill = randomColor()" points="1205,560 1167,613 1104,592 1104,527 1167,506 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-28-6" class="pentagon" fill="url(#grad-030768-28)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(120)" onclick="this.style.fill = randomColor()" points="851,621 811,676 747,655 747,586 811,565 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-29-6" class="pentagon" fill="url(#grad-030768-29)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(125)" onclick="this.style.fill = randomColor()" points="958,256 917,313 850,291 850,220 917,198 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-30-6" class="pentagon" fill="url(#grad-030768-30)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(130)" onclick="this.style.fill = randomColor()" points="1255,520 1213,578 1143,556 1143,483 1213,461 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-31-6" class="pentagon" fill="url(#grad-030768-31)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(135)" onclick="this.style.fill = randomColor()" points="878,677 834,737 763,714 763,639 834,616 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-32-6" class="pentagon" fill="url(#grad-030768-32)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(140)" onclick="this.style.fill = randomColor()" points="903,253 858,315 784,291 784,214 858,190 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-33-6" class="pentagon" fill="url(#grad-030768-33)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(145)" onclick="this.style.fill = randomColor()" points="1290,464 1243,528 1167,503 1168,423 1244,399 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-34-6" class="pentagon" fill="url(#grad-030768-34)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(150)" onclick="this.style.fill = randomColor()" points="923,729 875,795 797,770 797,687 875,662 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-35-6" class="pentagon" fill="url(#grad-030768-35)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(155)" onclick="this.style.fill = randomColor()" points="843,267 794,335 713,309 713,224 794,198 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-36-6" class="pentagon" fill="url(#grad-030768-36)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(160)" onclick="this.style.fill = randomColor()" points="1313,397 1262,467 1180,440 1180,353 1262,326 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-37-6" class="pentagon" fill="url(#grad-030768-37)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(165)" onclick="this.style.fill = randomColor()" points="984,775 932,847 847,819 847,730 932,702 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-38-6" class="pentagon" fill="url(#grad-030768-38)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(170)" onclick="this.style.fill = randomColor()" points="782,298 729,372 641,343 641,252 729,223 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-39-6" class="pentagon" fill="url(#grad-030768-39)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(175)" onclick="this.style.fill = randomColor()" points="1320,320 1265,396 1176,366 1176,272 1265,243 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-40-6" class="pentagon" fill="url(#grad-030768-40)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(180)" onclick="this.style.fill = randomColor()" points="1061,810 1005,888 913,858 913,761 1005,732 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-41-6" class="pentagon" fill="url(#grad-030768-41)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(185)" onclick="this.style.fill = randomColor()" points="723,348 665,427 571,397 572,298 666,268 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-42-6" class="pentagon" fill="url(#grad-030768-42)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(190)" onclick="this.style.fill = randomColor()" points="1306,240 1247,321 1151,290 1151,189 1247,158 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-43-6" class="pentagon" fill="url(#grad-030768-43)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(195)" onclick="this.style.fill = randomColor()" points="1150,824 1090,907 991,875 991,772 1090,740 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-44-6" class="pentagon" fill="url(#grad-030768-44)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(200)" onclick="this.style.fill = randomColor()" points="683,420 621,505 521,472 521,367 621,334 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-45-6" class="pentagon" fill="url(#grad-030768-45)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(205)" onclick="this.style.fill = randomColor()" points="1265,165 1202,252 1099,218 1099,110 1202,77 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-46-6" class="pentagon" fill="url(#grad-030768-46)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(210)" onclick="this.style.fill = randomColor()" points="1246,814 1181,903 1076,869 1077,758 1182,724 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-47-6" class="pentagon" fill="url(#grad-030768-47)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(215)" onclick="this.style.fill = randomColor()" points="658,507 592,598 485,563 485,450 592,415 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-48-6" class="pentagon" fill="url(#grad-030768-48)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(220)" onclick="this.style.fill = randomColor()" points="1205,99 1138,192 1028,156 1028,41 1138,5 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-49-6" class="pentagon" fill="url(#grad-030768-49)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(225)" onclick="this.style.fill = randomColor()" points="1343,782 1274,877 1163,840 1163,723 1275,686 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-50-6" class="pentagon" fill="url(#grad-030768-50)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(230)" onclick="this.style.fill = randomColor()" points="653,605 583,702 469,664 469,544 583,508 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-51-6" class="pentagon" fill="url(#grad-030768-51)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(235)" onclick="this.style.fill = randomColor()" points="1125,45 1054,143 937,106 937,-16 1054,-53 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-52-6" class="pentagon" fill="url(#grad-030768-52)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(240)" onclick="this.style.fill = randomColor()" points="1437,727 1364,827 1246,789 1246,664 1364,626 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-53-6" class="pentagon" fill="url(#grad-030768-53)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(245)" onclick="this.style.fill = randomColor()" points="671,711 597,813 476,774 476,647 597,608 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-54-6" class="pentagon" fill="url(#grad-030768-54)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(250)" onclick="this.style.fill = randomColor()" points="1028,11 952,115 829,75 830,-53 953,-93 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-55-6" class="pentagon" fill="url(#grad-030768-55)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(255)" onclick="this.style.fill = randomColor()" points="1516,645 1439,751 1314,710 1314,579 1439,538 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-56-6" class="pentagon" fill="url(#grad-030768-56)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(260)" onclick="this.style.fill = randomColor()" points="722,813 644,921 516,879 516,745 644,704 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-57-6" class="pentagon" fill="url(#grad-030768-57)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(265)" onclick="this.style.fill = randomColor()" points="921,8 841,118 712,76 712,-60 841,-102 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-58-6" class="pentagon" fill="url(#grad-030768-58)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(270)" onclick="this.style.fill = randomColor()" points="1575,543 1494,655 1362,612 1362,473 1494,430 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-59-6" class="pentagon" fill="url(#grad-030768-59)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(275)" onclick="this.style.fill = randomColor()" points="799,907 716,1021 582,977 583,836 717,792 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-60-6" class="pentagon" fill="url(#grad-030768-60)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(280)" onclick="this.style.fill = randomColor()" points="809,32 725,148 589,103 589,-39 725,-83 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-61-6" class="pentagon" fill="url(#grad-030768-61)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(285)" onclick="this.style.fill = randomColor()" points="1611,425 1526,542 1387,497 1387,351 1526,307 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-62-6" class="pentagon" fill="url(#grad-030768-62)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(290)" onclick="this.style.fill = randomColor()" points="698,83 611,202 470,156 471,8 612,-36 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-63-6" class="pentagon" fill="url(#grad-030768-63)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(295)" onclick="this.style.fill = randomColor()" points="1620,296 1532,417 1389,371 1389,220 1532,174 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-64-6" class="pentagon" fill="url(#grad-030768-64)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(300)" onclick="this.style.fill = randomColor()" points="596,165 507,288 361,241 361,88 507,41 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-65-6" class="pentagon" fill="url(#grad-030768-65)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(305)" onclick="this.style.fill = randomColor()" points="1592,164 1501,289 1354,241 1354,86 1501,38 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-66-6" class="pentagon" fill="url(#grad-030768-66)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(310)" onclick="this.style.fill = randomColor()" points="518,277 426,404 276,355 276,198 426,149 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-67-6" class="pentagon" fill="url(#grad-030768-67)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(315)" onclick="this.style.fill = randomColor()" points="1530,39 1436,168 1284,118 1285,-41 1437,-90 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-68-6" class="pentagon" fill="url(#grad-030768-68)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(320)" onclick="this.style.fill = randomColor()" points="463,410 368,541 214,490 214,328 368,278 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-69-6" class="pentagon" fill="url(#grad-030768-69)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(325)" onclick="this.style.fill = randomColor()" points="436,560 340,693 183,642 183,477 340,426 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-70-6" class="pentagon" fill="url(#grad-030768-70)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(330)" onclick="this.style.fill = randomColor()" points="446,719 348,854 190,802 190,635 349,584 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-71-6" class="pentagon" fill="url(#grad-030768-71)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(335)" onclick="this.style.fill = randomColor()" points="1716,845 1617,982 1456,929 1456,760 1617,708 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-72-6" class="pentagon" fill="url(#grad-030768-72)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(340)" onclick="this.style.fill = randomColor()" points="501,876 400,1014 237,961 237,790 401,737 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-73-6" class="pentagon" fill="url(#grad-030768-73)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(345)" onclick="this.style.fill = randomColor()" points="1813,704 1711,844 1546,790 1546,616 1711,563 ">
+  </polygon>
+
+  <polygon id="pentagon-030768-74-6" class="pentagon" fill="url(#grad-030768-74)" stroke="#FF06" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" transform-origin="center center" transform="rotate(350)" onclick="this.style.fill = randomColor()" points="1878,540 1775,682 1607,628 1607,451 1775,397 ">
+  </polygon>
+
+</svg>
