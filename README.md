@@ -12,3 +12,10 @@ There's usually something unique about each file that can be reused in the futur
   <li>transform-origin="center bottom" sets the transform pivot point.</li>
 </ul>
 
+### svgenout
+<ul>
+  <li>output files from my SVGen project.</li>
+  <li>generally easy on the eyes as only the nice ones were saved.</li>
+  <li>depending on the file, a variety of filters are included.</li>
+  <li>depending on the file, some include cool shapes.</li>
+</ul>
