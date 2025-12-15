@@ -1,3 +1,5 @@
+![Sample output of my parametric SVG generator project](https://raw.githubusercontent.com/benmirkhah/svgdump/refs/heads/main/parametrix/svg-030768.svg)
+
 # SVG Dumpster
 
 I work on SVG files often so needed a repo to reference my previous creations.
