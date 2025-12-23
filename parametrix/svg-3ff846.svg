@@ -624,153 +624,46 @@
 <path d=" M 1676,724 L 1684,716 M 1684,724 L 1676,716" stroke="blue" class="grid"></path>
 <path d=" M 1676,724 L 1684,716 M 1684,724 L 1676,716" stroke="blue" class="grid"></path>
 <text fill="#FFFF0066" x="1676" y="734">21</text>
-<path d=" M 1310,484 L 1318,476 M 1318,484 L 1310,476" stroke="red" class="grid"></path>
-<path d=" M 1310,484 L 1318,476 M 1318,484 L 1310,476" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1310" y="494">1</text>
-<path d=" M 1298,577 L 1306,569 M 1306,577 L 1298,569" stroke="red" class="grid"></path>
-<path d=" M 1298,577 L 1306,569 M 1306,577 L 1298,569" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1298" y="587">2</text>
-<path d=" M 1262,664 L 1270,656 M 1270,664 L 1262,656" stroke="red" class="grid"></path>
-<path d=" M 1262,664 L 1270,656 M 1270,664 L 1262,656" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1262" y="674">3</text>
-<path d=" M 1205,738 L 1213,730 M 1213,738 L 1205,730" stroke="red" class="grid"></path>
-<path d=" M 1205,738 L 1213,730 M 1213,738 L 1205,730" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1205" y="748">4</text>
-<path d=" M 1130,795 L 1138,787 M 1138,795 L 1130,787" stroke="red" class="grid"></path>
-<path d=" M 1130,795 L 1138,787 M 1138,795 L 1130,787" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1130" y="805">5</text>
-<path d=" M 1044,831 L 1052,823 M 1052,831 L 1044,823" stroke="red" class="grid"></path>
-<path d=" M 1044,831 L 1052,823 M 1052,831 L 1044,823" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1044" y="841">6</text>
-<path d=" M 950,843 L 958,835 M 958,843 L 950,835" stroke="red" class="grid"></path>
-<path d=" M 950,843 L 958,835 M 958,843 L 950,835" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="950" y="853">7</text>
-<path d=" M 857,831 L 865,823 M 865,831 L 857,823" stroke="red" class="grid"></path>
-<path d=" M 857,831 L 865,823 M 865,831 L 857,823" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="857" y="841">8</text>
-<path d=" M 770,795 L 778,787 M 778,795 L 770,787" stroke="red" class="grid"></path>
-<path d=" M 770,795 L 778,787 M 778,795 L 770,787" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="770" y="805">9</text>
-<path d=" M 696,738 L 704,730 M 704,738 L 696,730" stroke="red" class="grid"></path>
-<path d=" M 696,738 L 704,730 M 704,738 L 696,730" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="696" y="748">10</text>
-<path d=" M 639,663 L 647,655 M 647,663 L 639,655" stroke="red" class="grid"></path>
-<path d=" M 639,663 L 647,655 M 647,663 L 639,655" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="639" y="673">11</text>
-<path d=" M 603,577 L 611,569 M 611,577 L 603,569" stroke="red" class="grid"></path>
-<path d=" M 603,577 L 611,569 M 611,577 L 603,569" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="603" y="587">12</text>
-<path d=" M 591,483 L 599,475 M 599,483 L 591,475" stroke="red" class="grid"></path>
-<path d=" M 591,483 L 599,475 M 599,483 L 591,475" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="591" y="493">13</text>
-<path d=" M 603,390 L 611,382 M 611,390 L 603,382" stroke="red" class="grid"></path>
-<path d=" M 603,390 L 611,382 M 611,390 L 603,382" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="603" y="400">14</text>
-<path d=" M 639,303 L 647,295 M 647,303 L 639,295" stroke="red" class="grid"></path>
-<path d=" M 639,303 L 647,295 M 647,303 L 639,295" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="639" y="313">15</text>
-<path d=" M 696,229 L 704,221 M 704,229 L 696,221" stroke="red" class="grid"></path>
-<path d=" M 696,229 L 704,221 M 704,229 L 696,221" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="696" y="239">16</text>
-<path d=" M 771,172 L 779,164 M 779,172 L 771,164" stroke="red" class="grid"></path>
-<path d=" M 771,172 L 779,164 M 779,172 L 771,164" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="771" y="182">17</text>
-<path d=" M 857,136 L 865,128 M 865,136 L 857,128" stroke="red" class="grid"></path>
-<path d=" M 857,136 L 865,128 M 865,136 L 857,128" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="857" y="146">18</text>
-<path d=" M 951,124 L 959,116 M 959,124 L 951,116" stroke="red" class="grid"></path>
-<path d=" M 951,124 L 959,116 M 959,124 L 951,116" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="951" y="134">19</text>
-<path d=" M 1044,136 L 1052,128 M 1052,136 L 1044,128" stroke="red" class="grid"></path>
-<path d=" M 1044,136 L 1052,128 M 1052,136 L 1044,128" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1044" y="146">20</text>
-<path d=" M 1131,172 L 1139,164 M 1139,172 L 1131,164" stroke="red" class="grid"></path>
-<path d=" M 1131,172 L 1139,164 M 1139,172 L 1131,164" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1131" y="182">21</text>
-<path d=" M 1205,229 L 1213,221 M 1213,229 L 1205,221" stroke="red" class="grid"></path>
-<path d=" M 1205,229 L 1213,221 M 1213,229 L 1205,221" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1205" y="239">22</text>
-<path d=" M 1262,304 L 1270,296 M 1270,304 L 1262,296" stroke="red" class="grid"></path>
-<path d=" M 1262,304 L 1270,296 M 1270,304 L 1262,296" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1262" y="314">23</text>
-<path d=" M 1298,390 L 1306,382 M 1306,390 L 1298,382" stroke="red" class="grid"></path>
-<path d=" M 1298,390 L 1306,382 M 1306,390 L 1298,382" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1298" y="400">24</text>
-<path d=" M 1144,484 L 1152,476 M 1152,484 L 1144,476" stroke="red" class="grid"></path>
-<path d=" M 1144,484 L 1152,476 M 1152,484 L 1144,476" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1144" y="494">1</text>
-<path d=" M 1118,584 L 1126,576 M 1126,584 L 1118,576" stroke="red" class="grid"></path>
-<path d=" M 1118,584 L 1126,576 M 1126,584 L 1118,576" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1118" y="594">2</text>
-<path d=" M 1044,657 L 1052,649 M 1052,657 L 1044,649" stroke="red" class="grid"></path>
-<path d=" M 1044,657 L 1052,649 M 1052,657 L 1044,649" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1044" y="667">3</text>
-<path d=" M 944,683 L 952,675 M 952,683 L 944,675" stroke="red" class="grid"></path>
-<path d=" M 944,683 L 952,675 M 952,683 L 944,675" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="944" y="693">4</text>
-<path d=" M 844,657 L 852,649 M 852,657 L 844,649" stroke="red" class="grid"></path>
-<path d=" M 844,657 L 852,649 M 852,657 L 844,649" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="844" y="667">5</text>
-<path d=" M 771,583 L 779,575 M 779,583 L 771,575" stroke="red" class="grid"></path>
-<path d=" M 771,583 L 779,575 M 779,583 L 771,575" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="771" y="593">6</text>
-<path d=" M 745,483 L 753,475 M 753,483 L 745,475" stroke="red" class="grid"></path>
-<path d=" M 745,483 L 753,475 M 753,483 L 745,475" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="745" y="493">7</text>
-<path d=" M 771,383 L 779,375 M 779,383 L 771,375" stroke="red" class="grid"></path>
-<path d=" M 771,383 L 779,375 M 779,383 L 771,375" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="771" y="393">8</text>
-<path d=" M 845,310 L 853,302 M 853,310 L 845,302" stroke="red" class="grid"></path>
-<path d=" M 845,310 L 853,302 M 853,310 L 845,302" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="845" y="320">9</text>
-<path d=" M 945,284 L 953,276 M 953,284 L 945,276" stroke="red" class="grid"></path>
-<path d=" M 945,284 L 953,276 M 953,284 L 945,276" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="945" y="294">10</text>
-<path d=" M 1045,310 L 1053,302 M 1053,310 L 1045,302" stroke="red" class="grid"></path>
-<path d=" M 1045,310 L 1053,302 M 1053,310 L 1045,302" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1045" y="320">11</text>
-<path d=" M 1118,384 L 1126,376 M 1126,384 L 1118,376" stroke="red" class="grid"></path>
-<path d=" M 1118,384 L 1126,376 M 1126,384 L 1118,376" stroke="red" class="grid"></path>
-<text fill="#FFFF0066" x="1118" y="394">12</text>
-<rect id="3ff846-1" x="1201" y="472" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-1)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(45) skewX(0) skewY(0) " transform-origin="center center" class="square cx1209 cy480"></rect>
-<rect id="3ff846-2" x="1163" y="506" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-2)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(60) skewX(0) skewY(0) " transform-origin="center center" class="square cx1201 cy544"></rect>
-<rect id="3ff846-3" x="1168" y="597" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-3)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(75) skewX(0) skewY(0) " transform-origin="center center" class="square cx1176 cy605"></rect>
-<rect id="3ff846-4" x="1098" y="618" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-4)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(90) skewX(0) skewY(0) " transform-origin="center center" class="square cx1136 cy656"></rect>
-<rect id="3ff846-5" x="1076" y="688" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-5)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(105) skewX(0) skewY(0) " transform-origin="center center" class="square cx1084 cy696"></rect>
-<rect id="3ff846-6" x="986" y="683" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-6)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(120) skewX(0) skewY(0) " transform-origin="center center" class="square cx1024 cy721"></rect>
-<rect id="3ff846-7" x="951" y="721" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-7)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(135) skewX(0) skewY(0) " transform-origin="center center" class="square cx959 cy729"></rect>
-<rect id="3ff846-8" x="857" y="683" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-8)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(150) skewX(0) skewY(0) " transform-origin="center center" class="square cx895 cy721"></rect>
-<rect id="3ff846-9" x="826" y="688" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-9)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(165) skewX(0) skewY(0) " transform-origin="center center" class="square cx834 cy696"></rect>
-<rect id="3ff846-10" x="745" y="618" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-10)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(180) skewX(0) skewY(0) " transform-origin="center center" class="square cx783 cy656"></rect>
-<rect id="3ff846-11" x="735" y="596" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-11)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(195) skewX(0) skewY(0) " transform-origin="center center" class="square cx743 cy604"></rect>
-<rect id="3ff846-12" x="680" y="506" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-12)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(210) skewX(0) skewY(0) " transform-origin="center center" class="square cx718 cy544"></rect>
-<rect id="3ff846-13" x="702" y="471" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-13)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(225) skewX(0) skewY(0) " transform-origin="center center" class="square cx710 cy479"></rect>
-<rect id="3ff846-14" x="680" y="377" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-14)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(240) skewX(0) skewY(0) " transform-origin="center center" class="square cx718 cy415"></rect>
-<rect id="3ff846-15" x="735" y="346" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-15)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(255) skewX(0) skewY(0) " transform-origin="center center" class="square cx743 cy354"></rect>
-<rect id="3ff846-16" x="745" y="265" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-16)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(270) skewX(0) skewY(0) " transform-origin="center center" class="square cx783 cy303"></rect>
-<rect id="3ff846-17" x="827" y="255" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-17)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(285) skewX(0) skewY(0) " transform-origin="center center" class="square cx835 cy263"></rect>
-<rect id="3ff846-18" x="857" y="200" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-18)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(300) skewX(0) skewY(0) " transform-origin="center center" class="square cx895 cy238"></rect>
-<rect id="3ff846-19" x="952" y="222" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-19)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(315) skewX(0) skewY(0) " transform-origin="center center" class="square cx960 cy230"></rect>
-<rect id="3ff846-20" x="986" y="200" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-20)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(330) skewX(0) skewY(0) " transform-origin="center center" class="square cx1024 cy238"></rect>
+<rect id="3ff846-bx" x="0"    y="0"                 width="1920" height="957" fill="#222222FF"></rect>
+<rect id="3ff846-1"  x="1201" y="472" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-1)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(45) skewX(0) skewY(0) " transform-origin="center center" class="square cx1209 cy480"></rect>
+<rect id="3ff846-2"  x="1163" y="506" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-2)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(60) skewX(0) skewY(0) " transform-origin="center center" class="square cx1201 cy544"></rect>
+<rect id="3ff846-3"  x="1168" y="597" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-3)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(75) skewX(0) skewY(0) " transform-origin="center center" class="square cx1176 cy605"></rect>
+<rect id="3ff846-4"  x="1098" y="618" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-4)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(90) skewX(0) skewY(0) " transform-origin="center center" class="square cx1136 cy656"></rect>
+<rect id="3ff846-5"  x="1076" y="688" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-5)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(105) skewX(0) skewY(0) " transform-origin="center center" class="square cx1084 cy696"></rect>
+<rect id="3ff846-6"  x="986"  y="683" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-6)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(120) skewX(0) skewY(0) " transform-origin="center center" class="square cx1024 cy721"></rect>
+<rect id="3ff846-7"  x="951"  y="721" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-7)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(135) skewX(0) skewY(0) " transform-origin="center center" class="square cx959 cy729"></rect>
+<rect id="3ff846-8"  x="857"  y="683" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-8)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(150) skewX(0) skewY(0) " transform-origin="center center" class="square cx895 cy721"></rect>
+<rect id="3ff846-9"  x="826"  y="688" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-9)"  stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(165) skewX(0) skewY(0) " transform-origin="center center" class="square cx834 cy696"></rect>
+<rect id="3ff846-10" x="745"  y="618" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-10)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(180) skewX(0) skewY(0) " transform-origin="center center" class="square cx783 cy656"></rect>
+<rect id="3ff846-11" x="735"  y="596" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-11)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(195) skewX(0) skewY(0) " transform-origin="center center" class="square cx743 cy604"></rect>
+<rect id="3ff846-12" x="680"  y="506" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-12)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(210) skewX(0) skewY(0) " transform-origin="center center" class="square cx718 cy544"></rect>
+<rect id="3ff846-13" x="702"  y="471" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-13)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(225) skewX(0) skewY(0) " transform-origin="center center" class="square cx710 cy479"></rect>
+<rect id="3ff846-14" x="680"  y="377" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-14)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(240) skewX(0) skewY(0) " transform-origin="center center" class="square cx718 cy415"></rect>
+<rect id="3ff846-15" x="735"  y="346" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-15)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(255) skewX(0) skewY(0) " transform-origin="center center" class="square cx743 cy354"></rect>
+<rect id="3ff846-16" x="745"  y="265" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-16)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(270) skewX(0) skewY(0) " transform-origin="center center" class="square cx783 cy303"></rect>
+<rect id="3ff846-17" x="827"  y="255" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-17)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(285) skewX(0) skewY(0) " transform-origin="center center" class="square cx835 cy263"></rect>
+<rect id="3ff846-18" x="857"  y="200" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-18)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(300) skewX(0) skewY(0) " transform-origin="center center" class="square cx895 cy238"></rect>
+<rect id="3ff846-19" x="952"  y="222" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-19)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(315) skewX(0) skewY(0) " transform-origin="center center" class="square cx960 cy230"></rect>
+<rect id="3ff846-20" x="986"  y="200" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-20)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(330) skewX(0) skewY(0) " transform-origin="center center" class="square cx1024 cy238"></rect>
 <rect id="3ff846-21" x="1077" y="255" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-21)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(345) skewX(0) skewY(0) " transform-origin="center center" class="square cx1085 cy263"></rect>
 <rect id="3ff846-22" x="1098" y="265" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-22)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(360) skewX(0) skewY(0) " transform-origin="center center" class="square cx1136 cy303"></rect>
 <rect id="3ff846-23" x="1168" y="347" rx="5" ry="5" width="16" height="16" fill="url(#grad-3ff846-23)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(375) skewX(0) skewY(0) " transform-origin="center center" class="square cx1176 cy355"></rect>
 <rect id="3ff846-24" x="1163" y="377" rx="5" ry="5" width="76" height="76" fill="url(#grad-3ff846-24)" stroke="#ed2465ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.25" onclick="this.style.fill = RC(sunset)" transform="rotate(390) skewX(0) skewY(0) " transform-origin="center center" class="square cx1201 cy415"></rect>
 <circle id="3ff846-25" r="15" cx="1026" cy="480" fill="url(#grad-3ff846-25)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
 <circle id="3ff846-26" r="25" cx="1007" cy="527" fill="url(#grad-3ff846-26)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-27" r="15" cx="959" cy="546" fill="url(#grad-3ff846-27)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-28" r="25" cx="912" cy="527" fill="url(#grad-3ff846-28)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-29" r="15" cx="893" cy="479" fill="url(#grad-3ff846-29)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-30" r="25" cx="912" cy="432" fill="url(#grad-3ff846-30)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-31" r="15" cx="960" cy="413" fill="url(#grad-3ff846-31)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-27" r="15" cx="959"  cy="546" fill="url(#grad-3ff846-27)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-28" r="25" cx="912"  cy="527" fill="url(#grad-3ff846-28)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-29" r="15" cx="893"  cy="479" fill="url(#grad-3ff846-29)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-30" r="25" cx="912"  cy="432" fill="url(#grad-3ff846-30)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-31" r="15" cx="960"  cy="413" fill="url(#grad-3ff846-31)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
 <circle id="3ff846-32" r="25" cx="1007" cy="432" fill="url(#grad-3ff846-32)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
 <circle id="3ff846-33" r="15" cx="1093" cy="480" fill="url(#grad-3ff846-33)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
 <circle id="3ff846-34" r="25" cx="1054" cy="574" fill="url(#grad-3ff846-34)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-35" r="15" cx="959" cy="613" fill="url(#grad-3ff846-35)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-36" r="25" cx="865" cy="574" fill="url(#grad-3ff846-36)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-37" r="15" cx="826" cy="479" fill="url(#grad-3ff846-37)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-38" r="25" cx="865" cy="385" fill="url(#grad-3ff846-38)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
-<circle id="3ff846-39" r="15" cx="960" cy="346" fill="url(#grad-3ff846-39)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-35" r="15" cx="959"  cy="613" fill="url(#grad-3ff846-35)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-36" r="25" cx="865"  cy="574" fill="url(#grad-3ff846-36)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-37" r="15" cx="826"  cy="479" fill="url(#grad-3ff846-37)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-38" r="25" cx="865"  cy="385" fill="url(#grad-3ff846-38)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
+<circle id="3ff846-39" r="15" cx="960"  cy="346" fill="url(#grad-3ff846-39)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
 <circle id="3ff846-40" r="25" cx="1054" cy="385" fill="url(#grad-3ff846-40)" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5" transform="skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)"></circle>
 <polygon id="3ff846-41-5" class="pentagon" fill="url(#grad-3ff846-41)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(-36) skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="1393,480 1338,556 1249,526 1249,432 1338,403 "></polygon>
 <polygon id="3ff846-42-6" class="pentagon" fill="url(#grad-3ff846-42)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(-21) skewX(56) skewY(-85) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="1321,573 1308,592 1285,584 1285,561 1308,553 "></polygon>
@@ -782,7 +675,7 @@
 <polygon id="3ff846-48-6" class="pentagon" fill="url(#grad-3ff846-48)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(69) skewX(56) skewY(-85) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="880,827 867,846 844,838 844,815 867,807 "></polygon>
 <polygon id="3ff846-49-6" class="pentagon" fill="url(#grad-3ff846-49)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(84) skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="853,791 798,867 709,837 709,743 798,714 "></polygon>
 <polygon id="3ff846-50-6" class="pentagon" fill="url(#grad-3ff846-50)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(99) skewX(56) skewY(-85) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="719,734 706,753 683,745 683,722 706,714 "></polygon>
-<polygon id="3ff846-51-6" class="pentagon" fill="url(#grad-3ff846-51)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(114) skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="722,659 667,735 578,705 578,611 667,582 "></polygon>
+<polygon id="3ff846-51-6" class="pentagon" fill="url(#grad-3ff846-3)"  stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(114) skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="722,659 667,735 578,705 578,611 667,582 "></polygon>
 <polygon id="3ff846-52-6" class="pentagon" fill="url(#grad-3ff846-52)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(129) skewX(56) skewY(-85) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="626,573 613,592 590,584 590,561 613,553 "></polygon>
 <polygon id="3ff846-53-6" class="pentagon" fill="url(#grad-3ff846-53)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(144) skewX(0) skewY(0) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="674,479 619,555 530,525 530,431 619,402 "></polygon>
 <polygon id="3ff846-54-6" class="pentagon" fill="url(#grad-3ff846-54)" stroke="#bd2df1ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.35" transform="rotate(159) skewX(56) skewY(-85) " transform-origin="center center" onclick="this.style.fill = RC(sunset)" points="626,386 613,405 590,397 590,374 613,366 "></polygon>
